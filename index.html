@@ -1,0 +1,848 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Human + Banking + Tech Navigator</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg:         #07101f;
+      --surface:    #0d1b30;
+      --card-bg:    #0f2040;
+      --accent:     #c8a84b;
+      --accent-dim: #7a6530;
+      --blue:       #4a90d9;
+      --text:       #e2e8f0;
+      --muted:      #6b7fa3;
+      --border:     #1a2d4a;
+      --radius:     10px;
+      --max-w:      1200px;
+    }
+
+    html { scroll-behavior: smooth; }
+    body { font-family: Tahoma, Geneva, Verdana, sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; }
+
+    /* ── NAV ── */
+    nav {
+      position: fixed; top: 0; left: 0; right: 0; z-index: 100;
+      background: rgba(7,16,31,0.96); backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--border);
+      padding: 0.85rem 1.5rem;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .nav-logo { font-size: 0.8rem; font-weight: bold; color: var(--accent); letter-spacing: 0.08em; text-transform: uppercase; }
+    .nav-right { display: flex; align-items: center; gap: 1.5rem; }
+    .nav-links { display: flex; gap: 1.5rem; }
+    .nav-links a { color: var(--muted); text-decoration: none; font-size: 0.78rem; letter-spacing: 0.05em; text-transform: uppercase; transition: color 0.2s; }
+    .nav-links a:hover { color: var(--accent); }
+    #lang-toggle { display: flex; gap: 0.3rem; }
+    #lang-toggle button { background: transparent; border: 1px solid var(--accent-dim); color: var(--muted); font-size: 0.72rem; padding: 0.22rem 0.55rem; border-radius: 4px; cursor: pointer; transition: all 0.2s; font-family: inherit; }
+    #lang-toggle button.active, #lang-toggle button:hover { background: var(--accent); color: #000; border-color: var(--accent); }
+
+    /* ── HERO ── */
+    #hero {
+      min-height: 100vh; display: flex; flex-direction: column; align-items: center;
+      justify-content: center; text-align: center; padding: 7rem 1.5rem 5rem;
+      position: relative; overflow: hidden;
+      background: radial-gradient(ellipse at 15% 60%, rgba(74,144,217,0.08) 0%, transparent 55%),
+                  radial-gradient(ellipse at 85% 25%, rgba(200,168,75,0.07) 0%, transparent 50%), var(--bg);
+    }
+    #hero::before {
+      content: ""; position: absolute; inset: 0; pointer-events: none;
+      background-image: linear-gradient(rgba(26,45,74,0.25) 1px, transparent 1px), linear-gradient(90deg, rgba(26,45,74,0.25) 1px, transparent 1px);
+      background-size: 55px 55px;
+    }
+    .hero-eyebrow { font-size: 0.72rem; letter-spacing: 0.22em; text-transform: uppercase; color: var(--accent); margin-bottom: 1.5rem; position: relative; }
+    .hero-question { font-size: clamp(2rem, 5vw, 3.6rem); font-weight: bold; line-height: 1.2; color: var(--text); max-width: 820px; position: relative; }
+    .hero-question em { color: var(--accent); font-style: normal; }
+    .hero-sub { margin-top: 1.4rem; font-size: 1rem; color: var(--muted); max-width: 560px; line-height: 1.75; position: relative; }
+    .hero-stats { display: flex; gap: 2rem; margin-top: 2.5rem; flex-wrap: wrap; justify-content: center; position: relative; }
+    .stat { display: flex; flex-direction: column; align-items: center; gap: 0.3rem; min-width: 120px; }
+    .stat-num { font-size: 2rem; font-weight: bold; color: var(--accent); line-height: 1; }
+    .stat-label { font-size: 0.7rem; color: var(--muted); text-align: center; line-height: 1.4; max-width: 140px; }
+    .stat-source { font-size: 0.62rem; color: var(--accent-dim); text-decoration: none; transition: color 0.2s; }
+    .stat-source:hover { color: var(--accent); text-decoration: underline; }
+    .stats-divider { width: 1px; background: var(--border); align-self: stretch; }
+    .hero-pillars { display: flex; gap: 0.7rem; margin-top: 2.2rem; flex-wrap: wrap; justify-content: center; position: relative; }
+    .hero-pill { background: rgba(200,168,75,0.1); border: 1px solid var(--accent-dim); color: var(--accent); padding: 0.35rem 0.9rem; border-radius: 20px; font-size: 0.76rem; letter-spacing: 0.04em; }
+    .hero-cta { margin-top: 2.2rem; display: flex; gap: 1rem; flex-wrap: wrap; justify-content: center; position: relative; }
+    .btn-primary { background: var(--accent); color: #000; border: none; padding: 0.8rem 1.8rem; border-radius: 6px; font-size: 0.88rem; font-weight: bold; cursor: pointer; letter-spacing: 0.04em; text-decoration: none; transition: opacity 0.2s; display: inline-block; font-family: inherit; }
+    .btn-primary:hover { opacity: 0.82; }
+    .btn-ghost { background: transparent; color: var(--muted); border: 1px solid var(--border); padding: 0.8rem 1.8rem; border-radius: 6px; font-size: 0.88rem; cursor: pointer; letter-spacing: 0.04em; text-decoration: none; transition: all 0.2s; display: inline-block; font-family: inherit; }
+    .btn-ghost:hover { border-color: var(--accent); color: var(--accent); }
+    .hero-scroll { position: absolute; bottom: 2rem; left: 50%; transform: translateX(-50%); color: var(--muted); font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; display: flex; flex-direction: column; align-items: center; gap: 0.4rem; animation: float 2.5s ease-in-out infinite; text-decoration: none; }
+    @keyframes float { 0%,100%{transform:translateX(-50%) translateY(0);opacity:.6} 50%{transform:translateX(-50%) translateY(7px);opacity:1} }
+
+    /* ── LAYOUT ── */
+    .section-divider { height: 1px; background: linear-gradient(90deg, transparent, var(--border), transparent); }
+    .section-wrap { padding: 5rem 1.5rem; }
+    .section-inner { max-width: var(--max-w); margin: 0 auto; }
+    .section-eyebrow { font-size: 0.7rem; letter-spacing: 0.22em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.55rem; }
+    .section-title { font-size: clamp(1.4rem, 2.5vw, 1.9rem); font-weight: bold; color: var(--text); }
+    .section-desc { margin-top: 0.45rem; color: var(--muted); font-size: 0.88rem; max-width: 580px; line-height: 1.65; }
+    .section-header { margin-bottom: 2.5rem; }
+
+    .live-badge { display: inline-flex; align-items: center; gap: 0.4rem; background: rgba(74,144,217,0.1); border: 1px solid rgba(74,144,217,0.3); color: var(--blue); padding: 0.2rem 0.6rem; border-radius: 20px; font-size: 0.68rem; letter-spacing: 0.08em; text-transform: uppercase; margin-left: 0.8rem; vertical-align: middle; }
+    .live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--blue); animation: pulse 1.8s ease-in-out infinite; }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+
+    /* ── SUBSECTION ── */
+    .subsection { margin-top: 3.5rem; padding-top: 3rem; border-top: 1px solid var(--border); }
+    .subsection-eyebrow { font-size: 0.68rem; letter-spacing: 0.2em; text-transform: uppercase; color: var(--blue); margin-bottom: 0.45rem; }
+    .subsection-title { font-size: 1.25rem; font-weight: bold; color: var(--text); margin-bottom: 0.35rem; }
+    .subsection-desc { font-size: 0.85rem; color: var(--muted); max-width: 580px; line-height: 1.6; margin-bottom: 1.8rem; }
+
+    /* ── SIGNAL BOARD ── */
+    #signal-board { background: var(--surface); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
+    #search-wrap { margin-bottom: 1.8rem; }
+    #search { width: 100%; padding: 0.65rem 1rem; background: var(--card-bg); border: 1px solid var(--border); border-radius: 6px; color: var(--text); font-size: 0.9rem; outline: none; transition: border-color 0.2s; font-family: inherit; }
+    #search:focus { border-color: var(--accent-dim); }
+    #search::placeholder { color: var(--muted); }
+
+    /* ── CÓMO PREPARARME ── */
+    #como-prepararme { background: var(--bg); }
+
+    /* ── LIDERAZGO CON IA ── */
+    #liderazgo-ia { background: var(--surface); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); }
+
+    /* ── CAROUSEL ── */
+    .cat-section { margin-bottom: 3rem; }
+    .cat-header { display: flex; align-items: flex-start; justify-content: space-between; margin-bottom: 1rem; gap: 1rem; }
+    .cat-label { display: flex; align-items: flex-start; gap: 0.7rem; }
+    .cat-icon { width: 2.2rem; height: 2.2rem; background: rgba(200,168,75,0.1); border: 1px solid var(--accent-dim); border-radius: 7px; display: flex; align-items: center; justify-content: center; font-size: 1rem; flex-shrink: 0; }
+    .cat-meta h3 { font-size: 0.98rem; color: var(--text); font-weight: bold; line-height: 1.3; }
+    .cat-meta p { font-size: 0.76rem; color: var(--muted); margin-top: 0.2rem; line-height: 1.4; }
+    .pillar-tag { display: inline-block; background: rgba(74,144,217,0.1); border: 1px solid rgba(74,144,217,0.25); color: var(--blue); padding: 0.15rem 0.55rem; border-radius: 4px; font-size: 0.65rem; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.3rem; }
+    .cat-controls { display: flex; gap: 0.3rem; flex-shrink: 0; }
+    .cat-controls button { background: var(--card-bg); color: var(--accent); border: 1px solid var(--border); border-radius: 6px; width: 2rem; height: 2rem; font-size: 0.9rem; cursor: pointer; transition: all 0.18s; display: flex; align-items: center; justify-content: center; }
+    .cat-controls button:hover { background: var(--accent); color: #000; border-color: var(--accent); }
+    .carousel-track { display: flex; gap: 1rem; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: thin; scrollbar-color: var(--border) transparent; padding-bottom: 0.5rem; }
+    .carousel-track::-webkit-scrollbar { height: 4px; }
+    .carousel-track::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+    .card { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.15rem 1.2rem; display: flex; flex-direction: column; gap: 0.5rem; min-width: 275px; max-width: 275px; scroll-snap-align: start; flex-shrink: 0; transition: border-color 0.18s, box-shadow 0.18s; }
+    .card:hover { border-color: var(--accent-dim); box-shadow: 0 0 24px rgba(200,168,75,0.1); }
+    .card-source { font-size: 0.67rem; font-weight: bold; letter-spacing: 0.09em; text-transform: uppercase; color: var(--accent); }
+    .card-source a { color: inherit; text-decoration: none; }
+    .card-source a:hover { text-decoration: underline; }
+    .card-title { font-size: 0.9rem; font-weight: bold; line-height: 1.45; }
+    .card-title a { color: var(--text); text-decoration: none; }
+    .card-title a:hover { color: var(--accent); }
+    .card-desc { font-size: 0.78rem; color: var(--muted); line-height: 1.55; flex: 1; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .card-date { font-size: 0.66rem; color: #2d4060; margin-top: auto; }
+    .no-results { color: var(--muted); font-size: 0.85rem; padding: 0.8rem 0; }
+
+    /* ── GLOSARIO ── */
+    .glosario-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(255px, 1fr)); gap: 1rem; }
+    .glos-card { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.1rem 1.2rem; display: flex; flex-direction: column; gap: 0.5rem; transition: border-color 0.18s; }
+    .glos-card:hover { border-color: var(--accent-dim); }
+    .glos-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 0.5rem; }
+    .glos-term { font-size: 0.95rem; font-weight: bold; color: var(--accent); }
+    .glos-tag { font-size: 0.6rem; font-weight: bold; letter-spacing: 0.07em; text-transform: uppercase; padding: 0.18rem 0.5rem; border-radius: 4px; white-space: nowrap; flex-shrink: 0; }
+    .glos-def { font-size: 0.79rem; color: var(--muted); line-height: 1.55; }
+    .tag-riesgo    { background: rgba(200,75,75,0.15);   color: #e07070; border: 1px solid rgba(200,75,75,0.3); }
+    .tag-adopcion  { background: rgba(74,144,217,0.15);  color: #4a90d9; border: 1px solid rgba(74,144,217,0.3); }
+    .tag-regulacion{ background: rgba(139,75,200,0.15);  color: #a06ad9; border: 1px solid rgba(139,75,200,0.3); }
+    .tag-tecnologia{ background: rgba(75,200,160,0.15);  color: #4bc8a0; border: 1px solid rgba(75,200,160,0.3); }
+    .tag-habilidad { background: rgba(200,168,75,0.15);  color: var(--accent); border: 1px solid var(--accent-dim); }
+    .tag-operaciones{ background: rgba(107,127,163,0.15);color: #8a9fc0; border: 1px solid rgba(107,127,163,0.3); }
+
+    /* ── PREGUNTAS ── */
+    .preguntas-list { display: flex; flex-direction: column; gap: 0.65rem; max-width: 800px; }
+    .pregunta-item { display: flex; align-items: flex-start; gap: 1rem; background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 0.95rem 1.2rem; transition: border-color 0.18s; }
+    .pregunta-item:hover { border-color: var(--accent-dim); }
+    .pregunta-num { font-size: 1rem; font-weight: bold; color: var(--accent); min-width: 1.4rem; line-height: 1.55; }
+    .pregunta-text { font-size: 0.87rem; color: var(--text); line-height: 1.55; }
+
+    /* ── RETOS ── */
+    .retos-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 1rem; margin-bottom: 0; }
+    .reto-card { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.3rem; display: flex; flex-direction: column; gap: 0.55rem; transition: border-color 0.18s, box-shadow 0.18s; }
+    .reto-card:hover { border-color: var(--accent-dim); box-shadow: 0 0 20px rgba(200,168,75,0.08); }
+    .reto-icon { font-size: 1.4rem; }
+    .reto-title { font-size: 0.95rem; font-weight: bold; color: var(--text); }
+    .reto-desc { font-size: 0.79rem; color: var(--muted); line-height: 1.55; }
+
+    /* ── PARADIGMAS ── */
+    .paradigmas-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 1rem; }
+    .paradigma-card { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.3rem; display: flex; flex-direction: column; gap: 0.55rem; transition: border-color 0.18s; }
+    .paradigma-card:hover { border-color: var(--accent-dim); }
+    .paradigma-from { font-size: 0.76rem; color: #3d5270; text-decoration: line-through; }
+    .paradigma-to { font-size: 0.98rem; font-weight: bold; color: var(--accent); }
+    .paradigma-desc { font-size: 0.79rem; color: var(--muted); line-height: 1.55; }
+
+    /* ── LIDER ALGORITMICO ── */
+    .lider-def { background: linear-gradient(135deg, rgba(200,168,75,0.07), rgba(74,144,217,0.04)); border: 1px solid var(--accent-dim); border-radius: var(--radius); padding: 1.8rem 2rem; margin-bottom: 2rem; }
+    .lider-def-label { font-size: 0.68rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--accent); margin-bottom: 0.6rem; }
+    .lider-def-text { font-size: 0.95rem; color: var(--text); line-height: 1.75; max-width: 720px; }
+
+    /* ── COMPETENCIAS ── */
+    .competencias-track { display: flex; gap: 1rem; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: thin; scrollbar-color: var(--border) transparent; padding-bottom: 0.5rem; margin-bottom: 2.5rem; }
+    .competencias-track::-webkit-scrollbar { height: 4px; }
+    .competencias-track::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
+    .comp-card { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.3rem; display: flex; flex-direction: column; gap: 0.5rem; min-width: 220px; max-width: 220px; scroll-snap-align: start; flex-shrink: 0; transition: border-color 0.18s; }
+    .comp-card:hover { border-color: var(--accent-dim); }
+    .comp-num { font-size: 1.4rem; font-weight: bold; color: rgba(200,168,75,0.25); line-height: 1; }
+    .comp-title { font-size: 0.9rem; font-weight: bold; color: var(--accent); }
+    .comp-desc { font-size: 0.78rem; color: var(--muted); line-height: 1.55; }
+
+    /* ── ROLES ── */
+    .roles-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(290px, 1fr)); gap: 1rem; margin-bottom: 2.5rem; }
+    .role-card { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.2rem; display: flex; flex-direction: column; gap: 0.5rem; transition: border-color 0.18s; }
+    .role-card:hover { border-color: var(--accent-dim); }
+    .role-header { display: flex; align-items: center; gap: 0.6rem; }
+    .role-icon { font-size: 1.1rem; }
+    .role-badge { font-size: 0.74rem; font-weight: bold; color: #000; background: var(--accent); padding: 0.18rem 0.6rem; border-radius: 4px; }
+    .role-challenge { font-size: 0.76rem; color: var(--muted); font-style: italic; line-height: 1.45; }
+    .role-action-label { font-size: 0.63rem; font-weight: bold; letter-spacing: 0.08em; text-transform: uppercase; color: var(--blue); margin-top: 0.2rem; }
+    .role-action { font-size: 0.82rem; color: var(--text); line-height: 1.55; }
+
+    /* ── KIT ── */
+    .kit-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 1rem; }
+    .kit-card { background: var(--card-bg); border: 1px solid var(--border); border-radius: var(--radius); padding: 1.2rem; display: flex; flex-direction: column; gap: 0.65rem; transition: border-color 0.18s; }
+    .kit-card:hover { border-color: var(--accent-dim); }
+    .kit-title { font-size: 0.92rem; font-weight: bold; color: var(--text); }
+    .kit-desc { font-size: 0.78rem; color: var(--muted); line-height: 1.5; flex: 1; }
+    .kit-tools { display: flex; flex-wrap: wrap; gap: 0.4rem; margin-top: auto; }
+    .kit-tool { font-size: 0.71rem; font-weight: bold; color: var(--accent); background: rgba(200,168,75,0.08); border: 1px solid var(--accent-dim); border-radius: 4px; padding: 0.22rem 0.55rem; text-decoration: none; transition: all 0.18s; }
+    .kit-tool:hover { background: var(--accent); color: #000; border-color: var(--accent); }
+
+    /* ── FOOTER ── */
+    footer { background: var(--surface); border-top: 1px solid var(--border); text-align: center; padding: 2.5rem 1rem; }
+    .footer-logo { font-size: 0.85rem; font-weight: bold; color: var(--accent); letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.5rem; }
+    footer p { font-size: 0.76rem; color: var(--muted); }
+    footer a { color: var(--accent); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+
+    /* ── RESPONSIVE ── */
+    @media (max-width: 640px) {
+      .nav-links { display: none; }
+      .hero-question { font-size: 1.85rem; }
+      .stats-divider { display: none; }
+      .hero-stats { gap: 1.2rem; }
+      .card { min-width: 250px; max-width: 250px; }
+      .section-wrap { padding: 3.5rem 1rem; }
+      .lider-def { padding: 1.3rem; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- NAV -->
+<nav>
+  <div class="nav-logo">H+B+T Navigator</div>
+  <div class="nav-right">
+    <div class="nav-links">
+      <a href="#signal-board" id="nav-signal">Signal Board</a>
+      <a href="#como-prepararme" id="nav-prepare"></a>
+      <a href="#liderazgo-ia" id="nav-liderazgo"></a>
+    </div>
+    <div id="lang-toggle">
+      <button id="btn-en" onclick="setLang('en')">EN</button>
+      <button id="btn-es" onclick="setLang('es')">ES</button>
+    </div>
+  </div>
+</nav>
+
+<!-- HERO -->
+<section id="hero">
+  <div class="hero-eyebrow" id="hero-eyebrow"></div>
+  <h1 class="hero-question" id="hero-question"></h1>
+  <p class="hero-sub" id="hero-sub"></p>
+  <div class="hero-stats" id="hero-stats"></div>
+  <div class="hero-pillars">
+    <span class="hero-pill" id="pill-1"></span>
+    <span class="hero-pill" id="pill-2"></span>
+    <span class="hero-pill" id="pill-3"></span>
+  </div>
+  <div class="hero-cta">
+    <a href="#signal-board"     class="btn-primary" id="cta-primary"></a>
+    <a href="#como-prepararme"  class="btn-ghost"   id="cta-ghost"></a>
+  </div>
+  <a href="#signal-board" class="hero-scroll">
+    <span id="scroll-label"></span><span>↓</span>
+  </a>
+</section>
+
+<div class="section-divider"></div>
+
+<!-- SIGNAL BOARD -->
+<div id="signal-board">
+  <div class="section-wrap">
+    <div class="section-inner">
+      <div class="section-header">
+        <div class="section-eyebrow" id="sb-eyebrow"></div>
+        <h2 class="section-title">
+          <span id="sb-title"></span>
+          <span class="live-badge"><span class="live-dot"></span><span id="live-text"></span></span>
+        </h2>
+        <p class="section-desc" id="sb-desc"></p>
+      </div>
+      <div id="search-wrap"><input type="search" id="search" oninput="renderAll()" /></div>
+      <div id="signal-categories"></div>
+    </div>
+  </div>
+</div>
+
+<div class="section-divider"></div>
+
+<!-- CÓMO PREPARARME -->
+<div id="como-prepararme">
+  <div class="section-wrap">
+    <div class="section-inner">
+      <div class="section-header">
+        <div class="section-eyebrow" id="cp-eyebrow"></div>
+        <h2 class="section-title" id="cp-title"></h2>
+        <p class="section-desc" id="cp-desc"></p>
+      </div>
+      <div id="pillar-categories"></div>
+
+      <!-- Glosario -->
+      <div class="subsection">
+        <div class="subsection-eyebrow" id="glos-eyebrow"></div>
+        <div class="subsection-title" id="glos-title"></div>
+        <div class="subsection-desc" id="glos-desc"></div>
+        <div class="glosario-grid" id="glosario-grid"></div>
+      </div>
+
+      <!-- Preguntas -->
+      <div class="subsection">
+        <div class="subsection-eyebrow" id="preg-eyebrow"></div>
+        <div class="subsection-title" id="preg-title"></div>
+        <div class="subsection-desc" id="preg-desc"></div>
+        <div class="preguntas-list" id="preguntas-list"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section-divider"></div>
+
+<!-- LIDERAZGO CON IA -->
+<div id="liderazgo-ia">
+  <div class="section-wrap">
+    <div class="section-inner">
+      <div class="section-header">
+        <div class="section-eyebrow" id="lia-eyebrow"></div>
+        <h2 class="section-title" id="lia-title"></h2>
+        <p class="section-desc" id="lia-desc"></p>
+      </div>
+
+      <!-- Retos -->
+      <div class="subsection-eyebrow" id="retos-eyebrow"></div>
+      <div class="subsection-title" id="retos-title" style="margin-bottom:0.35rem;font-size:1.15rem;font-weight:bold;color:var(--text)"></div>
+      <div class="subsection-desc" id="retos-desc"></div>
+      <div class="retos-grid" id="retos-grid"></div>
+
+      <!-- Paradigmas -->
+      <div class="subsection">
+        <div class="subsection-title" id="para-title" style="margin-bottom:1.4rem"></div>
+        <div class="paradigmas-grid" id="paradigmas-grid"></div>
+      </div>
+
+      <!-- Líder Algorítmico -->
+      <div class="subsection">
+        <div class="subsection-eyebrow" id="lider-eyebrow"></div>
+        <div class="subsection-title" id="lider-title" style="margin-bottom:1.2rem"></div>
+        <div class="lider-def">
+          <div class="lider-def-label" id="lider-def-label"></div>
+          <div class="lider-def-text" id="lider-def-text"></div>
+        </div>
+
+        <div class="subsection-title" id="comp-title" style="margin-bottom:1rem;font-size:1rem"></div>
+        <div class="competencias-track" id="competencias-track"></div>
+
+        <div class="subsection-eyebrow" id="roles-eyebrow" style="margin-bottom:0.35rem"></div>
+        <div class="subsection-title" id="roles-title" style="margin-bottom:1.2rem;font-size:1rem"></div>
+        <div class="roles-grid" id="roles-grid"></div>
+
+        <div class="subsection-eyebrow" id="kit-eyebrow" style="margin-bottom:0.35rem"></div>
+        <div class="subsection-title" id="kit-title" style="margin-bottom:0.35rem;font-size:1rem"></div>
+        <div class="subsection-desc" id="kit-desc" style="margin-bottom:1.4rem"></div>
+        <div class="kit-grid" id="kit-grid"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="section-divider"></div>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-logo">Human + Banking + Tech Navigator</div>
+  <p id="footer-text"></p>
+</footer>
+
+<script>
+/* ── i18n ── */
+const I18N = {
+  es: {
+    heroEyebrow: "Una guía para líderes del sector financiero",
+    heroQuestion: "¿Qué harías si la <em>IA</em> reemplaza tu rol?",
+    heroSub: "Un recurso en tiempo real para líderes de banca universal que navegan la era de la inteligencia artificial — con visión centrada en las personas.",
+    stats: [
+      { num:"54%",   label:"de tareas bancarias automatizables con IA actual",         source:"McKinsey", url:"https://www.mckinsey.com/industries/financial-services/our-insights" },
+      { num:"$340B", label:"en ahorros potenciales para la banca global con IA",        source:"Goldman Sachs", url:"https://www.goldmansachs.com/intelligence/" },
+      { num:"78%",   label:"de CFOs planean usar IA para decisiones financieras clave", source:"Accenture", url:"https://www.accenture.com/us-en/industries/banking" },
+    ],
+    pill1:"Comprensión del Impacto", pill2:"Capacidades de Liderazgo", pill3:"Conocimientos Técnicos",
+    ctaPrimary:"Ver Signal Board →", ctaGhost:"Cómo Prepararme", scrollLabel:"Explorar",
+    sbEyebrow:"Tendencias en tiempo real por área del grupo financiero",
+    sbTitle:"Signal Board — IA en el Sector Financiero", liveText:"LIVE",
+    sbDesc:"Noticias actualizadas para banca tradicional, neobancos, cripto, pagos y mercados Latam.",
+    searchPh:"Buscar en todas las noticias…",
+    cpEyebrow:"Recursos para tu desarrollo como líder financiero",
+    cpTitle:"Cómo Prepararme",
+    cpDesc:"Noticias, conceptos y preguntas clave para desarrollar las capacidades que la IA no puede reemplazar en un líder del sector financiero.",
+    pillarTag:"Pilar",
+    glosEyebrow:"Vocabulario esencial para la sala de juntas",
+    glosTitle:"Glosario IA para Banqueros",
+    glosDesc:"Los términos que escuchas en reuniones de tecnología, explicados en lenguaje de negocio financiero — sin jerga técnica.",
+    pregEyebrow:"Para tu próxima reunión con el equipo técnico o la junta",
+    pregTitle:"10 Preguntas que Debes Hacerle a Tu Organización",
+    pregDesc:"Diseñadas para revelar el nivel de madurez real de tu banco frente a la IA. Sin respuestas correctas: están pensadas para generar conversación.",
+    preguntas:[
+      "¿Qué decisiones en el banco ya están siendo tomadas o influenciadas por algoritmos?",
+      "¿Tenemos un inventario actualizado de todos los modelos de IA activos en la organización?",
+      "¿Quién es responsable cuando una IA toma una decisión incorrecta que afecta a un cliente?",
+      "¿Cómo detectamos y corregimos el sesgo en nuestros modelos de crédito y riesgo?",
+      "¿Qué datos de clientes se están usando para entrenar modelos y tienen consentimiento informado?",
+      "¿En cuánto tiempo podríamos desactivar un modelo de IA que está generando daño?",
+      "¿Cómo medimos el retorno real de nuestras inversiones en inteligencia artificial?",
+      "¿Qué haría la operación si los sistemas de IA de los que dependemos dejaran de funcionar mañana?",
+      "¿Están nuestros competidores directos usando IA en áreas donde nosotros aún no lo hacemos?",
+      "¿Tienen nuestros líderes la formación suficiente para supervisar y cuestionar las decisiones de la IA?",
+    ],
+    liaEyebrow:"Para el líder que entiende el qué y necesita el cómo",
+    liaTitle:"Liderazgo con IA",
+    liaDesc:"Retos reales, nuevos paradigmas y el perfil del líder que triunfa en la era algorítmica — con enfoque en el ecosistema financiero.",
+    retosEyebrow:"El mapa de la transformación",
+    retosTitle:"Los Retos del Líder Financiero con IA",
+    retosDesc:"Los desafíos que todo líder del sector enfrenta hoy. Reconocerlos es el primer paso para navegarlos.",
+    paraTitle:"Nuevos Paradigmas del Liderazgo",
+    liderEyebrow:"El perfil del líder financiero que prospera con la IA",
+    liderTitle:"El Líder Algorítmico",
+    liderDefLabel:"Definición ejecutiva",
+    liderDefText:"Un líder que entiende y usa los algoritmos como herramienta de gestión — sin necesidad de programarlos. Su ventaja no es técnica: es la capacidad de hacer las preguntas correctas, interpretar resultados e integrar la IA en decisiones de negocio con criterio humano. En el ecosistema financiero, esto significa la diferencia entre ser reemplazado por la IA o ser quien la dirige.",
+    compTitle:"Las 5 Competencias Clave",
+    roleActionLabel:"Como líder algorítmico:",
+    rolesEyebrow:"Aplicado al ecosistema financiero completo",
+    rolesTitle:"Ejemplos Concretos por Rol",
+    kitEyebrow:"Para empezar hoy — sin necesidad de saber programar",
+    kitTitle:"Kit de Adopción por Caso de Uso",
+    kitDesc:"Herramientas organizadas por lo que hacen para el líder, no por cómo funcionan.",
+    navSignal:"Signal Board", navPrepare:"Cómo Prepararme", navLiderazgo:"Liderazgo con IA",
+    footer:`Creado por <a href="https://www.linkedin.com/in/jorgeluiscarvajalgarcia" target="_blank" rel="noopener">Jorge Luis Carvajal Garcia</a> &middot; Datos actualizados automáticamente`,
+    noResults:"Sin resultados para esta búsqueda.",
+  },
+  en: {
+    heroEyebrow: "A guide for financial sector leaders",
+    heroQuestion: "What would you do if <em>AI</em> replaces your role?",
+    heroSub: "A real-time resource for universal banking leaders navigating the age of artificial intelligence — with a human-centered lens.",
+    stats: [
+      { num:"54%",   label:"of banking tasks automatable with current AI",              source:"McKinsey", url:"https://www.mckinsey.com/industries/financial-services/our-insights" },
+      { num:"$340B", label:"in potential savings for global banking through AI",         source:"Goldman Sachs", url:"https://www.goldmansachs.com/intelligence/" },
+      { num:"78%",   label:"of CFOs plan to use AI for key financial decisions",         source:"Accenture", url:"https://www.accenture.com/us-en/industries/banking" },
+    ],
+    pill1:"Understanding the Impact", pill2:"Leadership Capabilities", pill3:"Technical Skills",
+    ctaPrimary:"View Signal Board →", ctaGhost:"How to Prepare", scrollLabel:"Explore",
+    sbEyebrow:"Real-time signals across your financial group",
+    sbTitle:"Signal Board — AI in Financial Services", liveText:"LIVE",
+    sbDesc:"Updated news for traditional banking, neobanks, crypto, payments and Latam markets.",
+    searchPh:"Search all news…",
+    cpEyebrow:"Resources for your development as a financial leader",
+    cpTitle:"How to Prepare",
+    cpDesc:"News, concepts and key questions to develop the capabilities AI cannot replace in a financial sector leader.",
+    pillarTag:"Pillar",
+    glosEyebrow:"Essential vocabulary for the boardroom",
+    glosTitle:"AI Glossary for Bankers",
+    glosDesc:"Terms you hear in technology meetings, explained in financial business language — no technical jargon.",
+    pregEyebrow:"For your next meeting with the technical team or board",
+    pregTitle:"10 Questions You Should Ask Your Organization",
+    pregDesc:"Designed to reveal the real AI maturity level of your bank. No right answers: they are meant to generate conversation.",
+    preguntas:[
+      "What decisions in the bank are already being made or influenced by algorithms?",
+      "Do we have an updated inventory of all active AI models in the organization?",
+      "Who is accountable when an AI makes a wrong decision that affects a customer?",
+      "How do we detect and correct bias in our credit and risk models?",
+      "What customer data are we using to train models, and is there informed consent?",
+      "How quickly could we shut down an AI model that is causing harm?",
+      "How do we measure the real return on our artificial intelligence investments?",
+      "What would operations do if the AI systems we depend on stopped working tomorrow?",
+      "Are our direct competitors using AI in areas where we are not yet?",
+      "Do our leaders have sufficient training to supervise and question AI decisions?",
+    ],
+    liaEyebrow:"For the leader who understands the what and needs the how",
+    liaTitle:"Leading with AI",
+    liaDesc:"Real challenges, new paradigms and the profile of the leader who thrives in the algorithmic era — focused on the financial ecosystem.",
+    retosEyebrow:"The transformation map",
+    retosTitle:"The Financial Leader's Challenges with AI",
+    retosDesc:"The challenges every sector leader faces today. Recognizing them is the first step to navigating them.",
+    paraTitle:"New Leadership Paradigms",
+    liderEyebrow:"The profile of the financial leader who thrives with AI",
+    liderTitle:"The Algorithmic Leader",
+    liderDefLabel:"Executive definition",
+    liderDefText:"A leader who understands and uses algorithms as a management tool — without needing to program them. Their advantage is not technical: it's the ability to ask the right questions, interpret results and integrate AI into business decisions with human judgment. In the financial ecosystem, this means the difference between being replaced by AI or being the one who directs it.",
+    compTitle:"The 5 Key Competencies",
+    roleActionLabel:"As an algorithmic leader:",
+    rolesEyebrow:"Applied to the complete financial ecosystem",
+    rolesTitle:"Concrete Examples by Role",
+    kitEyebrow:"To start today — no coding required",
+    kitTitle:"Adoption Kit by Use Case",
+    kitDesc:"Tools organized by what they do for the leader, not by how they work.",
+    navSignal:"Signal Board", navPrepare:"How to Prepare", navLiderazgo:"Leading with AI",
+    footer:`Created by <a href="https://www.linkedin.com/in/jorgeluiscarvajalgarcia" target="_blank" rel="noopener">Jorge Luis Carvajal Garcia</a> &middot; Auto-updated data`,
+    noResults:"No results for this search.",
+  },
+};
+
+/* ── Signal Board categories ── */
+const SIGNAL_CATS = [
+  { id:"banca_trad", icon:"🏦", es:"Banca Tradicional & IA",     en:"Traditional Banking & AI",
+    descEs:"Transformación de banca comercial, riesgo crediticio y operaciones con IA.",
+    descEn:"Commercial banking transformation, credit risk and operations with AI." },
+  { id:"neobancos",  icon:"📱", es:"Neobancos & Fintech",         en:"Neobanks & Fintech",
+    descEs:"Competencia digital, propuestas de valor y expansión en Latam.",
+    descEn:"Digital competition, value propositions and expansion in Latam." },
+  { id:"cripto",     icon:"₿",  es:"Criptoactivos & Blockchain",  en:"Crypto & Blockchain",
+    descEs:"Regulación, adopción institucional y nuevos productos digitales.",
+    descEn:"Regulation, institutional adoption and new digital products." },
+  { id:"pagos",      icon:"💳", es:"Medios de Pago & IA",         en:"Payments & AI",
+    descEs:"Pagos instantáneos, detección de fraude y wallet digital.",
+    descEn:"Instant payments, fraud detection and digital wallets." },
+  { id:"latam",      icon:"🌎", es:"Latam & Regulación",          en:"Latam & Regulation",
+    descEs:"Colombia, Panamá, El Salvador, Guatemala y Miami — mercados y regulación.",
+    descEn:"Colombia, Panama, El Salvador, Guatemala and Miami — markets and regulation." },
+];
+
+/* ── Pillar categories ── */
+const PILLAR_CATS = [
+  { id:"impacto",    icon:"📊", es:"Comprensión del Impacto",              en:"Understanding the Impact",
+    descEs:"Evidencia y datos sobre cómo la IA transforma roles en el sector financiero.",
+    descEn:"Evidence and data on how AI transforms roles in the financial sector." },
+  { id:"liderazgo",  icon:"🧭", es:"Capacidades de Liderazgo",             en:"Leadership Capabilities",
+    descEs:"Lo que los líderes deben desarrollar para guiar equipos en la era de la IA.",
+    descEn:"What leaders must develop to guide teams through the AI era." },
+  { id:"habilidades",icon:"⚡", es:"Conocimientos Técnicos y Habilidades", en:"Technical Knowledge & Skills",
+    descEs:"Herramientas, frameworks y competencias para el líder financiero.",
+    descEn:"Tools, frameworks and skills for the financial leader." },
+];
+
+/* ── Glosario ── */
+const GLOSARIO = [
+  { term:{es:"IA Generativa",en:"Generative AI"}, def:{es:"IA que crea contenido nuevo: texto, análisis, código, imágenes. Es el motor de herramientas como ChatGPT, Copilot o Claude. Transforma cómo los líderes preparan presentaciones, analizan datos y se comunican.",en:"AI that creates new content: text, analysis, code, images. Powers tools like ChatGPT, Copilot or Claude. Transforms how leaders prepare presentations, analyze data and communicate."}, tag:{es:"Adopción",en:"Adoption"}, tagClass:"tag-adopcion" },
+  { term:{es:"LLM",en:"LLM"}, def:{es:"Modelo de Lenguaje Grande. El cerebro de los asistentes de IA modernos. Aprende de enormes volúmenes de texto y genera respuestas con fluidez humana. GPT-4, Claude y Gemini son LLMs.",en:"Large Language Model. The brain behind modern AI assistants. Learns from vast text volumes and generates human-like responses. GPT-4, Claude and Gemini are LLMs."}, tag:{es:"Tecnología base",en:"Core Tech"}, tagClass:"tag-tecnologia" },
+  { term:{es:"Agente de IA",en:"AI Agent"}, def:{es:"Sistema de IA que ejecuta tareas en secuencia, toma decisiones y usa herramientas de forma autónoma. Ejemplo: un agente que procesa solicitudes de crédito de inicio a fin sin intervención humana.",en:"An AI system that executes sequential tasks, makes decisions and uses tools autonomously. Example: an agent that processes credit applications end-to-end without human intervention."}, tag:{es:"Automatización",en:"Automation"}, tagClass:"tag-operaciones" },
+  { term:{es:"Prompt",en:"Prompt"}, def:{es:"La instrucción que le das a una IA. La calidad del prompt determina la calidad del resultado. Saber formular buenos prompts es la nueva habilidad directiva — no requiere programar.",en:"The instruction you give an AI. Prompt quality directly determines output quality. Knowing how to craft good prompts is the new executive skill — no coding required."}, tag:{es:"Habilidad clave",en:"Key Skill"}, tagClass:"tag-habilidad" },
+  { term:{es:"RAG",en:"RAG"}, def:{es:"Recuperación Aumentada con Generación. Permite que la IA consulte documentos internos del banco (normativas, manuales, contratos) antes de responder. Reduce errores y alucinaciones en contextos regulatorios.",en:"Retrieval-Augmented Generation. Allows AI to consult internal bank documents (regulations, manuals, contracts) before responding. Reduces errors and hallucinations in regulatory contexts."}, tag:{es:"Implementación",en:"Implementation"}, tagClass:"tag-tecnologia" },
+  { term:{es:"Alucinación",en:"Hallucination"}, def:{es:"Cuando una IA genera información que suena correcta pero es falsa. Riesgo crítico en contextos regulatorios, legales y de crédito. Por eso el juicio humano siempre debe supervisar los outputs.",en:"When an AI generates information that sounds correct but is false. Critical risk in regulatory, legal and credit contexts. This is why human judgment must always supervise outputs."}, tag:{es:"Riesgo",en:"Risk"}, tagClass:"tag-riesgo" },
+  { term:{es:"Bias algorítmico",en:"Algorithmic Bias"}, def:{es:"Cuando un modelo discrimina de forma no intencional. Ejemplo: un score crediticio que penaliza sistemáticamente ciertas regiones o demografías. Es un riesgo reputacional y regulatorio de primer orden.",en:"When a model unintentionally discriminates. Example: a credit score that systematically penalizes certain regions or demographics. It's a first-order reputational and regulatory risk."}, tag:{es:"Riesgo",en:"Risk"}, tagClass:"tag-riesgo" },
+  { term:{es:"Modelo predictivo",en:"Predictive Model"}, def:{es:"IA entrenada para anticipar comportamientos futuros: probabilidad de impago, fuga de clientes, fraude. Transforma datos históricos en decisiones proactivas antes de que el problema ocurra.",en:"AI trained to anticipate future behaviors: default probability, customer churn, fraud. Transforms historical data into proactive decisions before the problem occurs."}, tag:{es:"Decisiones",en:"Decisions"}, tagClass:"tag-habilidad" },
+  { term:{es:"IA Explicable (XAI)",en:"Explainable AI (XAI)"}, def:{es:"Modelos de IA que justifican sus decisiones en lenguaje comprensible. Crítico para cumplimiento regulatorio en crédito, seguros y riesgo. Los reguladores de Latam lo exigen cada vez más.",en:"AI models that justify their decisions in understandable language. Critical for regulatory compliance in credit, insurance and risk. Latam regulators increasingly require it."}, tag:{es:"Regulación",en:"Regulation"}, tagClass:"tag-regulacion" },
+  { term:{es:"Fine-tuning",en:"Fine-tuning"}, def:{es:"Entrenar un modelo de IA con datos propios del banco para especializarlo. Resultado: un asistente que conoce el portafolio de productos, las normativas locales y el tono de la marca.",en:"Training an AI model with the bank's own data to specialize it. Result: an assistant that knows the product portfolio, local regulations and brand tone."}, tag:{es:"Personalización",en:"Customization"}, tagClass:"tag-adopcion" },
+  { term:{es:"API",en:"API"}, def:{es:"Interfaz que conecta sistemas. Permite integrar la IA de un proveedor directamente en los flujos del banco sin cambiar el core. Es el puente entre las herramientas de IA y la operación bancaria.",en:"Interface that connects systems. Allows integrating a provider's AI directly into bank workflows without changing the core. It's the bridge between AI tools and banking operations."}, tag:{es:"Integración",en:"Integration"}, tagClass:"tag-operaciones" },
+  { term:{es:"RPA",en:"RPA"}, def:{es:"Automatización Robótica de Procesos. Software que replica acciones repetitivas de un humano en sistemas digitales. Ejemplo: conciliaciones contables, reportes regulatorios, transferencia de datos entre sistemas legacy.",en:"Robotic Process Automation. Software that replicates repetitive human actions in digital systems. Example: accounting reconciliations, regulatory reports, data transfer between legacy systems."}, tag:{es:"Operaciones",en:"Operations"}, tagClass:"tag-operaciones" },
+];
+
+/* ── Retos ── */
+const RETOS = [
+  { icon:"🎯", title:{es:"Decisiones aumentadas",en:"Augmented decisions"}, desc:{es:"Aprender a tomar decisiones donde la IA propone y el líder dispone. Ni ignorar el modelo ni seguirlo ciegamente: el juicio humano es el diferenciador que no se puede automatizar.",en:"Learning to make decisions where AI proposes and leaders decide. Neither ignoring the model nor following it blindly: human judgment is the differentiator that cannot be automated."} },
+  { icon:"👥", title:{es:"Equipos mixtos humano-IA",en:"Human-AI hybrid teams"}, desc:{es:"Gestionar equipos donde la IA ejecuta tareas antes humanas. El reto no es la tecnología: es redefinir roles con propósito y mantener el compromiso y la identidad del equipo.",en:"Managing teams where AI handles previously human tasks. The challenge isn't the technology: it's redefining roles with purpose and maintaining team engagement and identity."} },
+  { icon:"🤝", title:{es:"Confianza organizacional",en:"Organizational trust"}, desc:{es:"Mantener la confianza del equipo, clientes y reguladores durante la transformación. El miedo paraliza, la claridad moviliza. La narrativa del líder es la herramienta más poderosa.",en:"Maintaining trust of teams, customers and regulators during transformation. Fear paralyzes, clarity mobilizes. The leader's narrative is the most powerful tool."} },
+  { icon:"⚖️", title:{es:"Ritmo regulatorio",en:"Regulatory pace"}, desc:{es:"Navegar un entorno donde los reguladores de Colombia, Panamá, El Salvador y Guatemala van más lento que la tecnología. Actuar con prudencia sin perder velocidad competitiva.",en:"Navigating an environment where regulators in Colombia, Panama, El Salvador and Guatemala move slower than technology. Act with prudence without losing competitive speed."} },
+  { icon:"🔄", title:{es:"Gestión del cambio",en:"Change management"}, desc:{es:"La resistencia a la IA no es técnica, es cultural. El mayor obstáculo no es implementar el modelo: es cambiar el modelo mental de las personas que deben usarlo.",en:"Resistance to AI is not technical, it's cultural. The biggest obstacle isn't deploying the model: it's changing the mental model of the people who must use it."} },
+  { icon:"📏", title:{es:"Ética y responsabilidad",en:"Ethics and accountability"}, desc:{es:"Definir quién responde cuando la IA falla. En banca, los errores algorítmicos impactan personas reales. El líder algorítmico no delega la responsabilidad al modelo.",en:"Defining who answers when AI fails. In banking, algorithmic errors impact real people. The algorithmic leader does not delegate accountability to the model."} },
+];
+
+/* ── Paradigmas ── */
+const PARADIGMAS = [
+  { from:{es:"Del experto",en:"From expert"}, to:{es:"al curador de inteligencia",en:"to intelligence curator"}, desc:{es:"El valor ya no está en saber más que los demás, sino en saber qué preguntas hacerle a la IA y cómo interpretar sus respuestas para el negocio.",en:"Value no longer lies in knowing more than others, but in knowing what questions to ask AI and how to interpret its responses for the business."} },
+  { from:{es:"De la intuición",en:"From intuition"}, to:{es:"al juicio aumentado",en:"to augmented judgment"}, desc:{es:"La experiencia sigue siendo valiosa, pero se combina con datos en tiempo real y modelos predictivos para tomar decisiones más precisas y defendibles.",en:"Experience remains valuable, but it combines with real-time data and predictive models to make more precise and defensible decisions."} },
+  { from:{es:"Del gestor de personas",en:"From people manager"}, to:{es:"al diseñador de sistemas",en:"to systems designer"}, desc:{es:"El líder define cómo interactúan humanos e IA en cada proceso: quién decide qué, dónde el criterio humano es irremplazable y dónde la IA lidera.",en:"The leader defines how humans and AI interact in each process: who decides what, where human judgment is irreplaceable and where AI leads."} },
+  { from:{es:"De seguir las reglas",en:"From following rules"}, to:{es:"a diseñar las reglas del juego",en:"to designing the rules of the game"}, desc:{es:"La IA ejecuta las reglas de negocio que el líder define. Quien diseña las reglas tiene el poder estratégico. Quien solo las sigue puede ser reemplazado.",en:"AI executes the business rules that the leader defines. Whoever designs the rules holds strategic power. Whoever only follows them can be replaced."} },
+];
+
+/* ── Competencias ── */
+const COMPETENCIAS = [
+  { num:"01", title:{es:"Leer sin codificar",en:"Read without coding"}, desc:{es:"Interpreta outputs de modelos de IA sin ser data scientist. Entiende qué significa un score, un percentil o un nivel de confianza para la decisión de negocio.",en:"Interprets AI model outputs without being a data scientist. Understands what a score, percentile or confidence level means for the business decision."} },
+  { num:"02", title:{es:"Diseñar workflows",en:"Design workflows"}, desc:{es:"Estructura procesos donde humanos e IA colaboran con roles claros: qué automatiza la máquina, qué decide la persona, en qué punto interviene el juicio.",en:"Structures processes where humans and AI collaborate with clear roles: what the machine automates, what the person decides, where judgment intervenes."} },
+  { num:"03", title:{es:"Detectar el sesgo",en:"Detect bias"}, desc:{es:"Identifica cuándo un modelo puede estar equivocado, discriminando o siendo manipulado. No valida los resultados de la IA sin cuestionarlos.",en:"Identifies when a model may be wrong, discriminating or being manipulated. Does not validate AI results without questioning them."} },
+  { num:"04", title:{es:"Decisión aumentada",en:"Augmented decision"}, desc:{es:"Usa el output de la IA como input de su decisión, no como la respuesta final. Sabe cuándo confiar en el modelo y cuándo el contexto humano lo supera.",en:"Uses AI output as input for their decision, not as the final answer. Knows when to trust the model and when human context overrides it."} },
+  { num:"05", title:{es:"Liderar el cambio",en:"Lead the change"}, desc:{es:"Comunica la transformación con narrativa clara y humana. Convierte el miedo en curiosidad y la resistencia en participación activa del equipo.",en:"Communicates transformation with clear, human narrative. Turns fear into curiosity and resistance into active team participation."} },
+];
+
+/* ── Roles ── */
+const ROLES = [
+  { role:"CEO", icon:"🏢", challenge:{es:"Definir la visión y el ritmo de adopción de IA para el grupo",en:"Define the AI adoption vision and pace for the group"}, action:{es:"Usa dashboards de IA para anticipar riesgos sistémicos y ajustar estrategia sin esperar reportes mensuales.",en:"Uses AI dashboards to anticipate systemic risks and adjust strategy without waiting for monthly reports."} },
+  { role:"CFO", icon:"💼", challenge:{es:"Integrar IA en ciclos financieros y proyecciones de riesgo",en:"Integrate AI into financial cycles and risk projections"}, action:{es:"Emplea modelos predictivos para stress testing y proyecciones de flujo de caja, acortando el ciclo de cierre.",en:"Uses predictive models for stress testing and cash flow projections, shortening the closing cycle."} },
+  { role:"COO", icon:"⚙️", challenge:{es:"Rediseñar procesos operativos incorporando IA",en:"Redesign operational processes incorporating AI"}, action:{es:"Define qué procesa la IA, qué excepciones maneja el equipo humano y cómo se mide la productividad del sistema mixto.",en:"Defines what AI processes, which exceptions the human team handles and how the hybrid system's productivity is measured."} },
+  { role:"CHRO", icon:"👥", challenge:{es:"Gestionar el impacto de la IA en el talento y la cultura",en:"Manage the impact of AI on talent and culture"}, action:{es:"Usa IA para predecir rotación, personalizar rutas de aprendizaje y acelerar selección sin perder el juicio humano.",en:"Uses AI to predict turnover, personalize learning paths and accelerate hiring without losing human judgment."} },
+  { role:"Chief Risk Officer", icon:"⚖️", challenge:{es:"Supervisar decisiones algorítmicas con trazabilidad regulatoria",en:"Supervise algorithmic decisions with regulatory traceability"}, action:{es:"Establece los umbrales de los modelos de scoring crediticio y garantiza su explicabilidad ante el regulador.",en:"Sets credit scoring model thresholds and ensures their explainability before the regulator."} },
+  { role:"Head of Digital / Neobank", icon:"📱", challenge:{es:"Personalizar la experiencia del cliente a escala con IA",en:"Personalize customer experience at scale with AI"}, action:{es:"Define la propuesta de valor donde la IA hiperpersonaliza cada interacción sin perder la confianza del cliente.",en:"Defines the value proposition where AI hyperpersonalizes every interaction without losing customer trust."} },
+  { role:"Head of Pagos", icon:"💳", challenge:{es:"Equilibrar velocidad de pago y control de fraude en tiempo real",en:"Balance payment speed and real-time fraud control"}, action:{es:"Establece las reglas de negocio que gobiernan los sistemas de detección de fraude: umbrales, excepciones y escalaciones.",en:"Establishes the business rules governing fraud detection systems: thresholds, exceptions and escalations."} },
+  { role:"Head of Crypto", icon:"₿", challenge:{es:"Navegar regulación y volatilidad con soporte de IA",en:"Navigate regulation and volatility with AI support"}, action:{es:"Usa modelos de análisis on-chain y vigilancia regulatoria automatizada para gestionar el riesgo en tiempo real.",en:"Uses on-chain analysis models and automated regulatory surveillance to manage risk in real time."} },
+];
+
+/* ── Kit de adopción ── */
+const KIT = [
+  { useCase:{es:"Trabajo diario aumentado",en:"Augmented daily work"}, desc:{es:"Redacta documentos, resume reuniones, analiza información y prepara presentaciones con asistencia de IA.",en:"Draft documents, summarize meetings, analyze information and prepare presentations with AI assistance."}, tools:[{name:"Claude",url:"https://claude.ai"},{name:"Microsoft Copilot",url:"https://copilot.microsoft.com"},{name:"Google Gemini",url:"https://gemini.google.com"}] },
+  { useCase:{es:"Datos y reportes de negocio",en:"Business data & reports"}, desc:{es:"Interpreta tendencias, genera insights accionables y conecta datos de diferentes fuentes en dashboards inteligentes.",en:"Interpret trends, generate actionable insights and connect data from different sources in intelligent dashboards."}, tools:[{name:"Power BI",url:"https://powerbi.microsoft.com"},{name:"Tableau",url:"https://www.tableau.com"},{name:"Looker Studio",url:"https://lookerstudio.google.com"}] },
+  { useCase:{es:"Gestión de talento",en:"Talent management"}, desc:{es:"Predice rotación de personal, acelera procesos de selección y personaliza rutas de desarrollo para cada colaborador.",en:"Predict staff turnover, accelerate hiring processes and personalize development paths for each employee."}, tools:[{name:"Eightfold AI",url:"https://eightfold.ai"},{name:"Beamery",url:"https://beamery.com"}] },
+  { useCase:{es:"Riesgo crediticio y scoring",en:"Credit risk & scoring"}, desc:{es:"Supervisa modelos de crédito con explicabilidad, controla el bias y asegura trazabilidad regulatoria en cada decisión.",en:"Supervise credit models with explainability, control bias and ensure regulatory traceability in every decision."}, tools:[{name:"Moody's Analytics",url:"https://www.moodysanalytics.com"},{name:"nCino",url:"https://www.ncino.com"},{name:"Zest AI",url:"https://www.zest.ai"}] },
+  { useCase:{es:"Cumplimiento y RegTech",en:"Compliance & RegTech"}, desc:{es:"Monitorea riesgos regulatorios, AML y cumplimiento de forma automatizada en los mercados donde opera el grupo.",en:"Monitor regulatory risks, AML and compliance in an automated way across the markets where the group operates."}, tools:[{name:"ComplyAdvantage",url:"https://complyadvantage.com"},{name:"Chainalysis",url:"https://www.chainalysis.com"}] },
+  { useCase:{es:"Pagos y detección de fraude",en:"Payments & fraud detection"}, desc:{es:"Define los parámetros de los sistemas que protegen cada transacción en tiempo real, reduciendo falsos positivos.",en:"Define parameters of systems that protect every transaction in real time, reducing false positives."}, tools:[{name:"Featurespace",url:"https://www.featurespace.com"},{name:"Stripe Radar",url:"https://stripe.com/radar"}] },
+];
+
+/* ── State ── */
+let lang     = detectLang();
+let allItems = [];
+
+/* ── Boot ── */
+document.addEventListener("DOMContentLoaded", () => {
+  buildSections();
+  applyLang();
+  loadNews();
+});
+
+/* ── Language ── */
+function detectLang() {
+  return (navigator.language || "es").toLowerCase().startsWith("en") ? "en" : "es";
+}
+
+function setLang(l) { lang = l; applyLang(); renderAll(); }
+
+function applyLang() {
+  const t = I18N[lang];
+  document.documentElement.lang = lang;
+  document.title = lang === "es"
+    ? "Human + Banking + Tech Navigator — IA para líderes financieros"
+    : "Human + Banking + Tech Navigator — AI for financial leaders";
+
+  s("#hero-eyebrow").textContent  = t.heroEyebrow;
+  s("#hero-question").innerHTML   = t.heroQuestion;
+  s("#hero-sub").textContent      = t.heroSub;
+  s("#pill-1").textContent = t.pill1; s("#pill-2").textContent = t.pill2; s("#pill-3").textContent = t.pill3;
+  s("#cta-primary").textContent = t.ctaPrimary; s("#cta-ghost").textContent = t.ctaGhost;
+  s("#scroll-label").textContent = t.scrollLabel;
+
+  s("#hero-stats").innerHTML = t.stats.map((st, i) => `
+    ${i > 0 ? '<div class="stats-divider"></div>' : ""}
+    <div class="stat">
+      <span class="stat-num">${st.num}</span>
+      <span class="stat-label">${st.label}</span>
+      <a href="${st.url}" target="_blank" rel="noopener" class="stat-source">${st.source} ↗</a>
+    </div>
+  `).join("");
+
+  s("#sb-eyebrow").textContent = t.sbEyebrow; s("#sb-title").textContent = t.sbTitle;
+  s("#live-text").textContent  = t.liveText;  s("#sb-desc").textContent  = t.sbDesc;
+  s("#search").placeholder     = t.searchPh;
+
+  s("#cp-eyebrow").textContent = t.cpEyebrow; s("#cp-title").textContent = t.cpTitle; s("#cp-desc").textContent = t.cpDesc;
+  s("#glos-eyebrow").textContent = t.glosEyebrow; s("#glos-title").textContent = t.glosTitle; s("#glos-desc").textContent = t.glosDesc;
+  s("#preg-eyebrow").textContent = t.pregEyebrow; s("#preg-title").textContent = t.pregTitle; s("#preg-desc").textContent = t.pregDesc;
+
+  s("#lia-eyebrow").textContent  = t.liaEyebrow;  s("#lia-title").textContent  = t.liaTitle;  s("#lia-desc").textContent  = t.liaDesc;
+  s("#retos-eyebrow").textContent = t.retosEyebrow; s("#retos-title").textContent = t.retosTitle; s("#retos-desc").textContent = t.retosDesc;
+  s("#para-title").textContent   = t.paraTitle;
+  s("#lider-eyebrow").textContent = t.liderEyebrow; s("#lider-title").textContent = t.liderTitle;
+  s("#lider-def-label").textContent = t.liderDefLabel; s("#lider-def-text").textContent = t.liderDefText;
+  s("#comp-title").textContent   = t.compTitle;
+  s("#roles-eyebrow").textContent = t.rolesEyebrow; s("#roles-title").textContent = t.rolesTitle;
+  s("#kit-eyebrow").textContent  = t.kitEyebrow;   s("#kit-title").textContent  = t.kitTitle; s("#kit-desc").textContent = t.kitDesc;
+  s("#footer-text").innerHTML    = t.footer;
+
+  s("#btn-en").classList.toggle("active", lang === "en");
+  s("#btn-es").classList.toggle("active", lang === "es");
+  s("#nav-signal").textContent   = t.navSignal;
+  s("#nav-prepare").textContent  = t.navPrepare;
+  s("#nav-liderazgo").textContent= t.navLiderazgo;
+
+  SIGNAL_CATS.concat(PILLAR_CATS).forEach(cat => {
+    const titleEl = document.getElementById(`title-${cat.id}`);
+    const descEl  = document.getElementById(`desc-${cat.id}`);
+    const tagEl   = document.getElementById(`tag-${cat.id}`);
+    if (titleEl) titleEl.textContent = cat[lang];
+    if (descEl)  descEl.textContent  = lang === "es" ? cat.descEs : cat.descEn;
+    if (tagEl)   tagEl.textContent   = t.pillarTag;
+  });
+
+  renderStatic();
+}
+
+/* ── Build carousel shells ── */
+function buildSections() {
+  s("#signal-categories").innerHTML = SIGNAL_CATS.map(cat => catHTML(cat, false)).join("");
+  s("#pillar-categories").innerHTML = PILLAR_CATS.map(cat => catHTML(cat, true)).join("");
+}
+
+function catHTML(cat, isPillar) {
+  return `
+    <div class="cat-section" id="cat-${cat.id}">
+      <div class="cat-header">
+        <div class="cat-label">
+          <div class="cat-icon">${cat.icon}</div>
+          <div class="cat-meta">
+            ${isPillar ? `<div class="pillar-tag" id="tag-${cat.id}"></div>` : ""}
+            <h3 id="title-${cat.id}"></h3>
+            <p id="desc-${cat.id}"></p>
+          </div>
+        </div>
+        <div class="cat-controls">
+          <button onclick="scrollCat('${cat.id}',-1)">&#8592;</button>
+          <button onclick="scrollCat('${cat.id}',1)">&#8594;</button>
+        </div>
+      </div>
+      <div class="carousel-track" id="track-${cat.id}"></div>
+    </div>`;
+}
+
+/* ── Load news ── */
+async function loadNews() {
+  try {
+    const res  = await fetch("noticias.json?_=" + Date.now());
+    if (!res.ok) throw new Error(res.statusText);
+    const data = await res.json();
+    allItems   = data.items || [];
+    renderAll();
+  } catch (_) {}
+}
+
+/* ── Render news carousels ── */
+function renderAll() {
+  const term    = (s("#search").value || "").trim().toLowerCase();
+  const allCats = SIGNAL_CATS.concat(PILLAR_CATS);
+  allCats.forEach(cat => {
+    let items = allItems.filter(item => {
+      if (item.category !== cat.id) return false;
+      if (lang === "en" && item.lang === "es") return false;
+      return true;
+    });
+    if (term) items = items.filter(item =>
+      (item.title||"").toLowerCase().includes(term) ||
+      (item.description||"").toLowerCase().includes(term) ||
+      (item.source||"").toLowerCase().includes(term)
+    );
+    const track = document.getElementById(`track-${cat.id}`);
+    if (!track) return;
+    track.innerHTML = items.length
+      ? items.map(cardHTML).join("")
+      : `<p class="no-results">${I18N[lang].noResults}</p>`;
+  });
+}
+
+/* ── Render static sections ── */
+function renderStatic() {
+  renderGlosario();
+  renderPreguntas();
+  renderRetos();
+  renderParadigmas();
+  renderCompetencias();
+  renderRoles();
+  renderKit();
+}
+
+function renderGlosario() {
+  s("#glosario-grid").innerHTML = GLOSARIO.map(item => `
+    <div class="glos-card">
+      <div class="glos-header">
+        <span class="glos-term">${item.term[lang]}</span>
+        <span class="glos-tag ${item.tagClass}">${item.tag[lang]}</span>
+      </div>
+      <p class="glos-def">${item.def[lang]}</p>
+    </div>`).join("");
+}
+
+function renderPreguntas() {
+  s("#preguntas-list").innerHTML = I18N[lang].preguntas.map((q, i) => `
+    <div class="pregunta-item">
+      <span class="pregunta-num">${i + 1}</span>
+      <span class="pregunta-text">${q}</span>
+    </div>`).join("");
+}
+
+function renderRetos() {
+  s("#retos-grid").innerHTML = RETOS.map(r => `
+    <div class="reto-card">
+      <div class="reto-icon">${r.icon}</div>
+      <div class="reto-title">${r.title[lang]}</div>
+      <div class="reto-desc">${r.desc[lang]}</div>
+    </div>`).join("");
+}
+
+function renderParadigmas() {
+  s("#paradigmas-grid").innerHTML = PARADIGMAS.map(p => `
+    <div class="paradigma-card">
+      <div class="paradigma-from">${p.from[lang]}</div>
+      <div class="paradigma-to">→ ${p.to[lang]}</div>
+      <div class="paradigma-desc">${p.desc[lang]}</div>
+    </div>`).join("");
+}
+
+function renderCompetencias() {
+  s("#competencias-track").innerHTML = COMPETENCIAS.map(c => `
+    <div class="comp-card">
+      <div class="comp-num">${c.num}</div>
+      <div class="comp-title">${c.title[lang]}</div>
+      <div class="comp-desc">${c.desc[lang]}</div>
+    </div>`).join("");
+}
+
+function renderRoles() {
+  const label = I18N[lang].roleActionLabel;
+  s("#roles-grid").innerHTML = ROLES.map(r => `
+    <div class="role-card">
+      <div class="role-header">
+        <span class="role-icon">${r.icon}</span>
+        <span class="role-badge">${r.role}</span>
+      </div>
+      <div class="role-challenge">${r.challenge[lang]}</div>
+      <div class="role-action-label">${label}</div>
+      <div class="role-action">${r.action[lang]}</div>
+    </div>`).join("");
+}
+
+function renderKit() {
+  s("#kit-grid").innerHTML = KIT.map(k => `
+    <div class="kit-card">
+      <div class="kit-title">${k.useCase[lang]}</div>
+      <div class="kit-desc">${k.desc[lang]}</div>
+      <div class="kit-tools">
+        ${k.tools.map(t => `<a href="${t.url}" target="_blank" rel="noopener" class="kit-tool">${t.name} ↗</a>`).join("")}
+      </div>
+    </div>`).join("");
+}
+
+/* ── Carousel scroll ── */
+function scrollCat(catId, dir) {
+  const track = document.getElementById(`track-${catId}`);
+  if (track) track.scrollBy({ left: dir * 295, behavior: "smooth" });
+}
+
+/* ── Card HTML ── */
+function cardHTML(item) {
+  const title  = esc(item.title || "");
+  const desc   = esc(item.description || (lang === "es" ? "Sin resumen disponible." : "No summary available."));
+  const source = esc(item.source || "");
+  const link   = esc(item.link || "#");
+  const srcUrl = esc(item.source_url || item.link || "#");
+  const date   = item.pub_date
+    ? new Date(item.pub_date).toLocaleDateString(lang === "es" ? "es-ES" : "en-US", { year:"numeric", month:"short", day:"numeric" })
+    : "";
+  return `
+    <article class="card">
+      ${source ? `<div class="card-source"><a href="${srcUrl}" target="_blank" rel="noopener">${source}</a></div>` : ""}
+      <div class="card-title"><a href="${link}" target="_blank" rel="noopener">${title}</a></div>
+      <p class="card-desc">${desc}</p>
+      ${date ? `<div class="card-date">${date}</div>` : ""}
+    </article>`;
+}
+
+function s(sel) { return document.querySelector(sel); }
+function esc(str) {
+  return str.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+</script>
+</body>
+</html>
