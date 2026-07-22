@@ -173,6 +173,7 @@ GOOGLE_NEWS_LOCALES = {
 # ── Fetching ───────────────────────────────────────────────────────────────
 
 def fetch_google_news(query: str, category: str, lang: str) -> list[dict]:
+    query = query.replace("2025", str(datetime.now(timezone.utc).year))
     locale  = GOOGLE_NEWS_LOCALES.get(lang, GOOGLE_NEWS_LOCALES["en"])
     encoded = urllib.parse.quote(query)
     url     = f"https://news.google.com/rss/search?q={encoded}&{locale}"
@@ -300,6 +301,8 @@ def merge_category(existing: list[dict], new_items: list[dict]) -> list[dict]:
 def main():
     existing_by_cat = load_existing()
     all_items: list[dict] = []
+    successful_fetches = 0
+    fetched_items = 0
 
     for category, lang_queries in CATEGORY_QUERIES.items():
         new_items: list[dict] = []
@@ -310,6 +313,8 @@ def main():
                 print(f"  [{category}/{lang}] {query}")
                 try:
                     items = fetch_google_news(query, category, lang)
+                    successful_fetches += 1
+                    fetched_items += len(items)
                     print(f"    → {len(items)} items")
                     new_items.extend(items)
                 except Exception as exc:
@@ -323,6 +328,8 @@ def main():
             print(f"  [direct/{feed['lang']}] {feed['url']}")
             try:
                 items = fetch_direct(feed["url"], category, feed["lang"], keywords)
+                successful_fetches += 1
+                fetched_items += len(items)
                 print(f"    → {len(items)} items (filtered)")
                 new_items.extend(items)
             except Exception as exc:
@@ -339,6 +346,11 @@ def main():
         merged = merge_category(existing_by_cat[category], unique_new)
         all_items.extend(merged)
         print(f"  ✓ '{category}': {len(merged)} total items\n")
+
+    if successful_fetches == 0 or fetched_items == 0:
+        raise RuntimeError(
+            "News collection produced no fresh results; preserving the existing file."
+        )
 
     payload = {
         "updated_at": datetime.now(timezone.utc).isoformat(),

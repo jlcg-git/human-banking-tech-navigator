@@ -1,0 +1,51 @@
+name: Update news
+
+on:
+  schedule:
+    - cron: "17 11 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collect current news
+        run: python script_noticias.py
+
+      - name: Validate generated data
+        run: >-
+          python -c "import json, pathlib;
+          data=json.loads(pathlib.Path('noticias.json').read_text(encoding='utf-8'));
+          assert data.get('total') == len(data.get('items', []));
+          assert data.get('total', 0) > 0;
+          assert all(item.get('title') and item.get('link') and item.get('category')
+          for item in data['items'])"
+
+      - name: Commit updated news
+        run: |
+          if git diff --quiet -- noticias.json; then
+            echo "No news changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add noticias.json
+          git commit -m "Update news feed"
+          git push
