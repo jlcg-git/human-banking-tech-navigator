@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-26T12:15:50.474682+00:00",
+  "updated_at": "2026-07-27T13:44:33.660619+00:00",
   "total": 480,
   "items": [
     {
@@ -47,6 +47,17 @@
       "lang": "es"
     },
     {
+      "title": "What It Takes to Build the AI-Native Modern Bank - Bain",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTDB5SkZWOWY5Z0dMOWNDV0JCaGxBWFhTNzNwNFRnaF9DckkyTW1aR0paTHJCX0VMQ3JZQ0xfRHZxNHE5TG1DSHoteVVVUUsyQnp1UTFCbE1yeDE4WklPUVQ3SFNWLVAwWW1uQlkzRW9raUs2c2k5dktXeDJhYkVEZkY1Tmlfdw?oc=5",
+      "pub_date": "2026-07-22T13:28:22+00:00",
+      "description": "What It Takes to Build the AI-Native Modern Bank&nbsp;&nbsp;Bain",
+      "source": "Bain",
+      "source_url": "https://www.bain.com",
+      "query": "AI banking operations technology financial",
+      "category": "banca_trad",
+      "lang": "en"
+    },
+    {
       "title": "Fintech Brief: La competencia financiera ya es por la infraestructura - FintechExpert",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5FT3NWeERaZTZRNUpWV2UzS1k4M1BqanYwdm5yakRhNFY5Wm9ZNWc3aWVGcjM3RVhXWlVNQzBWU0ZzcmloU1hLMU5kR1VwbW9ULW52eTZDZTJkdjAzSUV1Si03SWU3R3BFZkZ0SU5BcnhLUWpWWFZGQUJ3?oc=5",
       "pub_date": "2026-07-22T13:05:11+00:00",
@@ -67,6 +78,17 @@
       "query": "inteligencia artificial credito riesgo operaciones bancarias",
       "category": "banca_trad",
       "lang": "es"
+    },
+    {
+      "title": "Banks report operational changes driven by AI adoption - Banking Dive",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZjNSaUJnaExCTlktaUN0aFh1dWVMX0FCTi02M2RZMXVEMURrRUY5UGZ1VEVpdlA1UmVya0x5OHdNRFpjNkllcEloRVVFZzRvTlN6ZGVFdjZUeVYxOHlUcnRCcUhnRmdiUV9pWk9EZ0gyb3E5OThkRHBzNnd1cFdTMm5n?oc=5",
+      "pub_date": "2026-07-20T16:06:13+00:00",
+      "description": "Banks report operational changes driven by AI adoption&nbsp;&nbsp;Banking Dive",
+      "source": "Banking Dive",
+      "source_url": "https://www.bankingdive.com",
+      "query": "AI banking operations technology financial",
+      "category": "banca_trad",
+      "lang": "en"
     },
     {
       "title": "HDFC Bank embeds AI across business functions to drive next phase of productivity-led growth - BFSI News",
@@ -344,10 +366,10 @@
       "lang": "es"
     },
     {
-      "title": "The Innovators 2026: Africa - Global Finance Magazine",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHOFJHQ21MWlBta204TlFHZXUtd2NubEs3SFV4OEpDZmNCMjFTbDN6RDBHTDhJZE53TW1fdGhEbVk0cHlUNFBLYnYwS0lpUzA4VE9BT1dRdXUwVlR1M216M2hHS1FXa0hXeTA1WDFUZkFwTF9wT2c?oc=5",
+      "title": "The Innovators 2026: Middle East - Global Finance Magazine",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tUDl0UVFjZ2JDbnR5SjVYMXFOWDgxaFh0X19fd0FPa2JLSk5ZellXRU0xTlVfREg0WnJuMURRTXhKdWs4X1ZKRmd5MVhodDVIbmcwTXZMcm5JQXhjQzJoNDZJQU9YVVBjRjBmSFJiNlVOMTJZdUtsaS1lcUg?oc=5",
       "pub_date": "2026-06-08T07:00:00+00:00",
-      "description": "The Innovators 2026: Africa&nbsp;&nbsp;Global Finance Magazine",
+      "description": "The Innovators 2026: Middle East&nbsp;&nbsp;Global Finance Magazine",
       "source": "Global Finance Magazine",
       "source_url": "https://gfmag.com",
       "query": "AI traditional banking transformation 2026",
@@ -355,10 +377,21 @@
       "lang": "en"
     },
     {
-      "title": "The Innovators 2026: Middle East - Global Finance Magazine",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8tUDl0UVFjZ2JDbnR5SjVYMXFOWDgxaFh0X19fd0FPa2JLSk5ZellXRU0xTlVfREg0WnJuMURRTXhKdWs4X1ZKRmd5MVhodDVIbmcwTXZMcm5JQXhjQzJoNDZJQU9YVVBjRjBmSFJiNlVOMTJZdUtsaS1lcUg?oc=5",
+      "title": "Convención Bancaria 2026 analizará los desafíos de la banca digital y la IA - rdn.com.py",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOFlHR1ZIV3pGX3ZZc0FkaVFFdWk0c0xQRFQ4NUQ3MmlMVHJmNHZOZnNGRDZjOV82V2RjZkIxTk9GZC13aGc4a01jN256b0VrdVpEYzY1SlBhUnlMRnFjNTNMY2t6WDFUel92bzUtVEtjaUF2TWhzZnV4czlrN3FLcXF1VkI4RmEyM2NJbmVpZmRQVEFZcmRYdXI3TzRhdHNWZmFWTURJNFVPQXg0eDln?oc=5",
       "pub_date": "2026-06-08T07:00:00+00:00",
-      "description": "The Innovators 2026: Middle East&nbsp;&nbsp;Global Finance Magazine",
+      "description": "Convención Bancaria 2026 analizará los desafíos de la banca digital y la IA&nbsp;&nbsp;rdn.com.py",
+      "source": "rdn.com.py",
+      "source_url": "https://www.rdn.com.py",
+      "query": "inteligencia artificial banca tradicional 2026",
+      "category": "banca_trad",
+      "lang": "es"
+    },
+    {
+      "title": "The Innovators 2026: Africa - Global Finance Magazine",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHOFJHQ21MWlBta204TlFHZXUtd2NubEs3SFV4OEpDZmNCMjFTbDN6RDBHTDhJZE53TW1fdGhEbVk0cHlUNFBLYnYwS0lpUzA4VE9BT1dRdXUwVlR1M216M2hHS1FXa0hXeTA1WDFUZkFwTF9wT2c?oc=5",
+      "pub_date": "2026-06-08T07:00:00+00:00",
+      "description": "The Innovators 2026: Africa&nbsp;&nbsp;Global Finance Magazine",
       "source": "Global Finance Magazine",
       "source_url": "https://gfmag.com",
       "query": "AI traditional banking transformation 2026",
@@ -630,37 +663,15 @@
       "lang": "en"
     },
     {
-      "title": "Centro de Competencias Inteligencia artificial - Bancolombia",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMmhpUHZQVjRPRzNDN3FvWmx0RmUySDhFdzNnUUtMOWZSY21sYW9aUnRhT3AwR1VzWERYaTMxMDZlYWpRQlVhRWxGa3UwRWgtVlJ3Z1BybXY2VUNiZXljajFzNzVickVuQTE1TUs3M3duUW51bHJ1VEhkLUdxTjh3X19JZWlnb29RRmJtclU1cW84dmhWTXdRa3NXSjh3LUZoRW5ybzJfbzRDUTJ4bHdodmdBVVh1ZDQ?oc=5",
-      "pub_date": "2026-04-26T07:00:00+00:00",
-      "description": "Centro de Competencias Inteligencia artificial&nbsp;&nbsp;Bancolombia",
-      "source": "Bancolombia",
-      "source_url": "https://www.bancolombia.com",
-      "query": "IA transformacion digital banco Colombia",
-      "category": "banca_trad",
-      "lang": "es"
-    },
-    {
-      "title": "The AI-powered bank: Rewiring for excellence in customer care - McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY1Y5Z2JxUV9IMkNoWWRyMGFxcEtkY1J2Um1WdVdIcVVYQnhiREp1QWh5ZWZLXzlXM0QzaWlYeTNWeHR6eVRGS05oOEZlMWJhNW1NQWNWOS1JRk1VZTdvZlNST1QzN0lVYjZiRGQ2UDItUGlLOThDNUV1Wm1ScWZfNGlxakdFM2RpSHJJSktuQjRaWFc1alRZZVpVSW5mMC12WVkxUndxVUxLWVVKdVZNNkh3VmtUeDlsV05vM3VhN25kV3FjYkdv?oc=5",
-      "pub_date": "2026-04-23T07:00:00+00:00",
-      "description": "The AI-powered bank: Rewiring for excellence in customer care&nbsp;&nbsp;McKinsey & Company",
-      "source": "McKinsey & Company",
-      "source_url": "https://www.mckinsey.com",
-      "query": "AI banking operations technology financial",
-      "category": "banca_trad",
+      "title": "Many Of Today’s Fintech Lenders Are Still Operating On Tech Platforms That Are Severely Outdated",
+      "link": "https://www.fintechnews.org/many-of-todays-fintech-lenders-are-still-operating-on-tech-platforms-that-are-severely-outdated/",
+      "pub_date": "2026-07-27T06:08:08+00:00",
+      "description": "Fintech lenders built on tech platforms architected decades ago are confronting a growing set of pressures: aging infrastructure that resists modern tooling, calculation logic that may no longer reflect current compliance requirements, and a workforce of institutional experts approaching retirement. According to a 2026 industry survey1 on platform migration and modernization in fintech lending, 87% [&#8230;]\nThe post Many Of Today’s Fintech Lenders Are Still Operating On Tech Platforms That Are Severely Outdated appeared first on fintechnews.org.",
+      "source": "",
+      "source_url": "https://www.fintechnews.org/many-of-todays-fintech-lenders-are-still-operating-on-tech-platforms-that-are-severely-outdated/",
+      "query": "https://fintechnews.org/feed/",
+      "category": "neobancos",
       "lang": "en"
-    },
-    {
-      "title": "Gran parte de usuarios en el mundo dice que adoptaría un asistente de IA para administrar su dinero - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWHNORDFLenhnbGg5ajdBdU9CUWZsOGtHSFd1MEVpSU82OFhHM0FCNGlFXzFqYkIxaUFIUnNBMUtRNllaNVlMR201Ukw2WFdCY1NCVF9yRmx0ekwtQ0MwRHFKMGlla2FkNkxLeDMtczFuXzBMSVhmbThrTnN0ZGZOcllSMUN1c2JLVlVfVGNZU3pKTlotZTdYX0pkUS1WM21QQU1oejM4Z29pTVRIZnRwVUd1Q0YzWVExWklDTVNZTDE4VTdoWHRFbWQzRjl2LW1RWWZUcUdFd2bSAfMBQVVfeXFMT0FmWVJpMXpVejZuLTlhbGZiNEZNV3BzOU5lNUtNT2RYLXlmQjkwOEgwU0FTQ2NwWUNVeUl2UnBSbGMzOTkzYm91YkdXa1o3X3U1bEJBZFBIdldsa1B6VDMzVlJoTURZV1dXWFhTWm92Xzl6d2xFSVBUUDdtYXo2LV9iZmFCLXhCMEpScVJoV2hMWXVBZ2RZbjd0VFQ0TlI2WEgwRDVaNjREdzJCdk1obk1GUjh6UXd4X3NITTFmOWdMTU5LdEpLVE5RLWJod3lRLVI4S3hESjg1SjNiYnpfeFB0a2FURTBHY2wtTXJEQWVTQmdV?oc=5",
-      "pub_date": "2026-04-20T07:00:00+00:00",
-      "description": "Gran parte de usuarios en el mundo dice que adoptaría un asistente de IA para administrar su dinero&nbsp;&nbsp;Infobae",
-      "source": "Infobae",
-      "source_url": "https://www.infobae.com",
-      "query": "IA transformacion digital banco Colombia",
-      "category": "banca_trad",
-      "lang": "es"
     },
     {
       "title": "Ant International’s Alipay+ adds new bank partners amid cross-border mobile payment boom in Asia Pacific",
@@ -1312,17 +1323,6 @@
       "lang": "es"
     },
     {
-      "title": "Visa apuesta por IA y datos para abrir crédito a Pymes en AL - El Cronista",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSmVkSXVIaDkwZ0Z1NWZlNkZYckRoekotQWtJMUlqMWs4ZHJwc3lYVmF6Mk40R1dvS2R1Y0l0MkRlV2NmM0I4M2xOeVQzSmFvNmt6TUE0UDJrY2EyZUQ2RVJnVzJ1NW5ITklCSmFmSUVnc1ZndGQ1T0F2NFRmbzRjaXNLcVAwTFdqdG1OXzRTQ3FpQkpZNGp3SXNJR0F3aGVoNlR0SzVEcUpLSC1GbnJPa2doYjlSb19VemQwQ2RTMDlzZDTSAd4BQVVfeXFMT0xmQVh5LVBydzRzUW9vUTJUVDhjRXV1ZGRFSnFZZmxLSDZ2SU5GOXpZMVI1Y0xNdjdOUVZ3NGVRbWZnTEoxZ0ptRjcxQ1dIdkQxM1JFZ3N5SEJBUE54cDQ1LTBzT3dscTB3ZmFMNm5zUXVybmlZMjRyZFpXaWxxd1pTTWR3dWZrS09NWVhQTy1uTGhYZFk0aEpTWmgxaVhMMlZxYTNqLWI0TmRlOURhU3VqV2FDM3Q3SmJJNTlVejBJYnBIcTVZS0dtakZveG1jSm9zT0s0VkVfVkQtMTR3?oc=5",
-      "pub_date": "2026-05-22T07:00:00+00:00",
-      "description": "Visa apuesta por IA y datos para abrir crédito a Pymes en AL&nbsp;&nbsp;El Cronista",
-      "source": "El Cronista",
-      "source_url": "https://www.cronista.com",
-      "query": "fintech IA expansion America Latina",
-      "category": "neobancos",
-      "lang": "es"
-    },
-    {
       "title": "¿Invierno de las criptomonedas o la gran caída? ¿Hacia dónde se dirige ahora el precio del bitcoin? - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZ1FLcFA4Zk9EVWc3NDFqZnAwTW5ETGJPVXpFaFFKcmFNMXlJV2pWYWhPR3lQeDRCdUp5MG02TE1FNnZJSW1meWw1X0puVE84cm0xRHhBR3pRaTd6ZHFHLVgyZ0ljWWhQd05Jbm81Ykx1TV9QUEw5MDliQUt6ZnAxQWJsMlM0ZUpyY01xNng1SEphMDQ5XzdBV2laYjBWdXo1dUpNWFJnU3ZfWmN6R3RUM2VGZkFiVnc1YUE0RlJVUHJwWjRUaTZWYVdZNGNEZHBDdWc?oc=5",
       "pub_date": "2026-07-25T09:33:42+00:00",
@@ -1413,7 +1413,7 @@
     {
       "title": "El Salvador será sede del Congreso Latinoamericano de Derecho Financiero - diario.elmundo.sv",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmNJekhDaUZjRjdqQk96UjFYdjZhSzB3SjlBUEIyVU9vd2E1ekhXcnFiSjdqTmlpNGtlajdLV3RsMTd2c3Y3ZkFXUlZpOHBUdTJzODEzX24tRjgxQ2pVSmZBOHozN09zVVBxUzVIUnZwUjVxd19scGJPYVZpbzBkZjBMVmZrd3REWER0UFkxWWZEX3AxT3lfNEJVWE5iNk9aanRDR2Q5NldhT0HSAbYBQVVfeXFMTWlESWo2WG1oZkNWVlRBZUFjdjA4MTE3TjJQaVl1YlR1T2VUZ3ozRHZzSTZCaUVPSU9RdEZWWUUzaXo0MDRsbG5uVlAxNkJxWERvNzZKbGVDZ18tLV81M01ja0g4MWdwX2M0bHVwZHJnYnYzNGtmZHFNSl9lUDdTcFAtRktoNVFZMlRPeXpmc3A0YnBkSUJKanVKeW1rUTNLdTcyeHZGZWJxdEpfOGJDVzctaFRoRWc?oc=5",
-      "pub_date": "2026-07-17T10:43:35+00:00",
+      "pub_date": "2026-07-17T07:00:00+00:00",
       "description": "El Salvador será sede del Congreso Latinoamericano de Derecho Financiero&nbsp;&nbsp;diario.elmundo.sv",
       "source": "diario.elmundo.sv",
       "source_url": "https://diario.elmundo.sv",
@@ -1983,6 +1983,116 @@
       "lang": "en"
     },
     {
+      "title": "AI Companies Ramp Up Lobbying Efforts Amid Pressure in DC",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-companies-ramp-up-lobbying-efforts-amid-pressure-in-dc/",
+      "pub_date": "2026-07-27T12:54:53+00:00",
+      "description": "America’s biggest AI companies are reportedly devoting record cash to their lobbying efforts. That’s according to a report Monday (July 27) from the Financial Times (FT), which says this uptick is the result of artificial intelligence (AI) companies trying to halt tougher regulation and guide rules involving data centers and the testing of advanced models. The report, [&#8230;]\nThe post AI Companies Ramp Up Lobbying Efforts Amid Pressure in DC appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-companies-ramp-up-lobbying-efforts-amid-pressure-in-dc/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "Tassat CEO Says Regional Banks Are Focused on the Wrong Stablecoin Problem",
+      "link": "https://www.pymnts.com/blockchain/2026/tassat-ceo-says-regional-banks-are-focused-on-the-wrong-stablecoin-problem/",
+      "pub_date": "2026-07-27T08:03:43+00:00",
+      "description": "Watch more: Monday Conversation With Tassat’s Glen Sussman Conversations about stablecoins have a way of turning into conversations about technology. Which chain, which standard, whose rail. When PYMNTS CEO Karen Webster sat down with Tassat CEO Glen Sussman for the “Monday Conversation” series, she put a plainer question on the table. “How many rails do [&#8230;]\nThe post Tassat CEO Says Regional Banks Are Focused on the Wrong Stablecoin Problem appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/blockchain/2026/tassat-ceo-says-regional-banks-are-focused-on-the-wrong-stablecoin-problem/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "APIs Now Decide Who Gets Served and How Fast",
+      "link": "https://www.pymnts.com/api/2026/apis-now-decide-who-gets-served-and-how-fast/",
+      "pub_date": "2026-07-27T08:02:16+00:00",
+      "description": "Watch more: Need to Know With Green Dot’s Akhil Gupta As financial services move deeper into software platforms, embedded commerce and enterprise workflows, application programming interfaces (APIs) are no longer simply the plumbing connecting a bank to outside developers. They now determine how quickly a bank can acquire partners, launch new programs, generate revenue and [&#8230;]\nThe post APIs Now Decide Who Gets Served and How Fast appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/api/2026/apis-now-decide-who-gets-served-and-how-fast/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "FIS Links Digital Money to Smarter Bank Networks",
+      "link": "https://www.pymnts.com/blockchain/2026/fis-links-digital-money-to-smarter-bank-networks/",
+      "pub_date": "2026-07-27T08:01:25+00:00",
+      "description": "Watch more: What’s Next in Payments With FIS’ David Trecker Among the challenges confronting digital payments is deciding which forms of digital money belong inside the banking system, which belong alongside it, and how those pieces connect without creating new operational or regulatory blind spots. During a “What’s Next in Payments” interview with David Trecker, [&#8230;]\nThe post FIS Links Digital Money to Smarter Bank Networks appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/blockchain/2026/fis-links-digital-money-to-smarter-bank-networks/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "The Best Enterprise AI Knows Its Limits",
+      "link": "https://www.pymnts.com/opinion/2026/the-best-enterprise-ai-knows-its-limits/",
+      "pub_date": "2026-07-27T08:00:18+00:00",
+      "description": "Enterprises should give AI agents narrow mandates inside explicit operating rules, Flagright Co-Founder and CTO Madhu G. Nadig writes in a new PYMNTS eBook, “Building the Agent-Ready Payments Enterprise.” The agentic enterprise will not be defined by how many tasks AI can perform. It will be defined by how safely an organization can delegate authority. That [&#8230;]\nThe post The Best Enterprise AI Knows Its Limits appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/opinion/2026/the-best-enterprise-ai-knows-its-limits/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "One Inc Says the Best Insurance Payment Is the One Nobody Notices",
+      "link": "https://www.pymnts.com/news/payments-innovation/2026/one-inc-says-the-best-insurance-payment-is-the-one-nobody-notices/",
+      "pub_date": "2026-07-27T08:00:18+00:00",
+      "description": "Watch more: Need to Know With One Inc’s Kishore Konakanchi For insurers, payments have long served as the moments when policyholders notice the mechanics of the relationship. A premium must be collected. A refund must arrive. Those transactions often define the customer’s impression of the carrier. Kishore Konakanchi, chief product officer at One Inc, contended [&#8230;]\nThe post One Inc Says the Best Insurance Payment Is the One Nobody Notices appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/news/payments-innovation/2026/one-inc-says-the-best-insurance-payment-is-the-one-nobody-notices/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "17% of Labor Economy Workers Miss Shifts Because of Higher Gas Prices",
+      "link": "https://www.pymnts.com/transportation/2026/17-percent-of-labor-economy-workers-miss-shifts-because-of-higher-gas-prices/",
+      "pub_date": "2026-07-27T08:00:17+00:00",
+      "description": "The cost of getting to work is starting to determine who gets to work. Transportation problems are causing lower-paid workers to miss shifts, lose income and turn down jobs they can’t reliably reach, according to new PYMNTS Intelligence research. The effects extend beyond a more expensive fill-up. They can shape future earnings and how employers [&#8230;]\nThe post 17% of Labor Economy Workers Miss Shifts Because of Higher Gas Prices appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/transportation/2026/17-percent-of-labor-economy-workers-miss-shifts-because-of-higher-gas-prices/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "Procurement Teams Use AI to Reach Deals Humans Can’t",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/procurement-teams-use-ai-to-reach-deals-humans-cant/",
+      "pub_date": "2026-07-27T08:00:10+00:00",
+      "description": "This week in The Prompt Economy, artificial intelligence agents are coming to life. They’re already negotiating supplier contracts, processing purchase orders, and closing deals on behalf of major corporations. Procurement is leading enterprise AI adoption. The governance frameworks to manage what agents do at the table are still catching up. For example, Walmart, Maersk, and [&#8230;]\nThe post Procurement Teams Use AI to Reach Deals Humans Can’t appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/news/artificial-intelligence/2026/procurement-teams-use-ai-to-reach-deals-humans-cant/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "DeepSeek Reportedly Suspends Funding Round Ahead of IPO",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-reportedly-suspends-funding-round-ahead-of-ipo/",
+      "pub_date": "2026-07-27T00:13:39+00:00",
+      "description": "Chinese artificial intelligence startup DeepSeek has reportedly paused its second round of funding. That’s according to a report Saturday (July 25) from Bloomberg News, which says the decision comes days after viral comments on American-Chinese AI competition, widely attributed to the company’s founder. Sources familiar with the matter told Bloomberg that DeepSeek had told some [&#8230;]\nThe post DeepSeek Reportedly Suspends Funding Round Ahead of IPO appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/news/artificial-intelligence/2026/deepseek-reportedly-suspends-funding-round-ahead-of-ipo/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "AI‑powered fraud next major threat to banks, fintechs – Report - Punch Newspapers",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRlJnNzg4VkZmbUNKOXhYOXpHUmhnRXgwY1g0VzBSSmJUa1JOQk9VbE1LbmdGbUxjTTdoNXhtRDA0WERFZmVRSnF5S1l3Z3FwXzRqQmhZV3ZremhHcDhoNXdneVN4X3hlV281OUJjVU4tdUVSWU1qczVKUVlNZHpaVEtlQVhCNUdTN3JxQ1VtbHU0T2dBeFJJ?oc=5",
+      "pub_date": "2026-07-27T00:00:00+00:00",
+      "description": "AI‑powered fraud next major threat to banks, fintechs – Report&nbsp;&nbsp;Punch Newspapers",
+      "source": "Punch Newspapers",
+      "source_url": "https://punchng.com",
+      "query": "artificial intelligence fraud detection payments banking",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
       "title": "Cinco cambios que están reordenando el negocio de cobros y pagos hacia 2026 - El Zonda",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaUxJMWdEQmJWbU5Pc1NEaExad2dnQ0hWSmtoVWVTcWlqM3B6N2RtanlIMGRMS09NVTIwVVY4VUJycF9WR2wwOXBtRThGZDFtZy12X2dOWEhKQnFTU1dxM2lhNGJ5U25ibHBnX0RHQk1VMUM2Y2ZrTEwySlBMX1N0T2g1ekFjSjNsaUZneHhUc0ZKNUNyaW5lNHlhX21wVUxrV0hMU2toV00zVUdlUEM0MVZ3aFlmZkxa?oc=5",
       "pub_date": "2026-07-26T11:49:15+00:00",
@@ -2533,116 +2643,6 @@
       "lang": "en"
     },
     {
-      "title": "OpenAI Models Breach Hugging Face During Cyber Evaluation",
-      "link": "https://www.pymnts.com/cybersecurity/2026/openai-models-breach-hugging-face-during-cyber-evaluation/",
-      "pub_date": "2026-07-22T00:08:32+00:00",
-      "description": "OpenAI said Tuesday (July 21) that a security incident reported last week by Hugging Face was caused by OpenAI models as their cyber capabilities were being tested by OpenAI. “We consider this incident to be an unprecedented cyber incident, involving state-of-the-art cyber capabilities, and are responding accordingly,” OpenAI said in a Tuesday blog post. The incident involved a combination of OpenAI [&#8230;]\nThe post OpenAI Models Breach Hugging Face During Cyber Evaluation appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/cybersecurity/2026/openai-models-breach-hugging-face-during-cyber-evaluation/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "Hasbro’s Adult Fans Power a ‘Magic’ 16% Sales Jump",
-      "link": "https://www.pymnts.com/earnings/2026/hasbros-adult-fans-power-a-magic-16-sales-jump/",
-      "pub_date": "2026-07-21T23:43:06+00:00",
-      "description": "Hasbro’s strongest growth in the second quarter came from an audience most toy companies chase last: adult collectors, hobby gamers and longtime fans. For example, revenue in the Wizards of the Coast and Digital Gaming segment increased 27%, led by the Magic: The Gathering trading card franchise. “Magic fans play and collect for years because [&#8230;]\nThe post Hasbro’s Adult Fans Power a ‘Magic’ 16% Sales Jump appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/earnings/2026/hasbros-adult-fans-power-a-magic-16-sales-jump/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "Forward Financing Secures Another $525 Million to Support Small Businesses",
-      "link": "https://www.pymnts.com/smbs/2026/forward-financing-secures-another-525-million-dollars-support-small-businesses/",
-      "pub_date": "2026-07-21T22:04:19+00:00",
-      "description": "Forward Financing, a provider of capital to small businesses across the United States, secured $525 million of new financing that brings the company’s total committed funding capacity to nearly $700 million. The new financing includes a $350 million variable funding note (VFN) facility and a $175 million asset-backed securitization (ABS), the company said in a [&#8230;]\nThe post Forward Financing Secures Another $525 Million to Support Small Businesses appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/smbs/2026/forward-financing-secures-another-525-million-dollars-support-small-businesses/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "Sam Altman to Brief White House on OpenAI Models’ Impact on Work",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/sam-altman-to-brief-white-house-on-openai-models-impact-on-work/",
-      "pub_date": "2026-07-21T21:01:24+00:00",
-      "description": "OpenAI CEO Sam Altman plans to meet with White House officials and U.S. lawmakers next week to brief them on the company’s upcoming models and how they affect work, Bloomberg reported Tuesday (July 21). The report cited remarks made at a briefing in Washington by OpenAI Chief Global Affairs Officer Chris Lehane. “We think that there’s going to be some [&#8230;]\nThe post Sam Altman to Brief White House on OpenAI Models’ Impact on Work appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/news/artificial-intelligence/2026/sam-altman-to-brief-white-house-on-openai-models-impact-on-work/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "US Lawmakers Want EU Punished Over Alleged Attacks on Big Tech",
-      "link": "https://www.pymnts.com/big-tech/2026/united-states-lawmakers-want-european-union-punished-over-alleged-attacks-big-tech/",
-      "pub_date": "2026-07-21T20:57:23+00:00",
-      "description": "Sixteen members of Congress signed a letter asking President Donald Trump to take action in response to what they called European Union “discriminatory digital policies” that target technology companies in the United States. Rep. Pat Harrigan of North Carolina shared the letter in a Tuesday (July 21) post on social platform X, saying that he [&#8230;]\nThe post US Lawmakers Want EU Punished Over Alleged Attacks on Big Tech appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/big-tech/2026/united-states-lawmakers-want-european-union-punished-over-alleged-attacks-big-tech/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "eCommerce Day Argentina 2026: el Tour celebra 20 años y alcanza su edición número 200 en Buenos Aires - Insider Latam",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSUFwUWxGWnlLbnJFa0R4LTg4MktVbWgzUE84TGdlLVNVOWlaX2EzeEZRRnBsVjFyNThQendoX2x6QW9RNU54RnNOcy16b1cwRmU4ZjZYRnRON2lJWmpqdUV0blByREFaLUxURHhZSFRQMDctVkxoN0VxRmFsMDhaa3FuSmxMWFFYSUVnZHBGSkZJSk9GY2FFYlgtSjI1ZGFwRTNnRnlOZ1RWX2Y1ZWVZNG12U2huREJ3S2ZxWTlwUGpYTHJC?oc=5",
-      "pub_date": "2026-07-21T15:25:41+00:00",
-      "description": "eCommerce Day Argentina 2026: el Tour celebra 20 años y alcanza su edición número 200 en Buenos Aires&nbsp;&nbsp;Insider Latam",
-      "source": "Insider Latam",
-      "source_url": "https://insiderlatam.com",
-      "query": "inteligencia artificial medios de pago digitales 2026",
-      "category": "pagos",
-      "lang": "es"
-    },
-    {
-      "title": "The top five AI trends reshaping banking in 2026 - Retail Banker International",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWXEwTENjMW1FMmx0akktelZFVi1yTm1oV2ZnelFxRGY0UThtQXdJUWtiRUYyZGl2TkU5UkVCazdZYnJHZmU3ejVCdW51dzhKTFczZmlWSGk3VlFUQngtWmtrOHlyRmF2akVMRWEzU2NBZUZKQlVMTDUzSmVLelR0ZXNOdw?oc=5",
-      "pub_date": "2026-07-21T13:05:26+00:00",
-      "description": "The top five AI trends reshaping banking in 2026&nbsp;&nbsp;Retail Banker International",
-      "source": "Retail Banker International",
-      "source_url": "https://www.retailbankerinternational.com",
-      "query": "artificial intelligence fraud detection payments banking",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "How Banks Detect Digital Fraud In Real Time - Tech Build Africa",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3czcyQnZueUNmMTlncm1nS1RKd0lfTXY2bmVoVnZUVnB4ODBnZXo2LWdsMXpQMjZpT1QzejJSaVZuTmZFS2FNQTZDMDk4ZGNqUXlQSGVvSEVtdlRUNUNhOVFTejhISEZ6RW9oTg?oc=5",
-      "pub_date": "2026-07-20T14:52:16+00:00",
-      "description": "How Banks Detect Digital Fraud In Real Time&nbsp;&nbsp;Tech Build Africa",
-      "source": "Tech Build Africa",
-      "source_url": "https://techbuild.africa",
-      "query": "artificial intelligence fraud detection payments banking",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "Banks Race to Set Rules for AI Payments - finews.asia",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE83MmFlc1NpVGp6NlRzWHhoTFgtaHNxcDBOckZJN3AwdERFSWhwZ3Q1YTduWW9jcFJtczlJWTZhVzRGc3lJVTIxMFkzT2Qzc0NuWjJsb3YxNTk1VDd6UExNbkFRTjIyYVI2VEVuRTlySi1SeTVtMUlvQnVTUTE?oc=5",
-      "pub_date": "2026-07-20T06:21:00+00:00",
-      "description": "Banks Race to Set Rules for AI Payments&nbsp;&nbsp;finews.asia",
-      "source": "finews.asia",
-      "source_url": "https://www.finews.asia",
-      "query": "artificial intelligence fraud detection payments banking",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "La IA ahora aprende cómo compra cada usuario para detectar fraudes en tiempo real - Revista C-Level",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ1VtU2xnSWFRV3pVRHEySklxVDVFVjJzNzJKMHpZQjYtaW9HN3NRRXRTdnNHOGh4QzV2TFR3NUNKZTJoZzhxcGdCVlVaQm9VZDVzLUVpdjJUQm5EN0RNbkFfamxOVVdxa3ZvTElSYnJUbW01NWZoUjFIVk9KYlNGR2sxOTh4UWlaaUNWaTc3WE05RFVjNVVWRVh0cXBQRWxxaXVrZ2JyMVNKN1E?oc=5",
-      "pub_date": "2026-07-16T16:28:19+00:00",
-      "description": "La IA ahora aprende cómo compra cada usuario para detectar fraudes en tiempo real&nbsp;&nbsp;Revista C-Level",
-      "source": "Revista C-Level",
-      "source_url": "https://revistaclevel.com",
-      "query": "IA deteccion fraude pagos banco Colombia",
-      "category": "pagos",
-      "lang": "es"
-    },
-    {
       "title": "México consolida su liderazgo financiero digital tras el cierre de Open Finance 2050 - Reporte Indigo",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMy1XZjlheFZadEpkanJuaEVqNWlDMXBIbHhQYjUtQkNoekRXMVVwRHRSNHE2Ty1VaG1uU2tsOEo5SENra3ItTUI4ZHpFdExRX2doUmlqZ2RCbFBjcV8yN0QyYWlSNEhoakREdHNDRTFOeGthZGxxTVQ5Ym1UQi1sT3BhZjJxN1U3SkY2b0tPZUw1YWY4bEhIZXFDOGNMT2h0LTNLVVpjeTY2WVRuUUVIS19PSlFNNGI2N3hUcmtfYVhZZXVIN1AtcFAyWEhuZlZ1ODdqX3BJZ9IB3AFBVV95cUxPaUtPb1lIakJNMm5vREdIVjRTTnI4RWR5OEI0Sjd2SHpaaTcxaEd1Rks0QjR2Vmx6Z1ZPb1BSU3JSOTF4cVFadm84SGxQUzRQLVg1THlmT1d2V3BtU3pxbnFqaHN2MTM5OURGOWp2VU1IQ0ZBb1JFLWgxOV8zZ2dBZnktazNKSjJ0ZUxGVWJYTjlnYUEzZ1hjcU8ySk1XQ2U0Ym0tSzJVbmRtck5XanVkREtnRnJXOVh3ZVY2UDBKSE5FTzJMWUpuRkgtS2FNNVp2VUdNdnczdDl0cjZB?oc=5",
       "pub_date": "2026-07-24T00:35:55+00:00",
@@ -2819,17 +2819,6 @@
       "lang": "es"
     },
     {
-      "title": "AFI event promotes financial inclusion goals - Khmer Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVURSckd6Z1VkZ2RPYWgwVkw3YXJwcjVxMEczV1l5MktnRExFRXowMWdjWndiTnBsY1dzQi1WS2JrMWRXSmZzZ1VaV3F0Z3NXajBpR0JSeGZwR0JDVUd3UVVwTHo4OXZlLVNGMGNWMmZ6RktHNTc5QlJ2RFdGNndxZGhZeTFuekNteEtJMA?oc=5",
-      "pub_date": "2026-06-24T07:00:00+00:00",
-      "description": "AFI event promotes financial inclusion goals&nbsp;&nbsp;Khmer Times",
-      "source": "Khmer Times",
-      "source_url": "https://www.khmertimeskh.com",
-      "query": "artificial intelligence financial inclusion Latin America",
-      "category": "latam",
-      "lang": "en"
-    },
-    {
       "title": "Open Finance 2050 vuelve a CDMX con una agenda marcada por IA, crédito digital y regulación - FintechExpert",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRlhIMWZlMElwVmRfMnVZWjBhWEZwWktxRGdhTmZzeW1CNi1KQ3VSYTFRNUtKbjI4cmRJdm5mamVoNmtzUXZpemViSDFUYmlDVHRqckNLeGFtZHItenFUNjREMXlLdVBoY1YzYllQTUlYbkFFblREbTdDUUNJTVlScFZDZHd5bmI3WEhR?oc=5",
       "pub_date": "2026-06-24T07:00:00+00:00",
@@ -2839,6 +2828,17 @@
       "query": "IA fintech regulacion America Latina inclusion financiera",
       "category": "latam",
       "lang": "es"
+    },
+    {
+      "title": "AFI event promotes financial inclusion goals - Khmer Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVURSckd6Z1VkZ2RPYWgwVkw3YXJwcjVxMEczV1l5MktnRExFRXowMWdjWndiTnBsY1dzQi1WS2JrMWRXSmZzZ1VaV3F0Z3NXajBpR0JSeGZwR0JDVUd3UVVwTHo4OXZlLVNGMGNWMmZ6RktHNTc5QlJ2RFdGNndxZGhZeTFuekNteEtJMA?oc=5",
+      "pub_date": "2026-06-24T07:00:00+00:00",
+      "description": "AFI event promotes financial inclusion goals&nbsp;&nbsp;Khmer Times",
+      "source": "Khmer Times",
+      "source_url": "https://www.khmertimeskh.com",
+      "query": "artificial intelligence financial inclusion Latin America",
+      "category": "latam",
+      "lang": "en"
     },
     {
       "title": "Financial Inclusion in the Digital Age: Lessons for Latin America from Global Lending Trends - LatinAmerican Post",
@@ -3061,11 +3061,11 @@
       "lang": "es"
     },
     {
-      "title": "Chile albergará el primer Claude Impact Lab de América Latina para crear con IA herramientas que expliquen a 5 millones de chilenos sus derechos financieros - Tarreo",
+      "title": "Chile albergará el primer Claude Impact Lab de América Latina para crear con IA herramientas que expliquen a 5 millones de chilenos sus derechos financieros - Tarreo Gamer",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRzlCU2dxVDNnNDJsVzY2WExZTlM4Q1JlbDU0Z2dyTTJpc05MTS1wMmxIOVdCRGFqM0pWNldqZWJGUGloS2hENUYyUTNhaGVoOGZVVE5sNW9ScFJoZFY4UlI2OGExSm5KblJZU0Y3NHYtTExRSUMxZkdwa2ViUjBTQVVZVnVpdnpRSWFFSzdKUnNsRFlaSHhoYjN3RHFHQTZkczdPcXpERVNhWGZf?oc=5",
       "pub_date": "2026-05-07T07:00:00+00:00",
-      "description": "Chile albergará el primer Claude Impact Lab de América Latina para crear con IA herramientas que expliquen a 5 millones de chilenos sus derechos financieros&nbsp;&nbsp;Tarreo",
-      "source": "Tarreo",
+      "description": "Chile albergará el primer Claude Impact Lab de América Latina para crear con IA herramientas que expliquen a 5 millones de chilenos sus derechos financieros&nbsp;&nbsp;Tarreo Gamer",
+      "source": "Tarreo Gamer",
       "source_url": "https://www.tarreo.com",
       "query": "IA fintech regulacion America Latina inclusion financiera",
       "category": "latam",
@@ -3270,17 +3270,6 @@
       "lang": "en"
     },
     {
-      "title": "A Look At What's in Store for Latin America's Venture Capital Landscape in 2026 - Latin Times",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWjI5OTk1QXNaUXNzbDJJWTk3UUphZXREYnZaTVlQWDB0cVZlS0tpTEtVWUpsSG8zUlVMcVZjbS1tOXdiSDI3dko3X2NBRnZCcnlsczBNTzRmdUl1OXI0SlBMRmpWWlVYT1NiMEpNdng4N1haOE9CaE5fYUJ3N3J6b2U2SGc5QlhPX0QtSWJwSml1MjBVN3NjTE9TT3I?oc=5",
-      "pub_date": "2026-03-16T07:00:00+00:00",
-      "description": "A Look At What's in Store for Latin America's Venture Capital Landscape in 2026&nbsp;&nbsp;Latin Times",
-      "source": "Latin Times",
-      "source_url": "https://www.latintimes.com",
-      "query": "AI banking Latin America Colombia Panama 2026",
-      "category": "latam",
-      "lang": "en"
-    },
-    {
       "title": "Becas y oportunidades de formación en el exterior - GUB.UY",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUzZRLUE2aTFKdm0tdTduaUFvenlKVFN2MnBndDFvOHBBNUt0dDhJZnpOaWN0X2RneVdSRjBNNTBFMXdXcU5hY2pTZFpvNV9XbURBVTFYVlVTSVE5elVCaDByV2lCbjgtTENnYnp2MFlmWXRuaU9JaHFCc3dsVm5vMDdhY2EtbTlFdnMxbmdNZEtCWEdrR0xPRzRLWUF0V2FjanBiN082Q2hxdw?oc=5",
       "pub_date": "2026-03-16T07:00:00+00:00",
@@ -3292,6 +3281,17 @@
       "lang": "es"
     },
     {
+      "title": "A Look At What's in Store for Latin America's Venture Capital Landscape in 2026 - Latin Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWjI5OTk1QXNaUXNzbDJJWTk3UUphZXREYnZaTVlQWDB0cVZlS0tpTEtVWUpsSG8zUlVMcVZjbS1tOXdiSDI3dko3X2NBRnZCcnlsczBNTzRmdUl1OXI0SlBMRmpWWlVYT1NiMEpNdng4N1haOE9CaE5fYUJ3N3J6b2U2SGc5QlhPX0QtSWJwSml1MjBVN3NjTE9TT3I?oc=5",
+      "pub_date": "2026-03-16T07:00:00+00:00",
+      "description": "A Look At What's in Store for Latin America's Venture Capital Landscape in 2026&nbsp;&nbsp;Latin Times",
+      "source": "Latin Times",
+      "source_url": "https://www.latintimes.com",
+      "query": "AI banking Latin America Colombia Panama 2026",
+      "category": "latam",
+      "lang": "en"
+    },
+    {
       "title": "The cybersecurity imperative: Latin America’s challenge and opportunity - J.P. Morgan Private Bank",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOaENycmdjZUxLTzhKYUtLWElseXFpY2tiVHJjR2tHM1luQU1QTklKQ3hiNlpkU21uUkRMTUh1SUJSWmxYXzJwQ2F5ZUVHTm04RlZTVDc1SjNlTWZNZGhReGNiVDk0SVlrZXJHbTVqWkYzbXJ2SDJWUXdUUXpmakxBMFlPc1JUQm1nV0h4ZV9vemd3Yl9jb0VDR0N4QWJXQjZncVphUmk0aWZIeDhSLURSRjFDd0wyUE5Bc2pIZEtwRmVxNzUxUHdHbjVpa0ZRcGdXTTRQUk5iTk1UOV8ydURRMm42bTlTcEJYUGMyeDJGS19uOU0?oc=5",
       "pub_date": "2026-03-10T07:00:00+00:00",
@@ -3301,6 +3301,83 @@
       "query": "AI banking Latin America Colombia Panama 2025",
       "category": "latam",
       "lang": "en"
+    },
+    {
+      "title": "Armengol introduce la IA en el organigrama del Sabadell y refuerza la estrategia de banca de relación - Crónica Global",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONTlVblFkWmRhbXBhWVJFTHpiTmk3U3doOTlVcUd4c3RQLWMtbnhZRW5OSWdhcWZTSjVUb0l2aWhYTG4yMGZBS21vcW90ZjRTNmRqSURDS2I0ancxSUt4bWRSRGdIRGh5aWFkTlJoaGZxQ0h1OE1XRDhsNnlxMWVBd0dmTkozS2VPN1I3X1pvMm40cDlZVGhzNk5PY1ppREttSWJPd09Gd2FNQmUyY2xZMXB4dzVuOFdqUG9QY2czekVkNXRDSmRrWmp1YVpKcUdlM0Rz0gHYAUFVX3lxTFAtZ2dlZnBnOUNEZnNGdHowR20ta1JYVkxycHZHb0dzc3Zaa2xINmZobWNZbnB3Yy1zS1kzd0dtZkZWenNWTlFqdDV0SGhRM2E5T25vYm5MdjdIeWRPZW5yR3JQcWVCYzZteW1OSENQQU16ak1xcDhNNXVySUxFTjJoR2RkRGdXczdoNkt6cFExdVlzSDZUNDctRzdVdWNzVzgzMF9DUGJmRFp4bWFObkRDSTluMTRwQzBuQkxaZDFGUWJEQVZpV1NzWjVWQ082M3FKS2p4bEVLaA?oc=5",
+      "pub_date": "2026-07-27T11:47:14+00:00",
+      "description": "Armengol introduce la IA en el organigrama del Sabadell y refuerza la estrategia de banca de relación&nbsp;&nbsp;Crónica Global",
+      "source": "Crónica Global",
+      "source_url": "https://cronicaglobal.elespanol.com",
+      "query": "transformacion inteligencia artificial alta direccion banca",
+      "category": "impacto",
+      "lang": "es"
+    },
+    {
+      "title": "El Banco Sabadell rediseña su estructura organizativa y crea un área específica para desarrollar la IA - EL PAÍS",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaEw4el9Rc0dZWDF2Z0lid1J2V2tFRGdibnRfeng2UVdHMHpYSU5YUDV0cnRGaHI4ajhKOEdwYi1fSG5kQVhyb0NsbXJwdUdGSlZRRUFWMEZOcUsyZk9CYmRQRXZHRkJlU3ZTYWhfeFNpT2tJZVRYRjNQTmpnSkRfZFRUQ2RmVVo2ek1GTC1YZXVBTE1RYThTUWhQbEVMYjNGbTRtVjQyNW1zMVdjZ1ladG1lcjQ1YmhxTU1NWkJWQ0FnejZIRTBOMWtRMmxPWHNWa3Q1czNTYTRNQld5X0VN0gHzAUFVX3lxTFBlMURNN1M0VDRDQkFXajJoNUpKOGhSWEhEdjhHSWROWGZDNVBjVEJHakVMeEhGSS0xeHpGNEMyQkdwa2RwMUF2Y2tIUzVoVHM3bklYV0ZVTkdUbWg1VXh3Y05QRE1LWmVDZFEwNWdlY1dLeE93QVUzT0NSdlpza0M4bWtKU2VNX0NXSFhYbUh2N2FYNEswMnBsbnlPcDFEendRZkZ5YUxuQUtGcVZlQk4zV3F3bUwwZGJsY0tzQWE1VmNyRWdqLUZaaF9neVp0d3NJS2c5OVhoNTdnN25DUHA1TGo4NTdnOTNaa1lQeWMyNjY5bw?oc=5",
+      "pub_date": "2026-07-27T11:07:59+00:00",
+      "description": "El Banco Sabadell rediseña su estructura organizativa y crea un área específica para desarrollar la IA&nbsp;&nbsp;EL PAÍS",
+      "source": "EL PAÍS",
+      "source_url": "https://elpais.com",
+      "query": "transformacion inteligencia artificial alta direccion banca",
+      "category": "impacto",
+      "lang": "es"
+    },
+    {
+      "title": "Armengol reorganiza el Sabadell en cinco grandes áreas y acelera su apuesta por la IA - El Nacional.cat",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb2ZaVHNzRU80QjVGQjlzRUtaSWZJdmFXV2lBVW5ieXR3SHhLRTdYa0x1NEJXdy1vWG9NMkxnODlRaVBJVzNid0pzbkdxT2Z2bDRoQmNodXYzdHo3b1I0ajF2OU9iVktmdjdfU1hsTUVnbjk0THdrbG9XRlBZRnpoZU1nLUsyZFFxcVlWdS1sRl9DU2VKRXJYUm9sS2c4U3I2SVhhUXByY1AtOF80M1VvSjBJZ2dsdjYyVEUzYXFFOWpMYVNl?oc=5",
+      "pub_date": "2026-07-27T10:36:00+00:00",
+      "description": "Armengol reorganiza el Sabadell en cinco grandes áreas y acelera su apuesta por la IA&nbsp;&nbsp;El Nacional.cat",
+      "source": "El Nacional.cat",
+      "source_url": "https://www.elnacional.cat",
+      "query": "transformacion inteligencia artificial alta direccion banca",
+      "category": "impacto",
+      "lang": "es"
+    },
+    {
+      "title": "Sabadell reorganiza su estructura para acelerar su plan de negocio - Expansión",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaDlOV2I3MVJvQjR4VDNrRU9iZk51RTBCMWFXdkxfY2dFYUU2X2RIclM4UkFNV0l1VjFuUjR3UFE4ano1Q1hvWk5Yd0l4WmoyRXdCNk91YklndVNoeFZPclRKMkZ2bGJPNmxwT3ZZS3dLQlZwY0xHazl6MXZpNXZ1X1FsWmVFMTdl0gGIAUFVX3lxTE9oOU5XYjcxUm9CNHhUM2tFT2JmTnVFMEIxYVd2TF9jZ0VhRTZfZEhyUzhSQU1XSXVWMW5SNHdQUThqejVDWG9aTlh3SXhaajJFd0I2T3ViSWd1U2h4Vk9yVEoyRnZsYk82bHBPdllLd0tCVnBjTEdrOXoxdmk1dnVfUWxaZUUxN2U?oc=5",
+      "pub_date": "2026-07-27T10:19:00+00:00",
+      "description": "Sabadell reorganiza su estructura para acelerar su plan de negocio&nbsp;&nbsp;Expansión",
+      "source": "Expansión",
+      "source_url": "https://amp.expansion.com",
+      "query": "transformacion inteligencia artificial alta direccion banca",
+      "category": "impacto",
+      "lang": "es"
+    },
+    {
+      "title": "Sabadell reorganiza su estructura para integrar la IA y reforzar la ejecución de su plan de negocio - El Español",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPeUtOQ0Q3M1FQaDdZTFdYR01aMFd4M1FfRkJnZlF4THVFWkdSekwwLVFPaXM4TGtSVEZ4RmJZckVmcTJOY0g1QVpfaGt4R2tYMHRXRm5OU09KVUpuV1NNZThxT3FvaW91V3EzU0ExNmh6SkYwWWRhaTJySWdPMjFKLWdWNGw4TXVsMUdnMDdrdmZMRS1qQkNqRENqa1FEYmdJQTdEeWwtc3BrZGJ4VFRGV21nT2VPUWpucUZnMjlYZnNLUVk5ajlKek9ZN0lJajVsY3NtU05IdDdhQmZBWVdPMTgwWWF0Y05hcnZvVmluNNIB7wFBVV95cUxPeUtOQ0Q3M1FQaDdZTFdYR01aMFd4M1FfRkJnZlF4THVFWkdSekwwLVFPaXM4TGtSVEZ4RmJZckVmcTJOY0g1QVpfaGt4R2tYMHRXRm5OU09KVUpuV1NNZThxT3FvaW91V3EzU0ExNmh6SkYwWWRhaTJySWdPMjFKLWdWNGw4TXVsMUdnMDdrdmZMRS1qQkNqRENqa1FEYmdJQTdEeWwtc3BrZGJ4VFRGV21nT2VPUWpucUZnMjlYZnNLUVk5ajlKek9ZN0lJajVsY3NtU05IdDdhQmZBWVdPMTgwWWF0Y05hcnZvVmluNA?oc=5",
+      "pub_date": "2026-07-27T10:18:01+00:00",
+      "description": "Sabadell reorganiza su estructura para integrar la IA y reforzar la ejecución de su plan de negocio&nbsp;&nbsp;El Español",
+      "source": "El Español",
+      "source_url": "https://www.elespanol.com",
+      "query": "transformacion inteligencia artificial alta direccion banca",
+      "category": "impacto",
+      "lang": "es"
+    },
+    {
+      "title": "Sabadell anuncia una reorganización de su estructura con cuatro nuevos puestos y un fuerte impulso a la IA - El Economista",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWkRJMFVxRTFKdGI4dHRDU1MwQU5RazVUbTVuYmt6NlRJNkRWWDBuLWN6STRFLXEyeUtBaFVpZkxORmV0UGhSLW1UaG5QbEVla2NVak01V1pLTnZkZXlaU2d2dGdGQl9DT0VLb2NweVViQ1NPM1c2RjNKbGVVN1BYRjluelVkVFZldWFzSnp4V0FGbjNoRkIyNWlLbncwWkxzTWdfRG1EUkpCTmRWeU1nX2Y3RUZ0SkdPdFRhZ0tMU1dkcS1kMjlGaFUwUGhYazV0VnFnNHM1WFFFVW_SAcYBQVVfeXFMT3RUdFExdDYwbk5ENWtPVEVjQTJFU0c1Y0J3eFJxT0NHUWF1eWVFelpYbDJOVHZmUEpUenE3eGs5dm9BVHJsMEpYNzNyYUtuWmh5Z2JFNWw3clF4MGFuVng4aU1EYVkwNVk5dm8tYmJRb2EtellWTFMzSG94R056VGpoaVVWR0QwT1ZGaElNOWhnamQ5ZkJIYnRQajU3VzZZanFNNDVsbXZ0MUVxX1R2SWhJT1FpZDZ3ZUxSWGpfQV9UWnAxLXBB?oc=5",
+      "pub_date": "2026-07-27T10:14:29+00:00",
+      "description": "Sabadell anuncia una reorganización de su estructura con cuatro nuevos puestos y un fuerte impulso a la IA&nbsp;&nbsp;El Economista",
+      "source": "El Economista",
+      "source_url": "https://www.eleconomista.es",
+      "query": "transformacion inteligencia artificial alta direccion banca",
+      "category": "impacto",
+      "lang": "es"
+    },
+    {
+      "title": "Banco Sabadell reorganiza su estructura para acelerar la transformación, simplificar la gestión y reforzar la ejecución de su plan de negocio - Grupo Banco Sabadell",
+      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxOeWZNa285djNyX3JjTXVtOVZNR3NpbjVOX0dLTkxfUnNYcHlnaExCX3RtSUZnRFRiNTdtd3FIQVpCRUZadV8wWm9Ia1VNRHZQa2MwcEtMS1lGSWlOeW5SNFhsVFhpdXk2ZGZ5aDVEclc1d2s2b0J0ZzRrb0dyenY0M3Z1S2dxdWZab2tUWnVVMTg5RFIydGtLSkd6OERWU3c1bDJKQXpNODFWcFVZeUkzWUQxOU9qOFdLV0szMFROeHFOTVZfbTNtYmpXemJpTTVJNlR0d29FeWdJRnZWOGFYNWk4TmJJc1FqeC1Nb3pQbkE0ZjBwSkw3MTMxX0N3TEJEYy00UG50anFXZV9yNkJIdVBnWlFzN0phRzltalY4VnpDNFFs?oc=5",
+      "pub_date": "2026-07-27T09:56:26+00:00",
+      "description": "Banco Sabadell reorganiza su estructura para acelerar la transformación, simplificar la gestión y reforzar la ejecución de su plan de negocio&nbsp;&nbsp;Grupo Banco Sabadell",
+      "source": "Grupo Banco Sabadell",
+      "source_url": "https://comunicacion.grupbancsabadell.com",
+      "query": "transformacion inteligencia artificial alta direccion banca",
+      "category": "impacto",
+      "lang": "es"
     },
     {
       "title": "Top 20+ Predictions from Experts on AI Job Loss - AIMultiple",
@@ -3767,7 +3844,7 @@
     {
       "title": "Companies laying off staff this year include Meta, Amazon, and Verizon — see the list - Business Insider",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUtSVkJCN0tBeHVpR3owbi1YTzFyVHNOZlBWOWt4empJQ29tTnpBQ1ZjbEIySlZ3YnhWN3pLRTRocTdLTURIaXo3RmJqY3RKeHlOc1kxbHBSQ0NSM0NHamVZWjNPOWpKRlpkVEprdW1EQ0RVSW52TEtGem95bDlHVVcyUHg?oc=5",
-      "pub_date": "2026-07-17T14:32:00+00:00",
+      "pub_date": "2026-07-17T07:00:00+00:00",
       "description": "Companies laying off staff this year include Meta, Amazon, and Verizon — see the list&nbsp;&nbsp;Business Insider",
       "source": "Business Insider",
       "source_url": "https://www.businessinsider.com",
@@ -3886,80 +3963,69 @@
       "lang": "es"
     },
     {
-      "title": "Barómetro global del impacto de la IA en el empleo 2026 de PwC - PwC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVUhTS1owVG1XRmd5U1U0dHozc3FRbmN5R1pkaWRVOVhhWW5nRDR6aTkyMUhsZXpuYnlYaVpLSkROanJVT3YzYWw1ZXFsdGVOZ0hrcUhuOXBiVnRYZHhHd0lUTlYxMGFueG56TWtqSEhiLW4zeEpsR2Zkc19UcERBbHc2STVIOS1zQVFUNlBB?oc=5",
-      "pub_date": "2026-06-19T12:37:23+00:00",
-      "description": "Barómetro global del impacto de la IA en el empleo 2026 de PwC&nbsp;&nbsp;PwC",
-      "source": "PwC",
-      "source_url": "https://www.pwc.es",
-      "query": "impacto inteligencia artificial empleos banca sector financiero 2026",
-      "category": "impacto",
-      "lang": "es"
-    },
-    {
-      "title": "El G7 encarga un análisis sobre el impacto de la inteligencia artificial en la economía y las finanzas - El Boletín",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbjY4bVBDS21SanBoWUpXQlNfNDk2eWtBWjJBY3hoV3RkR2FiWV82LWFjUlVuUXRLanFzV3FpZThBb2dXVVdCQm1PbkZSOTNIR2hPbU9POHA4OEJGcGVLZ2p0a1FhUGNWRWQwMUZNQ3pfT3RURnlra1BsSmI0ZmgzMDluY3dWcExnZ3p0TVlsbDYwel9UT0dmVTg4cG5BTnVUYVQtWW1tZnZxeUlDN0Y0dGNod0gzUGJEQ05zQklSNnFnY3BrOW1SatIBzgFBVV95cUxNQWEwUFJqckVZYmI2UFkzLXF4ZmZjSWxVTW9YNGZmYXl1czBBTWNDc0JGNF9Pa0FTQ1NtQzJqOWxYQWx1cXpCc1BEZWxoLTY2XzdFMl9MU1FIN0prdlZJdDJFWUpHamlCMTR0WGxibENZaWJseUJVbnVnR2I3TVFtMGlnekR1RDYxWlhPd2xILVZjaTRQRWNnSjdPUGZtYUhGZjUzNWR4RVh0ajdyY0w3UFJVejUxMUcwdUlWOWtya3M5dkd6NzhFVTJLMnFMQQ?oc=5",
-      "pub_date": "2026-06-17T07:00:00+00:00",
-      "description": "El G7 encarga un análisis sobre el impacto de la inteligencia artificial en la economía y las finanzas&nbsp;&nbsp;El Boletín",
-      "source": "El Boletín",
-      "source_url": "https://www.elboletin.com",
-      "query": "impacto inteligencia artificial empleos banca sector financiero 2026",
-      "category": "impacto",
-      "lang": "es"
-    },
-    {
-      "title": "G7 ordena evaluar el impacto de la inteligencia artificial en la economía mundial - El Economista",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRVdvQ0d0aWI3TEJDUVZiNlVldFBxTUNqNmFDU256b1lTUE9KUjJvWjhmQWVaX3NKVXFZSGFVZC1VTDFGQTBocUMzZzMyM2lDWnlVMGhGUFBRRi1NZ3RubFlCTlY5RUJoRVdnY2FvZ0hIYnZsdGx0RWJHTDQ2b004dEZxVWVYcjRndjNpSzFWaDI0cnNJampJcUZtVmp1a0dBMnZpRnBWalZZcVJXU0FTN1ZzdXZDSWwwQnRPWVFyRThSdlNiaFNoOVdidWJWQTN30gHWAUFVX3lxTE9WUDllYzdJZEFkWHpCTVpHcU9UVEN2S0xTT0UwY0xSdjlvaFdESlE3SndDUUI0TzlnWnJ6LVBYUHpDTmduMHJiVjBTOW0wdEhoRWhXQV93ZjhSNVpjc0RZMnNYbzVFRFEtamliZGliMkVIQVZUYmozLXBLS1FwamUwX0tmdlZjQzY2N2ZvTXpaWlNIMXZxRFJkRFRvbHllTHdJc3FXdnRCN3FKZkFWQ29oS1MyOUR6SUNmeUEtdmk3OUkwQXdvamZrcDBBOVpoUXlLc3NmSmc?oc=5",
-      "pub_date": "2026-06-17T07:00:00+00:00",
-      "description": "G7 ordena evaluar el impacto de la inteligencia artificial en la economía mundial&nbsp;&nbsp;El Economista",
-      "source": "El Economista",
-      "source_url": "https://www.eleconomista.com.mx",
-      "query": "impacto inteligencia artificial empleos banca sector financiero 2026",
-      "category": "impacto",
-      "lang": "es"
-    },
-    {
-      "title": "Is AI Replacing Finance Jobs? New Research And Career Trends - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUXFMbWFDcS1fcUFRSlQ4aHB3eHdqWDE0YXY3VHZrSWh6Zm9JUnVfMGEydEN6VHZ2c1o5b09xaG5NSWdYeGsxRUFpM2JBa0Vwa3BHbEtNN3MxVmpJSFZLOFROeGQ5UXQxZUJFTXF5Y1dXSnlfQ25jY3kyNGtBV3k0ZWhPMTZEdi1Z?oc=5",
-      "pub_date": "2026-06-10T07:00:00+00:00",
-      "description": "Is AI Replacing Finance Jobs? New Research And Career Trends&nbsp;&nbsp;Forbes",
-      "source": "Forbes",
-      "source_url": "https://www.forbes.com",
-      "query": "artificial intelligence replace financial roles automation",
-      "category": "impacto",
+      "title": "Measuring inequality and social stratification with Lorenz curvature",
+      "link": "https://arxiv.org/abs/2607.22110",
+      "pub_date": "2026-07-27T00:00:00-04:00",
+      "description": "arXiv:2607.22110v1 Announce Type: new \nAbstract: We construct a continuous family of inequality and social stratification indices based on the curvature of the Lorenz curve. We study the inequality axioms of the family and find that they are satisfied only with the so-called stratification-aversion parameter $\\alpha$ set to 0 -- in all other cases, these constraints cannot be satisfied in a strict sense. With $\\alpha = 0$, the index has a very simple closed form and its value can be easily approximated. We study the values of the index on World Bank inequality data and see how the rankings across a wide selection of countries change as $\\alpha$ is varied. Spearman and Kendall rank-correlation matrices with other common indices are also computed and analyzed. We find the curvature index to deviate consistently from the comparison indices, albeit less so for consumption- than income-based countries.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2607.22110",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
       "lang": "en"
     },
     {
-      "title": "Who Will Actually Thrive in the Hybrid A.I.-Human Work Force - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wbDB3RnJRcVhiN2VpaC1EWkkwcWswNk5iQmlLX0hUWkRIRzhVS3lVdHJ2RkdKUUNab05RQUx3ZWZfdzRUTmNWdkZ1T0RtaEwyZzlkNWJVMDV1T3JXcU5sVHRxSlBtanI0dFE2VVFoWTBXUWZsb21XVDFwbEU?oc=5",
-      "pub_date": "2026-06-09T07:00:00+00:00",
-      "description": "Who Will Actually Thrive in the Hybrid A.I.-Human Work Force&nbsp;&nbsp;The New York Times",
-      "source": "The New York Times",
-      "source_url": "https://www.nytimes.com",
-      "query": "AI impact banking jobs workforce future 2026",
-      "category": "impacto",
+      "title": "Are cryptocurrencies real financial bubbles? Evidence from quantitative analyses",
+      "link": "https://arxiv.org/abs/2607.21826",
+      "pub_date": "2026-07-27T00:00:00-04:00",
+      "description": "arXiv:2607.21826v1 Announce Type: cross \nAbstract: The growth of peer-to-peer exchanges and the blockchain technology has led to a proliferation of cryptocurrencies and to a massive increase in the number of investors who actually negotiate digital money. Cryptocurrencies trade at prices mainly driven by investor sentiment, becoming a potential source of financial bubbles and instabilities. In this work, we apply quantitative models to the study of Bitcoin and Ether, two of the most famous cryptocurrencies. Our bubble detection methodology combines the Log Periodic Power Law (LPPL) model, originally created by Johansen, Ledoit and Sornette (JLS), and the statistical model developed by Phillips, Shi, and Yu (PSY). In particular, we employ three different versions of JLS model, i.e. Ordinary Least Square (OLS), Generalised Least Squares (GLS) and Maximum Likelihood Estimation (MLE), and two PSY statistical tests (BSADF and BSADF*). We find that, during the sample period 1st December 2016 - 16th January 2018, Bitcoin shows typical hallmarks of a bubble phase in mid December 2017 and in the first half of January 2018, anticipating the large crashes observed thereafter. Also the Ether price dynamics reveals bubble evidence in mid June 2017, anticipating the crash observed on 12th June, and a weaker signal around 12th January 2018, anticipating the crash observed in the same days. This paper confirms the high risk of speculative bubbles associated with cryptocurrencies, related to investor exuberance pumping market prices far away from their fundamental values, thus creating critical situations subject to possible crashes. Our methodology is general and can be applied to virtually any financial time series, and may support investing and risk management strategies.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2607.21826",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
       "lang": "en"
     },
     {
-      "title": "La historia de los cajeros automáticos revela por qué la IA podría transformar y no eliminar empleos - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNT2NFd3N4d2ZfbWpSUXJMS2Y3X2c2ZmdZT0syeXdzRjVvcTl4RG02eUNLaUEyRXU4OWFmeTdZeXJuRm5sRC1sQk52SjhfWlNXOW1jQjhqNjRWcnV5MzhfMm5lMXJyUlFTUTB1RGx6cVBUbzV2cXlZS25YbTBNN2FpaVpadHJDS0xfV1VjRVJZaEtKckRQQnhtY2doVUJrN0tIQVB4enJFTF90NjhzTEs4REEtVW1CQjZWaGR4d3ZOdGx1d0doZWJQcGNrdlZxQ0xrNml1YXVmRE1Ed9IB9AFBVV95cUxOUjc1SFk5cVlEVkp0dENLUGppWS1zRHJieEQzS3piVURneFktMGNvd01ROFRaa3ZrVWRyMEExUHF1WUg1VlZRNEpSV0RtdlRSdHVxRXk2NHh0dUQ0bS1OS2haN0pZVlg0dGNQcHpsajN3SE5FUjVNR2VnVHR3cS1veEFoZzN0YzZDdmFDLWFyUk5mS3FJc1lDakFxM2xXd0dPWVZoRG5DVTBEMHYyMV90WEwxdFVHMk94T09sbWY1ZFFKcGpCbTFSSmlVaUpSSDNmRy04a25ucHR0akVFRnRlOUdfY0s2SXpDZ29kRlFXMzBIVjdp?oc=5",
-      "pub_date": "2026-06-09T07:00:00+00:00",
-      "description": "La historia de los cajeros automáticos revela por qué la IA podría transformar y no eliminar empleos&nbsp;&nbsp;Infobae",
-      "source": "Infobae",
-      "source_url": "https://www.infobae.com",
-      "query": "impacto inteligencia artificial empleos banca sector financiero 2026",
-      "category": "impacto",
-      "lang": "es"
+      "title": "Unfit for stranding assessment: a panel-scale multimodal-LLM audit of building-decarbonisation disclosure (BeDA)",
+      "link": "https://arxiv.org/abs/2607.22006",
+      "pub_date": "2026-07-27T00:00:00-04:00",
+      "description": "arXiv:2607.22006v1 Announce Type: cross \nAbstract: Buildings account for roughly 34% of global final energy use and 37% of energy- and process-related CO$_2$ emissions. Stranding regulation now being enacted (New York City Local Law 97, the EU Energy Performance of Buildings Directive recast) presupposes that a building portfolio's carbon intensity can be measured per square metre and compared against a science-based pathway. Whether corporate disclosure is actually fit for that comparison has not, to our knowledge, been measured at scale. We introduce BeDA (the Built-environment Decarbonisation-disclosure Auditor), a multimodal large-language-model instrument, and apply it to a global firm panel (2,246 firms, 2003-2023). Its standards-compliance score is reliable across models and model families and convergent with three independent external criteria. Most disclosure is unfit: only about one built-environment firm-report in five discloses operational carbon intensity per $m^2$ (21.5% in a region-stratified sample of 200 firm-reports, Wilson 95% CI [16.4%, 27.7%], inter-extractor $\\kappa$=0.95; 45.5% across 519 real-estate firm-reports, $\\kappa$=0.97). The rate is roughly twice as high in Europe as in the United States (64-74% versus 37% for listed real estate). Among the 215 real-estate firm-reports for which an intensity can be constructed, 39% already exceed the Carbon Risk Real Estate Monitor (CRREM) 1.5 {\\deg}C pathway's intensity limit. Credibility does not predict stranding readiness once portfolio size is controlled; this is a screening tool, not a forecast. The main obstacle to enforceable building-stranding regulation is therefore a measurable, jurisdiction-specific reporting gap, one that a targeted disclosure mandate can close and that BeDA can monitor.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2607.22006",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
+      "lang": "en"
     },
     {
-      "title": "How Artificial Intelligence Will Change the World - Nexford University",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5TQzVFZEpNSGVBdHJ1NHJuaENBQmVCeXFDTTFlU3J1b0dMOUwtYldMSlBpbmxmalJRYnJmaUFReXZQbDk1Qm0tcEtFWVdUTjVLeC1kWlhURUVmMGpib2N1MWtwZjFYZWPSAXdBVV95cUxNOVNiY2dlaTNmdmFPa2xqSkMzcm5zcnhZU2s0djdvR2hTZXZIMTJVSFh3dTN6RzEtWXE1WEdhSEdRS21qRUhkdURIaVRoM1VzZ3Y1cUFmRVVpZFFhTFlETnh0Z055UHlsd3ZDT1dwLWlrV1d4UHg2QQ?oc=5",
-      "pub_date": "2026-06-07T07:00:00+00:00",
-      "description": "How Artificial Intelligence Will Change the World&nbsp;&nbsp;Nexford University",
-      "source": "Nexford University",
-      "source_url": "https://www.nexford.edu",
-      "query": "AI impact banking jobs workforce future 2026",
-      "category": "impacto",
+      "title": "How Do Regulations and Technology Affect Service Allocation and Market Structure?",
+      "link": "https://arxiv.org/abs/2410.22616",
+      "pub_date": "2026-07-27T00:00:00-04:00",
+      "description": "arXiv:2410.22616v4 Announce Type: replace \nAbstract: The paper estimates the effects of Price Controls and Cost Controls on healthcare service quantity and their role in spatial restructuring of physician market. Exploiting the quasi-experimental variation in regulatory-technological environment generated by telehealth parity laws and broadband internet, I find that for aggregate sample and metro areas, Price Floor has a conducive effect on service quantity and physician density, amplified progressively with broadband, and Price Ceiling, unfavorable at mean broadband, converges to the same conducive effect as broadband rises, while Cost Parity has an unfavorable effect, with a negative broadband gradient. For non-metro areas, Price Floor and Price Ceiling have conducive effect on service quantity and unfavorable effect on physician density, indicating efficiency gains.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2410.22616",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
+      "lang": "en"
+    },
+    {
+      "title": "Educational Assortative Mating and Household Income Inequality: Evidence from Brazil, Indonesia, Mexico, and South Africa",
+      "link": "https://arxiv.org/abs/2503.02713",
+      "pub_date": "2026-07-27T00:00:00-04:00",
+      "description": "arXiv:2503.02713v2 Announce Type: replace \nAbstract: This paper presents new empirical evidence from four emerging economies on the relationship between educational assortative mating and household income inequality. It also introduces a new methodological approach, first proposed in my earlier work, that overcomes limitations of standard sorting measures used in the literature and allows for the identification of pure sorting trends without imposing restrictive assumptions about the sorting process. I find that people in Brazil, Indonesia, Mexico, and South Africa tend to sort into internally homogeneous marriages based on education level. While educational sorting has a noticeable impact on household income inequality in any given year, changes in the degree of sorting over time barely have any impact on inequality. Further analysis reveals that this counterintuitive result is due to different dynamics within educational groups. The inequality-decreasing impact from reduced sorting among the highly educated is almost entirely offset by the inequality-increasing impact from increased sorting among the least educated. While it is certainly reassuring that concerns about educational assortative mating having a potentially large effect on income disparities between households appear to be unwarranted, these findings suggest another concerning narrative. Marginalization processes are occurring at low levels of educational distribution. The least educated are being left behind, facing limited labor market opportunities and diminished chances of achieving upward socioeconomic mobility through marriage to more educated partners.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2503.02713",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
+      "lang": "en"
+    },
+    {
+      "title": "Managing Procurement Auction Failure: Bid Requirements or Reserve Prices",
+      "link": "https://arxiv.org/abs/2503.03996",
+      "pub_date": "2026-07-27T00:00:00-04:00",
+      "description": "arXiv:2503.03996v3 Announce Type: replace \nAbstract: This paper examines bid requirements, where the government may cancel a procurement contract unless two or more bids are received. Using a first-price auction model with endogenous entry, we compare the bid requirement and reserve price mechanisms in terms of auction failure and procurement costs. We find that, in comparison with bid requirements, reserve prices can reduce procurement costs and substantially lower failure probabilities, especially when entry costs are high or signals are sufficiently informative. Bid requirements are more likely to result in zero entry, while reserve prices can sustain positive entry under broader conditions.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2503.03996",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
       "lang": "en"
     },
     {
@@ -4524,6 +4590,17 @@
       "lang": "en"
     },
     {
+      "title": "Five hallmarks of effective AI strategies in banking - EY",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWS1KOTZDdWdPZkQxVkszdmc5QV9OU1cwT3dpQXpWQnNmVnJSU3dqTG04VHN3UDJUZ1dpTFEtTWNKc1IyZl9lUVp3dDhKTFVLRFVkR0l4VnVVQ0hGS1cxRXpGTjV3VXlOWUVScURBZng2dHF0bjJxWTMyaVpNeTdkd2FQZ3FFWXpXaXQ3TDhVQ0oyVkJMajdRUGVPOTN6dTE0UDEwczI1T1g1MkVXNmQ0?oc=5",
+      "pub_date": "2026-07-05T12:24:26+00:00",
+      "description": "Five hallmarks of effective AI strategies in banking&nbsp;&nbsp;EY",
+      "source": "EY",
+      "source_url": "https://www.ey.com",
+      "query": "AI C-suite human-centered leadership banking",
+      "category": "liderazgo",
+      "lang": "en"
+    },
+    {
       "title": "Andrea Guerrero, Diego Molano y Mario Hernández lideran el listado de los directivos más seguidos en redes sociales - El Tiempo",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcFlvMDRlbXdxUW1ldHVVMm9QRUpkVDNwNGQtX0JIdE1JSHlHZkVuRnlDdnVHZGUtWDc1dFExVmg2QnM4WndTZFVRRTgxUG9wMkQ1b2N6WjJFNEpYU3B6SWh0MzNIb0t0MlFqdUtvelA5b1IwYmRXNlprMEZVTUVFaEFsQ090ZUJ5eVNNdUVHV09fdHlPUVNoQ21IQUh5RTdkQXpSUDB6QmFnMjhwZThESXl6X0h3ek50UGZPNmFxWVZiTmZpTVluUTFXWWRSQzFzeFp3bndBR3ZmbTJzRTdIRFdBbG1YT2hHcElJblc4ZzRUYUpBNlJzdtIB_gFBVV95cUxOdXdOVjQ4WmtoSHZ1dDE4UzMtdjJuUHdtdUNxYUEwcmtJWUFEWlhoZUNRMzhMYktMa2dHWUlld0VucVFUNlJkNU1uWUhicGtUUmhIakdXRjczb25Ed2k1b0lOeFZnQllyY0QxemJqQkdWVjliZ2k5ejczeXNpRG9lN1Z1WjI2U3ZEYVVYNXVVSTd2bWQ0VjNuT1hENjNUOTlUbDRibnBMYXhnUERTdDJmQTNmN1pIampBd2RUQ1poV09jVllZcWE5SjBLeEpBeXpKS0lndlE2T1Q1RG1GMnBOaXBYZUFYbzd1ZXQ3MFpzeEU4VTJTUVRZRllDdXE3Zw?oc=5",
       "pub_date": "2026-07-01T07:00:00+00:00",
@@ -4546,81 +4623,26 @@
       "lang": "es"
     },
     {
-      "title": "JPMorgan eleva el optimismo sobre el S&P 500: cerrará el año en cerca de 8,000 puntos - EL CEO",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdHEyckM2TUEzQWtnU2VmbVZodENrTFFWWUhvaTZQblB1LVVoZnJlYlkzUVp0c2dpeUZkeG5BazNGdEhWV1NWUVQ5NDBjV0pCWGg3aEMzVU9wdHpLZXBqTzdTSDcwbFZzTTdHUU5TLW9GWWRQc2tSSHVRT0tHeG4xemlrOXlMcHhfb0kxSUxLaFhqMDQwVzNwOTd4V2dOS3pQVjRCY1pTMzJORFpnSmFV?oc=5",
-      "pub_date": "2026-06-24T07:00:00+00:00",
-      "description": "JPMorgan eleva el optimismo sobre el S&P 500: cerrará el año en cerca de 8,000 puntos&nbsp;&nbsp;EL CEO",
-      "source": "EL CEO",
-      "source_url": "https://elceo.com",
-      "query": "CEO CFO estrategia inteligencia artificial banco",
-      "category": "liderazgo",
+      "title": "Lanzan un boicot contra PlayStation por la muerte de los juegos en disco",
+      "link": "https://hipertextual.com/videojuegos/lanzan-boicot-playstation-contra-muerte-juegos-fisico/",
+      "pub_date": "2026-07-27T13:39:43+00:00",
+      "description": "La muerte de los juegos en disco sigue dando que hablar y Sony no puede dar vuelta la página con la rapidez que esperaba. Un grupo de preservación de videojuegos ha lanzado un boicot contra PlayStation, a modo de protesta por la discontinuación de los títulos en formato físico. La iniciativa que lidera Does it [&#8230;]\nSeguir leyendo: Lanzan un boicot contra PlayStation por la muerte de los juegos en disco",
+      "source": "",
+      "source_url": "https://hipertextual.com/videojuegos/lanzan-boicot-playstation-contra-muerte-juegos-fisico/",
+      "query": "https://hipertextual.com/feed",
+      "category": "habilidades",
       "lang": "es"
     },
     {
-      "title": "The AI-First Finance Function - Boston Consulting Group",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY2F2SXVkdXpiN1lIb1NLbnFGOGVJYU1ad1JHZXZtU2psT21ZZFplUW1KSElvX0ZYd1Vhb1ladG1lOFN0TFJvOFlhNXRVd1RmZTRKcDJfeWtQRVlEYmpVNldvNF9NRG92X0Q1R1JmRVBEUXE0QXhuTXdkT2FLejZpejV1WkpnN3lwakFleWZ1TGQ1Zw?oc=5",
-      "pub_date": "2026-06-17T07:00:00+00:00",
-      "description": "The AI-First Finance Function&nbsp;&nbsp;Boston Consulting Group",
-      "source": "Boston Consulting Group",
-      "source_url": "https://www.bcg.com",
-      "query": "CEO CFO artificial intelligence strategy financial sector",
-      "category": "liderazgo",
-      "lang": "en"
-    },
-    {
-      "title": "From Hindsight to Foresight: The CEO Mandate for an AI-First Chief Financial Officer - Boston Consulting Group",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON0hpYTFtei1ZeHUxcUhadlk4V2ZjY2ZNX1lGcU1Kak8tSkdwRW8tS0U5WTVOMUxnMmt0eWJkUW1XMGtNV3JzTDFtQTMydVJwUjQ1WHNRb05hUHZiM3F5U2szYTZvamhjNk5saHlCVmpHMGR6RjVYNU9vV0VWMlZ3X2tXRmQwY2ZLZVVOMGlfRk1XcDRzd1VCRzc1SW5yek5IbV9Ieg?oc=5",
-      "pub_date": "2026-06-16T07:00:00+00:00",
-      "description": "From Hindsight to Foresight: The CEO Mandate for an AI-First Chief Financial Officer&nbsp;&nbsp;Boston Consulting Group",
-      "source": "Boston Consulting Group",
-      "source_url": "https://www.bcg.com",
-      "query": "CEO CFO artificial intelligence strategy financial sector",
-      "category": "liderazgo",
-      "lang": "en"
-    },
-    {
-      "title": "Data + AI Summit 2026: Insider’s Guide for Financial Services Leaders - Databricks",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa0hjdTJUeXlTaHZ1dG9hTXlsM2FFTDNVMWpqWkQ0WmtHYTNzNlRlTFQ0emZaaGdROS1TQmQtemc5RjZtc2pUeHJRbTRBc1MxeWVEeXlHUWx2RXFDSVNINVkwclI1WWwwZUFXdy1SWkhVbXZlSlo4M29MLXEyTGs2Q0d4VlhJT0poT2l2RDE1Mmx0NW93MVI3cg?oc=5",
-      "pub_date": "2026-06-05T07:00:00+00:00",
-      "description": "Data + AI Summit 2026: Insider’s Guide for Financial Services Leaders&nbsp;&nbsp;Databricks",
-      "source": "Databricks",
-      "source_url": "https://www.databricks.com",
-      "query": "AI leadership banking executives strategy 2026",
-      "category": "liderazgo",
-      "lang": "en"
-    },
-    {
-      "title": "Reputation, Exposure, and Exit: Organizational Turnover after #MeToo",
-      "link": "https://arxiv.org/abs/2606.03491",
-      "pub_date": "2026-06-03T00:00:00-04:00",
-      "description": "arXiv:2606.03491v1 Announce Type: new \nAbstract: We study how economy-wide reputational shocks reshape corporate governance by examining board and executive turnover following the MeToo movement. We conceptualize the October 2017 revelations surrounding Harvey Weinstein as a common information shock that increased the expected cost of misconduct and intensified scrutiny across firms. Identification exploits cross-sectional variation in pre-shock exposure, measured by the frequency of Item 5.02 Form 8-K filings, which proxy for firms' sensitivity to governance-related disclosure and reputational risk. We develop a model of organizational exit in which directors respond to changes in reputational pressure through dynamic, belief-driven resignation hazards, generating heterogeneous and potentially nonlinear responses across firms. Empirically, we implement a continuous-treatment difference-in-differences design and complement it with dynamic event-study and matrix-completion estimators. We find that firms with greater pre-shock exposure experience significantly larger increases in resignation activity following the shock. The effects are concentrated in the immediate aftermath of the Weinstein revelations and are amplified through board-level interactions. The findings provide causal evidence that reputational shocks can induce rapid and systematic governance turnover, highlighting the central role of information, exposure, and organizational adaptation in shaping corporate responses to changes in the reputational environment.",
+      "title": "De qué va ‘Una tóxica historia de amor’, el true crime de Netflix que no te dejará indiferente",
+      "link": "https://hipertextual.com/cine-television/de-que-va-una-toxica-historia-de-amor-el-true-crime-de-netflix-que-no-te-dejara-indiferente/",
+      "pub_date": "2026-07-26T18:30:00+00:00",
+      "description": "Una tóxica historia de amor, el nuevo true crime de Netflix, combina en un mismo escenario terrorífico varios temas. De la fragilidad de la información digital actual a la violencia brutal. Todo, mientras desentraña uno de los casos de suplantación de identidad, manipulación digital y negligencia judicial más retorcidos de Norteamérica. Para eso, la producción [&#8230;]\nSeguir leyendo: De qué va ‘Una tóxica historia de amor’, el true crime de Netflix que no te dejará indiferente",
       "source": "",
-      "source_url": "https://arxiv.org/abs/2606.03491",
-      "query": "https://arxiv.org/rss/econ.GN",
-      "category": "liderazgo",
-      "lang": "en"
-    },
-    {
-      "title": "Merit or networks? What decides where research is published",
-      "link": "https://arxiv.org/abs/2606.03763",
-      "pub_date": "2026-06-03T00:00:00-04:00",
-      "description": "arXiv:2606.03763v1 Announce Type: new \nAbstract: Does scientific publishing reward the quality of ideas or the advantage of connections? The question is universal to prestige-driven science, yet it has resisted decades of study because a paper's quality could not be gauged ahead of its publication fate without using that fate as the yardstick. We break this constraint by measuring a paper's idea quality directly from its text, before publication, using a discipline-trained LLM evaluator that scores the idea without seeing author names or outcomes. Using economics as a case study, we combine this text-legible idea-quality score with an execution-quality rubric, a connection index, an author-ability index, and an off-the-shelf language-model text score to estimate a five-input production function for journal placement across 6,208 economics working papers. The inputs are not rivals but a sequence along the ladder of prestige. Execution sets a meritocratic floor and is the largest input overall. Text-legible idea quality grades the rungs in between. Connections set a favoritism ceiling that bites mainly near the apex, the most selective journals. Connections work through two additive channels: connected authors write papers that score higher, and at equal scores their papers are still more likely to place better. Yet this advantage is bounded. Connections raise the odds of every rung without making the apex the typical outcome for ordinary ideas, and even the highest-scoring papers face real friction reaching the visible journal ladder. The result nests, rather than chooses between, the meritocracy and network accounts of how science is published.",
-      "source": "",
-      "source_url": "https://arxiv.org/abs/2606.03763",
-      "query": "https://arxiv.org/rss/econ.GN",
-      "category": "liderazgo",
-      "lang": "en"
-    },
-    {
-      "title": "Generative AI and Sales Productivity: Field Experiments in Online Retail",
-      "link": "https://arxiv.org/abs/2510.12049",
-      "pub_date": "2026-06-03T00:00:00-04:00",
-      "description": "arXiv:2510.12049v5 Announce Type: replace \nAbstract: We quantify the short-term impact of Generative Artificial Intelligence (GenAI) on sales performance through a series of large-scale randomized field experiments involving millions of users and products at a leading cross-border online retail platform. Over 2023-2024, the platform integrated GenAI into seven consumer-facing business workflows spanning customer service, consumer-product matching, advertising, and seller services. We find that GenAI adoption increases sales in most workflows, with effects ranging from no detectable impact to $16.3\\%$, depending on GenAI's marginal contribution relative to baseline firm practices. Across the four GenAI applications with positive sales effects, the implied annual incremental value is roughly $\\$5-$an economically meaningful impact given the retailer's scale and the early stage of GenAI adoption. The gains operate primarily through higher conversion rates rather than larger cart values, consistent with GenAI improving the shopping experience by reducing search, information, communication, and personalization frictions. Importantly, these effects are not associated with worse post-purchase outcomes, as product return rates and customer ratings do not deteriorate. Finally, we document substantial demand-side heterogeneity, with larger gains for less experienced consumers. Our findings provide novel, large-scale causal evidence on how GenAI shapes sales productivity in online retail, highlighting both its immediate value and broader potential.",
-      "source": "",
-      "source_url": "https://arxiv.org/abs/2510.12049",
-      "query": "https://arxiv.org/rss/econ.GN",
-      "category": "liderazgo",
-      "lang": "en"
+      "source_url": "https://hipertextual.com/cine-television/de-que-va-una-toxica-historia-de-amor-el-true-crime-de-netflix-que-no-te-dejara-indiferente/",
+      "query": "https://hipertextual.com/feed",
+      "category": "habilidades",
+      "lang": "es"
     },
     {
       "title": "Trucos para crear mejores imágenes con ChatGPT y Gemini",
@@ -4788,23 +4810,23 @@
       "lang": "en"
     },
     {
-      "title": "Banco Nacional de Talentos: qué es, cómo funciona y quiénes podrán postularse al nuevo sistema del Gobierno | El Colombiano - El Colombiano",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOckVISmpmOXFaZTRpS2RIX3NsemphUEFVVnAxUXhlM2ZDZk1Fd3dyZlppQV9wUV9lanA2d0UtNTY0Y01EVXlEbHgtbXlRb1NHSHkzM0ZCTXY1Z0gxbUVycDJFRXJvYWpreTdIRnVvejR2clpfWE00ZXQ0SlRVYnd5THFCbF9jUlhxZ1RaTXQ5dUNHZlQyZUFiTnFCV0hDdW9KRjZoZkFHLXBPYjBuU204eko5eWzSAboBQVVfeXFMT29tcjRkLUF0YTdYNmJmYmwzdE9YZW9jN3ZDM1IyR0xfaVU3VDFEdU1JNWQ1ZFZsT1h0SElkUW1PbF9jNUl6NkxJaWJYXzVGM3NzbGV1enFUUGtEWDVMaEVRN3UwOHQ1VDRsRVR6UmZnRjc4ZUxkMWxwNkJuVmZlWlg2ajZWcHNSZ1dsaFlxRUNHNDN5TFhnZDRGZ1FualVKX0lkamM3VnJ1bFhlNmNRbkhrb3YtWTFsdC13?oc=5",
-      "pub_date": "2026-07-14T07:00:00+00:00",
-      "description": "Banco Nacional de Talentos: qué es, cómo funciona y quiénes podrán postularse al nuevo sistema del Gobierno | El Colombiano&nbsp;&nbsp;El Colombiano",
-      "source": "El Colombiano",
-      "source_url": "https://www.elcolombiano.com",
-      "query": "competencias digitales inteligencia artificial banco Colombia",
-      "category": "habilidades",
-      "lang": "es"
-    },
-    {
       "title": "Abelardo de la Espriella presentó el ‘Banco de Talentos’: así funcionará la plataforma para seleccionar los funcionarios del nuevo Gobierno - Infobae",
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQZUdVVFg1R2xZVWxDTThxVGt4ODdaaUYxRWY1RzM5MUxtY3Jqc0JwOW9wQ0F3Q0FIRGg3ODloQldmSW1LdFZFOEFDTFlIVzVlYlFKX1dzS2lVWU5MdUlqUlhsbktlWDlkRVIwT0JMY3RQbWJUNHhGZDBNVk9HQ2c3ZFVINmJwX1lKNlQ5VjdkeHNRQTQxS2x2NzUxemFKalBmTF9wTUZyLWpBazYyX0I5b2ZmamNDeUw3OWxlaWRnRVRobTNqekdMTnp0Z0hTUHMwd3JxZHF1bHJ1QnRuV1lHTHdrRm1ieHA2dUQzcWktQnNfazFjMlJPMVZnd3RodmpnV2plSGhR0gGgAkFVX3lxTFBXUEZoSE13WHp1RVRWS0ZHdGZlS1B0ZzgwVXRMS09URy1WUGh0WDVibkJ5UFZaQTRvWDk4Tk0xSXFMLTlTTld6YmN2cGNsbzNiSmVjb1hvWXNjOXoyRzJ5Vjl2MzExTmxBSlpGVlQyQkoxa1BaR01tRk04OVFtSFU0YnJITGFuN0VSX1hHamh1WlBvUnRobDdpMmRzTWsxYTdrYmJrSW5oQ2tOSUVmQktmOUwwdVVNZnI4MDdKZzhodm1xbWFxOEhRSmNsUmlzRTJUSjJ5YTdwOXRUV2xxNm1JNzRoMzUtVjdhd2pnNlR5LTR3Y1pERUpNQzRyX3pkVkkyM3RIeTNEMFVoeGtRMG45QWpINDZiZVF5QnZNUUZ5cw?oc=5",
       "pub_date": "2026-07-14T07:00:00+00:00",
       "description": "Abelardo de la Espriella presentó el ‘Banco de Talentos’: así funcionará la plataforma para seleccionar los funcionarios del nuevo Gobierno&nbsp;&nbsp;Infobae",
       "source": "Infobae",
       "source_url": "https://www.infobae.com",
+      "query": "habilidades inteligencia artificial profesionales banca 2026",
+      "category": "habilidades",
+      "lang": "es"
+    },
+    {
+      "title": "Banco Nacional de Talentos: qué es, cómo funciona y quiénes podrán postularse al nuevo sistema del Gobierno | El Colombiano - El Colombiano",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOckVISmpmOXFaZTRpS2RIX3NsemphUEFVVnAxUXhlM2ZDZk1Fd3dyZlppQV9wUV9lanA2d0UtNTY0Y01EVXlEbHgtbXlRb1NHSHkzM0ZCTXY1Z0gxbUVycDJFRXJvYWpreTdIRnVvejR2clpfWE00ZXQ0SlRVYnd5THFCbF9jUlhxZ1RaTXQ5dUNHZlQyZUFiTnFCV0hDdW9KRjZoZkFHLXBPYjBuU204eko5eWzSAboBQVVfeXFMT29tcjRkLUF0YTdYNmJmYmwzdE9YZW9jN3ZDM1IyR0xfaVU3VDFEdU1JNWQ1ZFZsT1h0SElkUW1PbF9jNUl6NkxJaWJYXzVGM3NzbGV1enFUUGtEWDVMaEVRN3UwOHQ1VDRsRVR6UmZnRjc4ZUxkMWxwNkJuVmZlWlg2ajZWcHNSZ1dsaFlxRUNHNDN5TFhnZDRGZ1FualVKX0lkamM3VnJ1bFhlNmNRbkhrb3YtWTFsdC13?oc=5",
+      "pub_date": "2026-07-14T07:00:00+00:00",
+      "description": "Banco Nacional de Talentos: qué es, cómo funciona y quiénes podrán postularse al nuevo sistema del Gobierno | El Colombiano&nbsp;&nbsp;El Colombiano",
+      "source": "El Colombiano",
+      "source_url": "https://www.elcolombiano.com",
       "query": "competencias digitales inteligencia artificial banco Colombia",
       "category": "habilidades",
       "lang": "es"
@@ -4830,6 +4852,17 @@
       "query": "habilidades inteligencia artificial profesionales banca 2026",
       "category": "habilidades",
       "lang": "es"
+    },
+    {
+      "title": "Remote AI Jobs: Navigating Work-from-Home Careers in Artificial Intelligence - Coursera",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBmbWladjExY1N5UXg1UEktZ2RaeWZkT1ZqekxWQkg4b1VxUS1tT2xfZWlBeHV1XzJYWVh5OVVBWUR5T2Jvb3BjWVhMSmltaFRNcl9WNEc4M3RLZ2tD?oc=5",
+      "pub_date": "2026-06-29T07:00:00+00:00",
+      "description": "Remote AI Jobs: Navigating Work-from-Home Careers in Artificial Intelligence&nbsp;&nbsp;Coursera",
+      "source": "Coursera",
+      "source_url": "https://www.coursera.org",
+      "query": "artificial intelligence technical skills finance workers",
+      "category": "habilidades",
+      "lang": "en"
     },
     {
       "title": "Top CFOs warn AI success depends on training employees, not just buying technology - Fortune",
@@ -5248,39 +5281,6 @@
       "query": "AI literacy financial sector learning development",
       "category": "habilidades",
       "lang": "en"
-    },
-    {
-      "title": "Empresas del Edomex prevén contratar 40% más personal en tecnologías de la información - El Sol de México",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkZhaDB4bzNJbTFxUGFBb1psRFpLSUFlbG91dnVmOWlaajlUZWsyRHVhdF9naGpMWWYxd0FkbWNzYlo2U3RzSEo1YmRWN3pwV0JKZ0tFcG5GeVhuMG5mVDVfekpGSlM4Yi10cDlFcDZGZDc5UmRkTmZDZU5YUmRxOFZRTVB2VVJfVHNnSERjeDJHUXVPa2h1VnJLbkhNUF83RHVIMkpWbURrTUZ1b1hmV25zTFl3RmFER1pSUnBkSlg2bUs5Y2tWUEdiWmpsZFlkYXc?oc=5",
-      "pub_date": "2026-03-26T07:00:00+00:00",
-      "description": "Empresas del Edomex prevén contratar 40% más personal en tecnologías de la información&nbsp;&nbsp;El Sol de México",
-      "source": "El Sol de México",
-      "source_url": "https://oem.com.mx",
-      "query": "capacitacion IA upskilling reskilling sector financiero",
-      "category": "habilidades",
-      "lang": "es"
-    },
-    {
-      "title": "Nequi mueve ficha lejos de los bancos en Colombia: presenta programa gratis y exclusivo para miles de sus u... - redmas.com.co",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMldENlo1cWFKR18zOUNuLVFvRjhRYlNHeTE1dFhhUG5Nak1xQzljWENQZms2NWNTaXdMRnU4RUZfTmhkZGZOTXdRcXpJXzVHRnNDTUNMZWxVQ1ZoQ3AzaW04ZGc1bGF4LXdGQ2xVWm1nWFRNaWFhcjNjN25WQnpWUGc3VkZIVDkzSGxHOG8yNG10X0R3UG5pMjl3akd6Znh2TnpyRFloaDFDblBwTmhoUTlPMlJxVEJaNXBpYmMzNGJzVUZKbGtGOHVXTlptczZMN2xxbmNqNWJxaHF1RkdxLXVOdHIxUGYyenRtRGRtVXFqQlpIdFHSAfsBQVVfeXFMT3RWa0VzWGQ2bHFtYUM4ZlFjZTVzVnNEY1MxMzVtdm9laFJublhPcnRJR2F5eTFnMmtBbjlWaXVZa0pPcVUyOWQwQlVOeGZVR0M4VmhBTS1zbzZSWDRoQkVIeldsNUxDMzhkaXFaNUNCcGk2RlJzZnVNWFhMZ2FHa3FCN1JwUlFSc1pGdXQ4Tm9URWtnd1AySE9rMEVfTWoyUjhtcGltQXJ4SE82UjR5TTlaRll3ZXk2NDM4WXRuZlVsRExPUmpqejJUdUVFMVJ5WHZtdU12TEJNbDFTWFR0b2t5dTdLaV92Zm9IZjVyTXMwZHY0N1phRTd2T28?oc=5",
-      "pub_date": "2026-03-20T07:00:00+00:00",
-      "description": "Nequi mueve ficha lejos de los bancos en Colombia: presenta programa gratis y exclusivo para miles de sus u...&nbsp;&nbsp;redmas.com.co",
-      "source": "redmas.com.co",
-      "source_url": "https://redmas.com.co",
-      "query": "competencias digitales inteligencia artificial banco Colombia",
-      "category": "habilidades",
-      "lang": "es"
-    },
-    {
-      "title": "Profesiones con futuro: descubre los empleos del mañana en 2026 - Oficina Empleo",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONEU1YUpoZjZpdGR2YmlWTjJ0enhicUlrU0NsRlFxVDdTcjNudmthcktETlJybl9ZeWNFRk9yX2R0blNSeEs4WFVvSHZILXpXMy1qSHlwR3Zsc3ctU0F1U29pX3hnV2RjSnotNWllY0NjV2wzQkczbmYzT2pNcWx1Z0UzVzlUWU00NVNhUkFFZjRqWFdLM1lTbFJvaFZsYnfSAaQBQVVfeXFMTS14NlNLZndiTVQ1dE41R1hvWS1CNm80TTV2eVJjYVlycmN1YkZyS0tkTmdmRURQcDkwR25SZUZPZDNZQURTb2d0dmoxQU1iNy1hRU9fS21pSlNLTmVnLVZMNDQ2MkhNQnhoeFUzaFBCUEFEcEF5NUFteHJEcjhfWUNybXFDRDBlQm5GVzZ5LVpFa1VGcndoNXZEbmt3OElmWHVNMGI?oc=5",
-      "pub_date": "2026-03-10T07:00:00+00:00",
-      "description": "Profesiones con futuro: descubre los empleos del mañana en 2026&nbsp;&nbsp;Oficina Empleo",
-      "source": "Oficina Empleo",
-      "source_url": "https://www.oficinaempleo.com",
-      "query": "habilidades inteligencia artificial profesionales banca 2026",
-      "category": "habilidades",
-      "lang": "es"
     }
   ]
 }
