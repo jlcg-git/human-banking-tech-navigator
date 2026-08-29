@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-28T21:21:26.983175+00:00",
+  "updated_at": "2026-08-29T15:37:50.678301+00:00",
   "total": 480,
   "items": [
     {
@@ -267,10 +267,10 @@
       "lang": "en"
     },
     {
-      "title": "Top 25 Generative AI Finance Use Cases in 2026 - AIMultiple",
+      "title": "Top 25 Generative AI Finance Use Cases - AIMultiple",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWU2VBNWxybEkxWGd3VWJKaE5yTmRjTHIxNFEtdHF1bEJGREtxQ2V5U3N1eXl4eGcxenlIeW9PSlljVUdXQ05fWFJIWkRQRDZyMUxLcWQ3WQ?oc=5",
       "pub_date": "2026-08-11T07:00:00+00:00",
-      "description": "Top 25 Generative AI Finance Use Cases in 2026&nbsp;&nbsp;AIMultiple",
+      "description": "Top 25 Generative AI Finance Use Cases&nbsp;&nbsp;AIMultiple",
       "source": "AIMultiple",
       "source_url": "https://aimultiple.com",
       "query": "artificial intelligence bank credit risk automation",
@@ -410,17 +410,6 @@
       "lang": "en"
     },
     {
-      "title": "IA en las finanzas - ActuIA",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ic3VnMXFIcGNOYWJITEs0Vm1hbGJOLThnT0gyYnZYU19uc0tWUkpfQzJJU25CQnJ2aDB5ZUxfWWVOTlNHaTlMN01HUXM0d0RVc1M0c0IwMGxHc2duajZvRVZCOA?oc=5",
-      "pub_date": "2026-07-31T07:00:00+00:00",
-      "description": "IA en las finanzas&nbsp;&nbsp;ActuIA",
-      "source": "ActuIA",
-      "source_url": "https://www.actuia.com",
-      "query": "inteligencia artificial credito riesgo operaciones bancarias",
-      "category": "banca_trad",
-      "lang": "es"
-    },
-    {
       "title": "From Systems of Record to Outcome-Driven AI Banking - FinTech Magazine",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZDlsZGdsb0dEQnZTaXhFS0hFM01Fa1FlWXVWeDNWLXhpbnhaVnFiOEpEbmROTzNxZFlYYWlBVnctZGVjVGVFU0JhLVRESUNHc3M0dlNFSFBfYmJGbGw1N0Flb2k3a19DbXhUTG9WZFBjT1FLV0ZOcFc4c21XdXRRdTZ4aTgwdU1hRFNxSHV1U0k0dw?oc=5",
       "pub_date": "2026-07-31T07:00:00+00:00",
@@ -430,6 +419,17 @@
       "query": "AI banking operations technology financial",
       "category": "banca_trad",
       "lang": "en"
+    },
+    {
+      "title": "IA en las finanzas - ActuIA",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5ic3VnMXFIcGNOYWJITEs0Vm1hbGJOLThnT0gyYnZYU19uc0tWUkpfQzJJU25CQnJ2aDB5ZUxfWWVOTlNHaTlMN01HUXM0d0RVc1M0c0IwMGxHc2duajZvRVZCOA?oc=5",
+      "pub_date": "2026-07-31T07:00:00+00:00",
+      "description": "IA en las finanzas&nbsp;&nbsp;ActuIA",
+      "source": "ActuIA",
+      "source_url": "https://www.actuia.com",
+      "query": "inteligencia artificial credito riesgo operaciones bancarias",
+      "category": "banca_trad",
+      "lang": "es"
     },
     {
       "title": "IA en las finanzas - ActuIA",
@@ -1345,6 +1345,17 @@
       "lang": "en"
     },
     {
+      "title": "Bank of England Welcomes Government Plan to Drive UK Payments Innovation - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPN0I3ZzFqMWtrWTN0dTlFUWI5UVN1VXdnUWk2dF9tblhfMmVoanAwME5HZThmcVJqOU1tUGxxaFJ0U25mekhPb0xaV1RtSE5VLUxRaXpDUnljc000TUFZUWJJZXh2by11UVBybzkyTnZuVmZGLWEtbEx1d0JtWXhWdE5WeEVTWE1fM1ZJZ3llMEtIMC1xdDJzSTRaSDM0dE5CVHExR1ZXdUxOZ0w2d2VhdUJYZm8yOUhWeGFxbEpoaHA5clJZ?oc=5",
+      "pub_date": "2026-08-27T02:09:42+00:00",
+      "description": "Bank of England Welcomes Government Plan to Drive UK Payments Innovation&nbsp;&nbsp;PYMNTS.com",
+      "source": "PYMNTS.com",
+      "source_url": "https://www.pymnts.com",
+      "query": "blockchain AI financial services regulation",
+      "category": "cripto",
+      "lang": "en"
+    },
+    {
       "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights - Investing News Network",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5",
       "pub_date": "2026-08-26T21:05:00+00:00",
@@ -1477,17 +1488,6 @@
       "lang": "en"
     },
     {
-      "title": "SA’s crypto rules hit decentralised finance wall - ITWeb",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVThxZmJDcWEzUEFELUZEeWd0Q0lmaV9POEIwN1d6TTJDekFTLW9ZR2w1QU1VMlNiUGxmUDV6RmhmdXNEZE9vOV9PU2dENFRaZ000SHVrZnd5X09mdzRNVmxwbW1mX2NMaE9ZNWdncEVyYV9CUW9iNmY3MWN4VnNBT01VdVRZaFY4SDhsME5LRTdaRFRxVVVZVW9UcGg?oc=5",
-      "pub_date": "2026-08-11T07:00:00+00:00",
-      "description": "SA’s crypto rules hit decentralised finance wall&nbsp;&nbsp;ITWeb",
-      "source": "ITWeb",
-      "source_url": "https://www.itweb.co.za",
-      "query": "blockchain AI financial services regulation",
-      "category": "cripto",
-      "lang": "en"
-    },
-    {
       "title": "Ya esta disponible la agenda oficial del Cripto Latin Fest para el 27 y 28 de agosto en Bogotá - Criptoinforme",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91MEtnNzZDWXQxYzBOS0RHVXAtM2N1NFEwbXJlUVA2OERQY3ZlaFNGdEJhTHlLLWFiYnFtTTEwSG5OcFVPTHU4NDlhd20zRHhIV1BibVBUYmNhalhkd24wRnJTYVFSOFhCdFZ2R2ZIVnl6Zw?oc=5",
       "pub_date": "2026-08-11T07:00:00+00:00",
@@ -1497,6 +1497,17 @@
       "query": "criptoactivos inteligencia artificial regulacion 2026",
       "category": "cripto",
       "lang": "es"
+    },
+    {
+      "title": "SA’s crypto rules hit decentralised finance wall - ITWeb",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVThxZmJDcWEzUEFELUZEeWd0Q0lmaV9POEIwN1d6TTJDekFTLW9ZR2w1QU1VMlNiUGxmUDV6RmhmdXNEZE9vOV9PU2dENFRaZ000SHVrZnd5X09mdzRNVmxwbW1mX2NMaE9ZNWdncEVyYV9CUW9iNmY3MWN4VnNBT01VdVRZaFY4SDhsME5LRTdaRFRxVVVZVW9UcGg?oc=5",
+      "pub_date": "2026-08-11T07:00:00+00:00",
+      "description": "SA’s crypto rules hit decentralised finance wall&nbsp;&nbsp;ITWeb",
+      "source": "ITWeb",
+      "source_url": "https://www.itweb.co.za",
+      "query": "blockchain AI financial services regulation",
+      "category": "cripto",
+      "lang": "en"
     },
     {
       "title": "\"They Can't Open Bank Accounts\": Pantera Founder Says AI Agents Will Drive Crypto Demand - Yellow.com",
@@ -1829,17 +1840,6 @@
       "lang": "en"
     },
     {
-      "title": "La Duma decidirá el futuro de la regulación cripto en Rusia - Cointribune",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOejB4bzEwWElZMkhKYVBDaUZtRE1YeFdzWVVybDByWWF3YjdLejA2ZXI2Q0lBM2pKZ1J5OWktU294M1dpSGRTU083SThjbVdHa1NKUnV4dTd4OHRMcXh3MjNqWHlaMDBzVUFiOTMwWEdrcklHUzVBcy1KaFEzOHRSNm1hbWhKZUd4anF2WFpKMUR2b3lDV1JiSg?oc=5",
-      "pub_date": "2026-07-21T07:00:00+00:00",
-      "description": "La Duma decidirá el futuro de la regulación cripto en Rusia&nbsp;&nbsp;Cointribune",
-      "source": "Cointribune",
-      "source_url": "https://www.cointribune.com",
-      "query": "criptoactivos inteligencia artificial regulacion 2026",
-      "category": "cripto",
-      "lang": "es"
-    },
-    {
       "title": "Augustus raises $180 million to build a clearing bank for the AI and stablecoin era - CoinDesk",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR2VNdXRSZlJldjlVSFpUMEJscVFJaHY4X1lTN1ktVFlpODJOTkVsb3VWRjltdlI0SlI0bmlvdExJYlJEWHFWaGNUVk1TWHVQemFqOUYzMEUxUC1BMHdHc1ZoNk1IU3EzNXVzTGZsRXhhcnlQaGpob2trZ1Q3Q0xiRWJGbGVNMWhWSmdJcWFFbmxWVm82VHpndzJoRzdjbkZORTlfY0FHQWRPT1E4ZFI2Y2xRUXg2LWQ3NmQtSlhJR3JiTlFhV0pDbXlB?oc=5",
       "pub_date": "2026-07-21T07:00:00+00:00",
@@ -1849,6 +1849,28 @@
       "query": "crypto AI blockchain banking 2026",
       "category": "cripto",
       "lang": "en"
+    },
+    {
+      "title": "The AI Revolution: Navigating the Regulatory Landscape in UK Financial Services - Latham & Watkins LLP",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSlJrekFwNW9QdFJZM0owS3h4eVh2WnI5UWdIUEh2VnMydWxRWnhQXzZHZEdPNm1sVERqQXlKQjdNNUVxc1dtMkJzcjRFaUkydVNfX2l3ekE4RzNEZTlzbXhyc2FJeFBsbHBaZWFmbGE1RXpxT0trZ3ljTm4wNk81MWZ3ZGxPaHdzNFM2emE0Rl80bnEwSUllM2RSTXZtMENtRlJuNXl3NVcxUUlPM1E?oc=5",
+      "pub_date": "2026-07-21T07:00:00+00:00",
+      "description": "The AI Revolution: Navigating the Regulatory Landscape in UK Financial Services&nbsp;&nbsp;Latham & Watkins LLP",
+      "source": "Latham & Watkins LLP",
+      "source_url": "https://www.lw.com",
+      "query": "blockchain AI financial services regulation",
+      "category": "cripto",
+      "lang": "en"
+    },
+    {
+      "title": "La Duma decidirá el futuro de la regulación cripto en Rusia - Cointribune",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOejB4bzEwWElZMkhKYVBDaUZtRE1YeFdzWVVybDByWWF3YjdLejA2ZXI2Q0lBM2pKZ1J5OWktU294M1dpSGRTU083SThjbVdHa1NKUnV4dTd4OHRMcXh3MjNqWHlaMDBzVUFiOTMwWEdrcklHUzVBcy1KaFEzOHRSNm1hbWhKZUd4anF2WFpKMUR2b3lDV1JiSg?oc=5",
+      "pub_date": "2026-07-21T07:00:00+00:00",
+      "description": "La Duma decidirá el futuro de la regulación cripto en Rusia&nbsp;&nbsp;Cointribune",
+      "source": "Cointribune",
+      "source_url": "https://www.cointribune.com",
+      "query": "criptoactivos inteligencia artificial regulacion 2026",
+      "category": "cripto",
+      "lang": "es"
     },
     {
       "title": "Bernie Sanders lanza una campaña contra las criptomonedas y la IA - DiarioBitcoin",
@@ -1961,26 +1983,37 @@
       "lang": "en"
     },
     {
-      "title": "Bybit Targets Institutional Trust and AI-Powered Yield as Crypto Matures - finance.biggo.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBabHRHRWFzOUY5cWpPQlZZS2d3OTNzaEZJbFhVQndmVUxGODBTV19leUxSckpGenpXWmVEZFNTSUJGazVZbk5EODl6dW5ueElTbmV6d3NlZnlpc2pGYnVfQUxrQXJjRWkwOWhIX0hPWExNeHc2WkE?oc=5",
-      "pub_date": "2026-07-13T07:00:00+00:00",
-      "description": "Bybit Targets Institutional Trust and AI-Powered Yield as Crypto Matures&nbsp;&nbsp;finance.biggo.com",
-      "source": "finance.biggo.com",
-      "source_url": "https://finance.biggo.com",
-      "query": "artificial intelligence cryptocurrency institutional adoption",
-      "category": "cripto",
+      "title": "Malware Has a Branding Department and ToxicPanda Is Its Latest Star",
+      "link": "https://www.pymnts.com/cybersecurity/2026/malware-has-branding-department-toxicpanda-is-latest-star/",
+      "pub_date": "2026-08-29T08:00:44+00:00",
+      "description": "ToxicPanda sounds like an energy drink formulated for people who regard sleep as a character flaw. It’s actually an Android banking Trojan capable of taking over phones, stealing financial credentials and initiating unauthorized transactions. Its newly discovered sequel, ToxicPanda 2.0, is bigger, more capable and apparently produced by a franchise that believes every villain deserves [&#8230;]\nThe post Malware Has a Branding Department and ToxicPanda Is Its Latest Star appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/cybersecurity/2026/malware-has-branding-department-toxicpanda-is-latest-star/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
       "lang": "en"
     },
     {
-      "title": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 12 de julio - CryptoRank",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNkZKeEEwU003U3B1ZW15UENpWDg4ZHc0aEZ4MGpwYVFHTnNnbEk1enpWVHJ6LWpBUWZTMlpMcDZ4TmxhdGxYOG1yMGgtc1NWZ2oxN25ydWtqSlJCSHpFWE9kbDloYVMzSDRYN09rbmdhNHI1TC1ZWXEyYmF1Qkd4NjVxcjJGeTVUMnRtMHNLZVd1RzkxVExBYUdlYXFYMlA0WURYN3ZTdkpfdw?oc=5",
-      "pub_date": "2026-07-12T22:32:06+00:00",
-      "description": "Resumen semanal de Bitcoin y criptomonedas: España y América Latina – 12 de julio&nbsp;&nbsp;CryptoRank",
-      "source": "CryptoRank",
-      "source_url": "https://cryptorank.io",
-      "query": "criptomonedas inteligencia artificial America Latina",
-      "category": "cripto",
-      "lang": "es"
+      "title": "Genius Group Targets Bitcoin Treasury Rebuild 5 Months After Selling Off",
+      "link": "https://www.pymnts.com/blockchain/bitcoin/2026/genius-group-targets-bitcoin-treasury-rebuild-5-months-after-selling-off/",
+      "pub_date": "2026-08-28T22:45:44+00:00",
+      "description": "Genius Group, a company that operates a bitcoin and artificial intelligence (AI) dual treasury strategy alongside its core education business, plans to acquire $827 million in bitcoin treasury and $800 million in AI treasury by its fiscal year 2031, the firm said in a Thursday (Aug. 27) press release. Genius Group plans to fund the [&#8230;]\nThe post Genius Group Targets Bitcoin Treasury Rebuild 5 Months After Selling Off appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/blockchain/bitcoin/2026/genius-group-targets-bitcoin-treasury-rebuild-5-months-after-selling-off/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "OCC Rewrites Enforcement Playbook to Focus on Big Bank Risks",
+      "link": "https://www.pymnts.com/legal/bank-regulation/2026/occ-rewrites-enforcement-playbook-to-focus-on-big-bank-risks/",
+      "pub_date": "2026-08-28T22:12:36+00:00",
+      "description": "The Office of the Comptroller of the Currency (OCC) issued two revised policies and procedures manuals and proposed amendments to Violations of Laws and Regulations framework Thursday (Aug. 27), saying in a press release that these moves will focus supervisory attention on the most significant risks and violations. Announcing these materials in a Thursday post on X, Comptroller of the [&#8230;]\nThe post OCC Rewrites Enforcement Playbook to Focus on Big Bank Risks appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/legal/bank-regulation/2026/occ-rewrites-enforcement-playbook-to-focus-on-big-bank-risks/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
     },
     {
       "title": "BIS General Manager Says Tokenized Deposits Beat Stablecoins for Digital Payments",
@@ -2610,39 +2643,6 @@
       "lang": "en"
     },
     {
-      "title": "57% of SMBs Now Sell Through Their Own Websites",
-      "link": "https://www.pymnts.com/smbs/2026/57-percent-of-smbs-now-sell-through-their-own-websites/",
-      "pub_date": "2026-08-24T08:00:18+00:00",
-      "description": "Small businesses increasingly see growth coming from the digital channels that extend their reach without requiring another storefront. The PYMNTS Intelligence report “Why Main Street’s Digital Survivors Are Pulling Ahead: Four Years of Small Business Data” draws on 23 surveys conducted from July 2022 through February 2026. It finds that most small and medium-sized businesses [&#8230;]\nThe post 57% of SMBs Now Sell Through Their Own Websites appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/smbs/2026/57-percent-of-smbs-now-sell-through-their-own-websites/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "Connecting What’s Next: Open Infrastructure for the Future of Commerce",
-      "link": "https://www.pymnts.com/tracker_posts/connecting-whats-next-open-infrastructure-for-the-future-of-commerce/",
-      "pub_date": "2026-08-24T08:00:16+00:00",
-      "description": "This trade-off is no longer just a technical inconvenience. It shapes how quickly a business can enter new markets, how well it controls costs and how resilient it stays when a single provider falls short. A retailer stitching together five separate payment systems is a bit like a restaurant running a kitchen with five different [&#8230;]\nThe post Connecting What’s Next: Open Infrastructure for the Future of Commerce appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/tracker_posts/connecting-whats-next-open-infrastructure-for-the-future-of-commerce/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "Payment Choice Helps Decide Where Nearly Two-Thirds of US Shoppers Buy",
-      "link": "https://www.pymnts.com/consumer-insights/2026/payment-choice-helps-decide-where-nearly-two-thirds-of-us-shoppers-buy/",
-      "pub_date": "2026-08-24T08:00:13+00:00",
-      "description": "A merchant can win the product search, the price comparison and the trip to checkout, only to discover that how a customer wants to pay can still influence where the purchase ultimately happens. Payment acceptance now influences merchant choice for 65% of U.S. shoppers, according to the “Global Digital Shopping Index: U.S. Playbook, The New [&#8230;]\nThe post Payment Choice Helps Decide Where Nearly Two-Thirds of US Shoppers Buy appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/consumer-insights/2026/payment-choice-helps-decide-where-nearly-two-thirds-of-us-shoppers-buy/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
       "title": "SOUTH-AFRICA Artificial Intelligence (AI) Market Size, Share,Trends, Growth Analysis Report, 2031 - MarketsandMarkets",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeEwyZGdFeVIzRW9KUHM4T3VnZl9EZ01abG5FeVhPbEo2NF8wVUI3MHZUMHN3OE10NlZOcHVhX1hZZ0JmSXBnemxOTGFCQS00WmNBZTJ4UE9uS3BGQjZReTlzU3IzamdwYl9oMWJkQ3VDTFNlYWQ1ZVVJb2xDdHBJbnRwcWRORFpYZWxtU09RRU85Ui1XZVdjSmJFOWJ1bHpzMEpTSQ?oc=5",
       "pub_date": "2026-08-28T17:10:10+00:00",
@@ -2733,7 +2733,7 @@
     {
       "title": "Regional Cooperation in Artificial Intelligence: A Blueprint for International Cooperation in Latin America and the Caribbean - Stimson Center",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN3pseXlKRnlEQkNYUERET0lwQzZ4R1k0cHNLN2Y0RDczTUZHV0NsdURoZnY0MndQaDJyVW5jRTlHYl9ZZnRjY0I1NURIMmlGOTRPU0ZXN3NNc3VFZ3V1bmRXQl96WnI3UzBCaVhQazZhM0RmNzRGS0JNWVNKVTVTVHpBMlcyai01N0I3OGFkWDNUcFBDOXVJa3hpcnZyc2Z1N3RWdjlIYzd1bVNlazVSaUNkTU5DUWJMU3NSQndDdG1hc1Q5ZElwSXhSbEYyd0tUaVhkc1JVMDNad3A1NE5oT1EtY1l3R3FpRFE?oc=5",
-      "pub_date": "2026-08-21T04:40:00+00:00",
+      "pub_date": "2026-08-21T07:00:00+00:00",
       "description": "Regional Cooperation in Artificial Intelligence: A Blueprint for International Cooperation in Latin America and the Caribbean&nbsp;&nbsp;Stimson Center",
       "source": "Stimson Center",
       "source_url": "https://www.stimson.org",
@@ -2786,6 +2786,17 @@
       "lang": "es"
     },
     {
+      "title": "Colombia authorises joint anti-drug ops with US military: Pentagon - NST Online",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONUwxZjRXM0FJVG9BcWIteUxxa1RxRVFiLXhnVFgwME1iU0R6VEhFS1JwUXBua21KS1NHMzhpUW9xczBHNk5pY2tSYlh6eGRycTlEam9FZUQxLXFXZWFsbnhuSUU0cFp0S2hwSjU5RXU4ZGZhY1A5ZldjSmdvTWk5UkloVUotWnNJY2tVS0NBMjBUMk85SDJWLW9CNmNkMjY3aUJQU3M2WUlrZDQwSEZ2StIBtgFBVV95cUxNTXZWNEpKcHFkZG5yR0Fhc3VzdGRGYjZjb0ZnbHJvbVRmZW5xRVZ5SlFSQkJ0eGNsazR4b2tuUzNTNk81NS01RGxwUXhQdTdycmFFbjByY1FDektqUjVmTVctN0hxRUpmcmY0c2M3ZVQ4WlAtMVM5ZWQ5b1I3TG0waTh4eUtwSmVYTEY3NmhiTjVpVzdjQ1BWRzlQRUM1c3phVmNTSXFEb1hqc2FQTGxqMGF5WVhTdw?oc=5",
+      "pub_date": "2026-08-12T07:00:00+00:00",
+      "description": "Colombia authorises joint anti-drug ops with US military: Pentagon&nbsp;&nbsp;NST Online",
+      "source": "NST Online",
+      "source_url": "https://www.nst.com.my",
+      "query": "AI banking Latin America Colombia Panama 2026",
+      "category": "latam",
+      "lang": "en"
+    },
+    {
       "title": "Stablecoins can transform the Global South by reimagining digital finance, trade, and development - Brookings",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONi1DZEh3TUp5ZHNTMUMwekhiemozYXFxQUdDWWdSSmNkanpuYlNhUkdwLXVseG9oSEVXNi1rRHFkUEZ0ajFaNXl2RWJCQV9hV2dBck92d0xqVWg5d2xXSHBGS05mbWpybm5vS0dkOFNRQjdIa2FyTFJKbHoyZzJoVWJ4WEpFWEVBZGFkQjRwcDdMcWlqLXVtcVRHdTFUcWxxQlctaXRRSUtvNTFvbFNITEx4azlBMXdFbDN4ektkbC10SXBKaDEyRS1DMA?oc=5",
       "pub_date": "2026-08-12T07:00:00+00:00",
@@ -2797,10 +2808,10 @@
       "lang": "en"
     },
     {
-      "title": "El Salvador ocupa el quinto lugar en resiliencia cibernética regional, con un índice del 41%, según estudio - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU2dNSnFLVEpSY2VaU0haV1A3NWI3ZW9DcjhyWi1ZbUJwZnFraXdTNnBoV01jaTd6ckNLUEhQREFqN3NPdUtvTXc3NDBieHZ4eWMtcGpyby04S2VLOVVGZnlwXzlHcjQxRkxBYWFQNHo2OTFCVlY1Z1U4MmNxZV9TU0QybzZLTmkyVHk3M282eDhRalUtN3lFQXZlVS1OeVNyM1pSR3ZPWG12TzA3TzdybUVCVktSQnV5V0xWS1pUQktieTdESHZlT1hxZHZITE5weVozSG5tUDdiMmZ2VEUwdTVUdWZqMzDSAYICQVVfeXFMT2VaaU44VDE2MWdJVThneF81SnV3bU5fNmZRNmE0YjRBNWk1dUNGdTZIbVdfd0dlakdYZG5uVHphbnZoNTYxaGhKY2V4c1JaengzcDQzZEtBUy1YS0hoWXNNX254enhmLTVncWJQYmtHM3RoMzFpVGFrZXY3cXBkTEVvS0x5MEtVRnZGQ0ZVUmdIMnpBcDByRjUyZUhkUFUzcXJUb0NZSnRiUGJRUnZZdnFmcWhWenVOcWJ5RmZCZG95aDc0QWhUXzZxUVBPMWhJeVBpVWhiRzlMelhRUGVBZ1FWZlo2X1NHY1M3RXJoRl9wNWNnajVZTmNTbUxxV1ZHclJR?oc=5",
+      "title": "Costa Rica ocupa el segundo lugar de Centroamérica y el Caribe en resiliencia cibernética, pero enfrenta nuevos riesgos por la inteligencia artificial - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNNy12VGRoeW5wT2ZTeVhVQVVHQjF2LWhjSG1JeDM3NzhNZm4wNS13VThoUmNseXZQVFZFa2hnaDNrZnpvTWlBS1pEYm15dFVFV3RXNl9paGdrTFkzWThwTGZRMFlaSXBzUC1GTVp4MElFN3N0NWRmLTcxOGlQMk94XzBjb24xQWhkRWdtYzhJcmRhWG9TclN6TGwxLWRKdjJHczlZVEI3N1RESWFNRWRBdy1STmNVS01LcDdFSmNxeS1ad2Q2VmcwWjJnSVdmS3JSZ3JCNW05LVJvZW5LM2xURVhMY3N5Uzc0T2owNmI2YjBTbTgyUmpZemdiZU1tLUE2RUNPaHZDYldwZHNVa1FPRWx5LUVkakNtMlZhOVVEUXgxQdIBvAJBVV95cUxQbzNtYzVqd0pHTVp3Q0wwMUZyVE9WZjFCTTlRYm5FSjY2NGpKRHREekpkUThsVHJpZDNyeW44OHJZdnhwOEN6SVZmMW9VYjFCbGR1U2JhUzNNRE9Gd3FxSUJhdGxPdmtKbG1HWVdranhOdlJPUUhBNE41UTlldFpFSmI2dG56cHd0Y0MtcDQ0NEFJcW9SMWZhSW1OWU5EM0NEVTZnZzBxSUJfUkJmX3YyQmpoZl9aVWZ4ZS1vUmFiTDFWanZCSGd1MmhJRGM4ZkZ3dUFBWHVwR0paTGxyRGcwTFk4enlUS1d0ekhSNjl4NngwbktxcjZPQmlXTnltUzJuTUpkV2ktcHZYczhvUzhVZmNxTlNfNjRnZjZBYkt3aG0wcEN2bWtjOGltOHZxTnBQczk3VXFubEVUd1hv?oc=5",
       "pub_date": "2026-08-11T07:00:00+00:00",
-      "description": "El Salvador ocupa el quinto lugar en resiliencia cibernética regional, con un índice del 41%, según estudio&nbsp;&nbsp;Infobae",
+      "description": "Costa Rica ocupa el segundo lugar de Centroamérica y el Caribe en resiliencia cibernética, pero enfrenta nuevos riesgos por la inteligencia artificial&nbsp;&nbsp;Infobae",
       "source": "Infobae",
       "source_url": "https://www.infobae.com",
       "query": "inteligencia artificial banca Colombia Panama El Salvador Guatemala 2026",
@@ -2808,10 +2819,10 @@
       "lang": "es"
     },
     {
-      "title": "Costa Rica ocupa el segundo lugar de Centroamérica y el Caribe en resiliencia cibernética, pero enfrenta nuevos riesgos por la inteligencia artificial - Infobae",
-      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNNy12VGRoeW5wT2ZTeVhVQVVHQjF2LWhjSG1JeDM3NzhNZm4wNS13VThoUmNseXZQVFZFa2hnaDNrZnpvTWlBS1pEYm15dFVFV3RXNl9paGdrTFkzWThwTGZRMFlaSXBzUC1GTVp4MElFN3N0NWRmLTcxOGlQMk94XzBjb24xQWhkRWdtYzhJcmRhWG9TclN6TGwxLWRKdjJHczlZVEI3N1RESWFNRWRBdy1STmNVS01LcDdFSmNxeS1ad2Q2VmcwWjJnSVdmS3JSZ3JCNW05LVJvZW5LM2xURVhMY3N5Uzc0T2owNmI2YjBTbTgyUmpZemdiZU1tLUE2RUNPaHZDYldwZHNVa1FPRWx5LUVkakNtMlZhOVVEUXgxQdIBvAJBVV95cUxQbzNtYzVqd0pHTVp3Q0wwMUZyVE9WZjFCTTlRYm5FSjY2NGpKRHREekpkUThsVHJpZDNyeW44OHJZdnhwOEN6SVZmMW9VYjFCbGR1U2JhUzNNRE9Gd3FxSUJhdGxPdmtKbG1HWVdranhOdlJPUUhBNE41UTlldFpFSmI2dG56cHd0Y0MtcDQ0NEFJcW9SMWZhSW1OWU5EM0NEVTZnZzBxSUJfUkJmX3YyQmpoZl9aVWZ4ZS1vUmFiTDFWanZCSGd1MmhJRGM4ZkZ3dUFBWHVwR0paTGxyRGcwTFk4enlUS1d0ekhSNjl4NngwbktxcjZPQmlXTnltUzJuTUpkV2ktcHZYczhvUzhVZmNxTlNfNjRnZjZBYkt3aG0wcEN2bWtjOGltOHZxTnBQczk3VXFubEVUd1hv?oc=5",
+      "title": "El Salvador ocupa el quinto lugar en resiliencia cibernética regional, con un índice del 41%, según estudio - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPU2dNSnFLVEpSY2VaU0haV1A3NWI3ZW9DcjhyWi1ZbUJwZnFraXdTNnBoV01jaTd6ckNLUEhQREFqN3NPdUtvTXc3NDBieHZ4eWMtcGpyby04S2VLOVVGZnlwXzlHcjQxRkxBYWFQNHo2OTFCVlY1Z1U4MmNxZV9TU0QybzZLTmkyVHk3M282eDhRalUtN3lFQXZlVS1OeVNyM1pSR3ZPWG12TzA3TzdybUVCVktSQnV5V0xWS1pUQktieTdESHZlT1hxZHZITE5weVozSG5tUDdiMmZ2VEUwdTVUdWZqMzDSAYICQVVfeXFMT2VaaU44VDE2MWdJVThneF81SnV3bU5fNmZRNmE0YjRBNWk1dUNGdTZIbVdfd0dlakdYZG5uVHphbnZoNTYxaGhKY2V4c1JaengzcDQzZEtBUy1YS0hoWXNNX254enhmLTVncWJQYmtHM3RoMzFpVGFrZXY3cXBkTEVvS0x5MEtVRnZGQ0ZVUmdIMnpBcDByRjUyZUhkUFUzcXJUb0NZSnRiUGJRUnZZdnFmcWhWenVOcWJ5RmZCZG95aDc0QWhUXzZxUVBPMWhJeVBpVWhiRzlMelhRUGVBZ1FWZlo2X1NHY1M3RXJoRl9wNWNnajVZTmNTbUxxV1ZHclJR?oc=5",
       "pub_date": "2026-08-11T07:00:00+00:00",
-      "description": "Costa Rica ocupa el segundo lugar de Centroamérica y el Caribe en resiliencia cibernética, pero enfrenta nuevos riesgos por la inteligencia artificial&nbsp;&nbsp;Infobae",
+      "description": "El Salvador ocupa el quinto lugar en resiliencia cibernética regional, con un índice del 41%, según estudio&nbsp;&nbsp;Infobae",
       "source": "Infobae",
       "source_url": "https://www.infobae.com",
       "query": "inteligencia artificial banca Colombia Panama El Salvador Guatemala 2026",
@@ -3171,17 +3182,6 @@
       "lang": "en"
     },
     {
-      "title": "Agents, robots, and us: How AI reshapes work and skills in Latin America - McKinsey & Company",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbk9WbE9rQ3JUMVdQWUZ5Nmhpc3NhN0dQUExNRzBMcDlXeWlEakJsNlBDRElFQkVxanZPUmRscWoyclpzM2VsVGtXRGxORENSSTFaeUFXS0I5c0txbDN3eFh6aFphZ2UzNUZTRFhqNEY5Vy1OeEF5WjJJd0RJWVdxemFvZ05YVTVzVUdsR2dRbTRBTGp3Mms3bm40cTEtd1RJSmRyOWt5ZmRaTWswQnlJcw?oc=5",
-      "pub_date": "2026-07-09T07:00:00+00:00",
-      "description": "Agents, robots, and us: How AI reshapes work and skills in Latin America&nbsp;&nbsp;McKinsey & Company",
-      "source": "McKinsey & Company",
-      "source_url": "https://www.mckinsey.com",
-      "query": "AI banking Latin America Colombia Panama 2026",
-      "category": "latam",
-      "lang": "en"
-    },
-    {
       "title": "Open Finance 2050: todo lo que debes saber del evento fintech más importante en Latinoamérica - Fast Company México",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYUxhaUo5STNxNTlndnRSUzFsVmJfNGZjeThYT2didnI0cTZnQll3UU04YXRNdFB2a0JQR0xoMXNCQW0tMmV1U20tVUVnVl92dmpuMDl0UE9KRFBrUWhzTV82eUtRbEdKVEQ2OFljMlVlWmdfRG0zVFdsQ1lvcFhwR0M2azh0UE1BZ29LdmZycHlyZWdDc0FIaGMxVWpYR2pOUkFfOQ?oc=5",
       "pub_date": "2026-07-09T07:00:00+00:00",
@@ -3191,6 +3191,17 @@
       "query": "IA fintech regulacion America Latina inclusion financiera",
       "category": "latam",
       "lang": "es"
+    },
+    {
+      "title": "Agents, robots, and us: How AI reshapes work and skills in Latin America - McKinsey & Company",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbk9WbE9rQ3JUMVdQWUZ5Nmhpc3NhN0dQUExNRzBMcDlXeWlEakJsNlBDRElFQkVxanZPUmRscWoyclpzM2VsVGtXRGxORENSSTFaeUFXS0I5c0txbDN3eFh6aFphZ2UzNUZTRFhqNEY5Vy1OeEF5WjJJd0RJWVdxemFvZ05YVTVzVUdsR2dRbTRBTGp3Mms3bm40cTEtd1RJSmRyOWt5ZmRaTWswQnlJcw?oc=5",
+      "pub_date": "2026-07-09T07:00:00+00:00",
+      "description": "Agents, robots, and us: How AI reshapes work and skills in Latin America&nbsp;&nbsp;McKinsey & Company",
+      "source": "McKinsey & Company",
+      "source_url": "https://www.mckinsey.com",
+      "query": "AI banking Latin America Colombia Panama 2026",
+      "category": "latam",
+      "lang": "en"
     },
     {
       "title": "Bladex co-lidera paquete de financiamiento para la adquisición de Banistmo - Infobae",
@@ -3292,20 +3303,9 @@
       "lang": "es"
     },
     {
-      "title": "Supervisores bancarios y de seguros ponen foco en la IA - elcaribe.com.do",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbWI2UFhoTlB0cWtJQ2FKbTJJZ2ZMX1l5MXI1cGJaX082ZExXWkNacFpkdzRyakdIY1BuYUxDNWgySzhudVJBVVNTS3EzNmZudWF0NG9ybUhEUXVfVERfNXg0XzYxNWJWbzZwSGw0UnRqckpZZl9oTERFcTJSWTFCbmV4NF95Zm9JbmEyNWNtXzdEUVp1VVlSVlpIQUM3bE0?oc=5",
-      "pub_date": "2026-06-26T07:00:00+00:00",
-      "description": "Supervisores bancarios y de seguros ponen foco en la IA&nbsp;&nbsp;elcaribe.com.do",
-      "source": "elcaribe.com.do",
-      "source_url": "https://www.elcaribe.com.do",
-      "query": "inteligencia artificial banca Colombia Panama El Salvador Guatemala 2026",
-      "category": "latam",
-      "lang": "es"
-    },
-    {
       "title": "EduRiskX: A Neuro-Symbolic Framework with F-Logic Reasoning for Early Academic Risk Prediction",
       "link": "https://arxiv.org/abs/2608.26107",
-      "pub_date": "2026-08-28T00:00:00-04:00",
+      "pub_date": "2026-08-29T00:00:00-04:00",
       "description": "arXiv:2608.26107v1 Announce Type: new \nAbstract: Predicting students' academic risk in online education is crucial for enabling timely interventions that can improve retention and learning outcomes. However, existing models often suffer from limited early detection capability and insufficient interpretability, leading to a \"black-box\" trust crisis that hinders their adoption in real-world pedagogical settings. To address these challenges, we propose EduRiskX, a neuro-symbolic framework that integrates a temporal Transformer-based predictor with F-Logic symbolic reasoning. The neural component models longitudinal student activity sequences using temporal attention, class-weighted loss, and dynamic weekly truncation. Acting as a data-driven expert system, an F-Logic rule base -- grounded in established educational theories (Engagement Theory and Student Integration Model) to mimic the diagnostic logic of human educators -- is constructed exclusively from the training data. The neural risk probability and the symbolic confidence score are then combined through a logistic regression-based fusion mechanism that learns the relative contribution of each signal. Experiments on the Open University Learning Analytics Dataset (OULAD) using a strict 80/10/10 student-level split show that EduRiskX achieves an accuracy of 0.900 and an F1-score of 0.894 at the end of the semester (Week 38), with an average early detection week of 9.32 and a detection rate of 94.30 percent. Compared with state-of-the-art time-series models (PatchTST, iTransformer) and common deep learning baselines (LSTM, CNN), EduRiskX yields improved recall and earlier risk identification under identical conditions. Beyond predictive performance, the F-Logic module provides structured rule-based explanations linking predictions to observable behavioral patterns and educational theories.",
       "source": "",
       "source_url": "https://arxiv.org/abs/2608.26107",
@@ -3316,7 +3316,7 @@
     {
       "title": "Standalone LLM and a Pre-specified Agentic Pipeline for Explaining ICU Mortality Predictions: a Feasibility Study on the eICU Demo Dataset",
       "link": "https://arxiv.org/abs/2608.26109",
-      "pub_date": "2026-08-28T00:00:00-04:00",
+      "pub_date": "2026-08-29T00:00:00-04:00",
       "description": "arXiv:2608.26109v1 Announce Type: new \nAbstract: Machine-learning models can predict ICU mortality accurately, but feature-attribution methods alone rarely provide the clinical narrative needed for bedside use. Large language models (LLMs) may bridge this gap, and multi-step agentic pipelines are a plausible extension because they separate data interpretation, guideline checking, and final explanation. This revised feasibility study preserves the original standalone-versus-agentic comparison while making the main clinical findings more explicit. Using the retained local eICU Demo artifact set (2,353 ICU stays; 8.1\\% mortality), XGBoost achieved an AUROC of 0.855 (95\\% CI 0.796--0.906) and an AUPRC of 0.332 (95\\% CI 0.217--0.494). On a stratified 38-case explanation subset, the standalone LLM produced 1 explanation with explicit outcome leakage, whereas the four-step agentic pipeline produced none. Among the 14 cases that overlapped with the SHAP review subset, the standalone LLM showed higher SHAP alignment (mean Jaccard 0.171 versus 0.077) and higher direction consistency (92.9\\% versus 78.6\\%), while the agentic pipeline showed higher guideline grounding (0.762 versus 0.143), higher value specificity (0.236 versus 0.143), and slightly higher plausibility (0.700 versus 0.671). Clinically, the results suggest that agentic decomposition may improve safety-relevant grounding and patient-specific detail, but it should be paired with attribution-based checks before use in high-stakes risk explanation.",
       "source": "",
       "source_url": "https://arxiv.org/abs/2608.26109",
@@ -3327,7 +3327,7 @@
     {
       "title": "Large Models for Battery Prognostics and Health Management: A Review and Future Roadmap",
       "link": "https://arxiv.org/abs/2608.26111",
-      "pub_date": "2026-08-28T00:00:00-04:00",
+      "pub_date": "2026-08-29T00:00:00-04:00",
       "description": "arXiv:2608.26111v1 Announce Type: new \nAbstract: Battery Prognostics and Health Management (BPHM) is critical for ensuring the safe, reliable, and cost-effective operation of batteries across electric vehicles, grid storage, and consumer electronics. Conventional BPHM approaches, including physics-based models and task-centric deep learning methods, face challenges in computational efficiency and parameterization, cross-domain generalization, dependence on extensive labeled run-to-failure data, and model interpretability. Recent Large Models (LMs), built upon Transformer architectures and self-supervised pre-training, offer a transformative new paradigm to overcome these long-standing bottlenecks. This review provides the first comprehensive survey of LM applications in BPHM, systematically examining how these models address challenges in the field. We begin by elucidating the foundational technologies enabling LMs, including Transformer architectures, self-supervised learning, large-scale multimodal datasets, and PEFT techniques. We then categorize recent progress along four critical dimensions: mitigating data scarcity, enhancing generalization and robustness, integrating domain knowledge for interpretability, and enabling system-level automation. Despite promising results, significant challenges remain across data accessibility, intelligence validation, trustworthiness, and deployment feasibility. To guide future research, we propose a roadmap focused on building collaborative data ecosystems, validating intelligence for industrial applications, enhancing trustworthiness with physics-informed designs, and enabling efficient on-device deployment. This review establishes a systematic approach to understand and advance LM-driven BPHM, providing researchers and practitioners with essential insights for developing next-generation battery management systems capable of safe, reliable, and autonomous operation throughout battery lifecycles.",
       "source": "",
       "source_url": "https://arxiv.org/abs/2608.26111",
@@ -3338,7 +3338,7 @@
     {
       "title": "PICasso: An AI-Enabled Design Framework for Autonomous Optimization of Silicon Photonic Devices",
       "link": "https://arxiv.org/abs/2608.26113",
-      "pub_date": "2026-08-28T00:00:00-04:00",
+      "pub_date": "2026-08-29T00:00:00-04:00",
       "description": "arXiv:2608.26113v1 Announce Type: new \nAbstract: We present PICasso, an AI-assisted framework for automated synthesis, verification, and optimization of photonic integrated circuits (PICs) from natural-language specifications. PICasso couples a structured NL -> YAML -> GDS generation pipeline with PDK aware knowledge injection, automated placement and routing, DRC/LVS validation, and SAX-based photonic simulation. To systematically evaluate AI-driven photonic design, we introduce PIC-Set, a benchmark of 36 parameterized PIC design tasks spanning core photonic primitives and multi-component circuits. Using PIC-Set, we benchmark several state-of-the-art Large Language Models (LLMs) under a unified evaluation protocol, including new metrics such as structural and functional $Spec@k$, optimization efficiency, and robustness under perturbations. Across the benchmark, PICasso significantly improves end-to-end specification satisfaction compared to vanilla LLM generation. Structural $Spec@3$ reaches up to 92.7% and functional $Spec@3$ up to 52% on high-complexity circuits. In addition, PICasso consistently reduces circuit insertion loss, lowering the mean loss from 4.98 dB to 3.25 dB (1.74 dB improvement) through simulation-guided optimization. These results demonstrate that structured domain constraints, physical verification, and simulation feedback transform LLMs from brittle netlist generators into practical PIC design agents capable of producing manufacturable layouts with competitive runtimes relative to manual GUI-based workflows.",
       "source": "",
       "source_url": "https://arxiv.org/abs/2608.26113",
@@ -3349,7 +3349,7 @@
     {
       "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
       "link": "https://arxiv.org/abs/2608.26114",
-      "pub_date": "2026-08-28T00:00:00-04:00",
+      "pub_date": "2026-08-29T00:00:00-04:00",
       "description": "arXiv:2608.26114v1 Announce Type: new \nAbstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical formulas, and rule-based constraints. Although Large Language Models (LLMs) perform strongly on natural language tasks, they often produce numerically incorrect yet plausible answers when solving multi-step financial calculations. To address this limitation, we introduce CIFQA (Calculation-Intensive Financial Query Answering), a deterministic tool-grounded multi-agent LLM framework for financial question answering. CIFQA separates language understanding from numerical execution by assigning specialized agents to query interpretation, routing, parameter extraction, computation planning, and response generation, while deterministic Python-based tools perform financial calculations and rule application. We instantiate CIFQA for fixed deposit query answering and evaluate it on a curated benchmark of fixed deposit queries. CIFQA achieves 95.54% accuracy on calculation-intensive queries and 90.87% overall accuracy, substantially outperforming direct LLM baselines even when provided with complete formulas, rate cards, and benchmark instructions. Ablation studies show that deterministic components such as exact rate lookup, tenure computation, rolling-year adjustment, and premature-withdrawal logic are critical contributors to performance. Notably, a 17B open-source backbone operating within CIFQA outperforms substantially larger frontier models evaluated with the same financial information, demonstrating that architectural design is a more important determinant of numerical reliability than model scale. While evaluated on fixed deposit queries, CIFQA provides a generalizable framework for calculation-intensive financial reasoning tasks.",
       "source": "",
       "source_url": "https://arxiv.org/abs/2608.26114",
@@ -3360,7 +3360,7 @@
     {
       "title": "The Artificial Experimentalist: Discovery and Control of Self-Organizing Phenomena with Autotelic Reinforcement Learning",
       "link": "https://arxiv.org/abs/2608.26116",
-      "pub_date": "2026-08-28T00:00:00-04:00",
+      "pub_date": "2026-08-29T00:00:00-04:00",
       "description": "arXiv:2608.26116v1 Announce Type: new \nAbstract: Existing methods for exploring cellular automata and other complex systems mostly operate in open loop: they set initial conditions, execute a full simulation, and observe the outcome, without intervening during execution. We introduce a closed-loop framework based on autotelic reinforcement learning, in which an agent autonomously samples diverse goals and learns a goal-conditioned policy to intervene in a complex system through minimal, local perturbations. We instantiate this framework on Lenia, a continuous cellular automaton known for life-like self-organizing patterns, in an agentic system we call CARL, and demonstrate three capabilities. First, CARL discovers stable solitons across a wide range of Lenia update rules at a higher rate than heuristic baselines. Second, it learns to steer the movement direction of existing solitons with few interventions, showing that CARL can control self-organizing patterns, not only create them. Third, humans can use trained agents to guide solitons through maze environments in real time by specifying high-level directional commands that the agent translates into low-level interventions. Trained across diverse goals, update rules, and random initial states, the agents acquire policies that generalize zero-shot to various out-of-distribution conditions. These results suggest a path toward artificial experimentalist agents that, autonomously or with human guidance, discover and control emergent phenomena in complex systems.",
       "source": "",
       "source_url": "https://arxiv.org/abs/2608.26116",
@@ -3371,7 +3371,7 @@
     {
       "title": "The Accuracy-Efficiency Paradox Quantifying Net Energy Loss in on-Device Energy Forecasting",
       "link": "https://arxiv.org/abs/2608.26134",
-      "pub_date": "2026-08-28T00:00:00-04:00",
+      "pub_date": "2026-08-29T00:00:00-04:00",
       "description": "arXiv:2608.26134v1 Announce Type: new \nAbstract: Energy forecasting aims to maximize accuracy to ensure energy efficiency by reducing energy waste, an objective that applies equally to on-device forecasting for mission-critical edge environments, including military systems. However, this paper identifies the Accuracy-Efficiency Paradox: high-precision energy forecasting models can ironically trigger a net energy deficit. This stems from both edge AI's inference energy consumption and battery aging. We propose a Total Cost of Ownership (TCO) framework for energy forecasting, designed to minimize net energy loss. This framework treats not only inference energy consumption but also battery aging as a unified form of energy loss, as degradation represents a physical dissipation of the system's future energy-carrying capacity. We demonstrate that in thermally sensitive edge environments, energy saved by the superior precision of complex architectures is often outweighed by the total energy lost through their high operational intensity.",
       "source": "",
       "source_url": "https://arxiv.org/abs/2608.26134",
@@ -3382,7 +3382,7 @@
     {
       "title": "LLMs for Academic Workflows: An Evaluation of Literature Reviews Generated with Short and Long Context Windows of LLMs",
       "link": "https://arxiv.org/abs/2608.26145",
-      "pub_date": "2026-08-28T00:00:00-04:00",
+      "pub_date": "2026-08-29T00:00:00-04:00",
       "description": "arXiv:2608.26145v1 Announce Type: new \nAbstract: Our research focuses on evaluating literature reviews generated in short and long context settings of large language models (LLMs) to investigate the impact of context window on the quality of AI-generated literature reviews and the role of AI in supporting literature review writing. Twenty AI-generated literature reviews based on research sources from Semantic Scholar and Arxiv were evaluated by two researchers across 15 dimensions. Our findings reveal that AI-generated literature reviews require human oversight to meet academic publishing standards. As context windows increase, LLMs can incorporate broader information and maintain coherence across longer inputs, but they also exacerbate issues such as content repetition, omission of critical work, and a tendency towards descriptiveness over synthesis. Our work shows that AI-generated reviews can provide foundational overviews, but their output must be critically evaluated and refined by domain experts. Future research should consider integrating other LLMs and fine-tuned models in different domains with hybrid approaches that combine human expertise with AI capabilities to address the limitations identified in this study.",
       "source": "",
       "source_url": "https://arxiv.org/abs/2608.26145",
@@ -3393,7 +3393,7 @@
     {
       "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
       "link": "https://arxiv.org/abs/2608.26149",
-      "pub_date": "2026-08-28T00:00:00-04:00",
+      "pub_date": "2026-08-29T00:00:00-04:00",
       "description": "arXiv:2608.26149v1 Announce Type: new \nAbstract: Multi-table learning remains a major challenge in machine learning for healthcare and other complex information systems. Relational data combine several sources of complexity, including large data volume, high-dimensional variables, high-cardinality categorical features, complex inter-table dependencies, and repeated temporal observations. We introduce the Relational Hypergraph Transformer (RHT), a unified architecture that represents relational databases as hypergraphs, learns pentadimensional embeddings (PentE), and performs sparse relational attention with complexity proportional to the average relational degree rather than the square of the number of entities. We formally define the architecture, derive the complexity of its attention mechanism, and provide an open-source reference implementation. We evaluate RHT on the public Synthea synthetic electronic health record dataset using multi-label prediction of SNOMED CT condition codes per encounter, a task characterized by high categorical cardinality and long-tailed label distributions. Comparisons with tabular, relational, and temporal graph baselines show that RHT produces more semantically coherent embeddings while remaining computationally scalable. In this benchmark, the highest rare-code recall is achieved by XGBoost, whereas RHT attains the strongest embedding semantic coherence. We also report ablation studies quantifying the contribution of each architectural component. Clinical validation on MIMIC-IV is planned following PhysioNet credentialing. Source code and experimental protocols are provided in the accompanying repository.",
       "source": "",
       "source_url": "https://arxiv.org/abs/2608.26149",
@@ -3404,7 +3404,7 @@
     {
       "title": "Leveraging Large Language Models for Systematic Literature Review of Disease Spread Models",
       "link": "https://arxiv.org/abs/2608.26150",
-      "pub_date": "2026-08-28T00:00:00-04:00",
+      "pub_date": "2026-08-29T00:00:00-04:00",
       "description": "arXiv:2608.26150v1 Announce Type: new \nAbstract: Recent advancements in Large Language Models (LLMs) have created new opportunities to streamline and potentially automate many research processes, including systematic literature reviews (SLRs). This study reports an LLM pipeline development for extracting model-relevant information from 536 peer-reviewed agent-based modeling papers. We compare the results with those of a human-conducted SLR. Our results show paper-level accuracies of approximately 77.95% for GPT-4.1 and 81.67% for GPT-5.0. Field-level accuracy ranges from 32.40% to 100.00%, with more complex or subjective fields performing less reliably. Importantly, we find that agreement between LLMs is a potential indicator of output quality: low agreement may signal hallucinations, whereas high agreement combined with low accuracy may point to noise or errors in the human dataset. Overall, our study provides practical insights into prompt development and highlights both the potential and limitations of using LLMs for full-scale SLRs in the modeling and simulation domain.",
       "source": "",
       "source_url": "https://arxiv.org/abs/2608.26150",
@@ -3415,7 +3415,7 @@
     {
       "title": "Explainable Artificial Intelligence for Customer Churn Prediction in Telecommunications: A Framework for CRM Integration",
       "link": "https://arxiv.org/abs/2608.26151",
-      "pub_date": "2026-08-28T00:00:00-04:00",
+      "pub_date": "2026-08-29T00:00:00-04:00",
       "description": "arXiv:2608.26151v1 Announce Type: new \nAbstract: Subscriber attrition is a costly, persistent challenge for telecommunications providers, with monthly churn of roughly 1.9% in mature markets eroding billions in revenue annually. Predictive models can flag at-risk customers accurately, yet they are routinely excluded from frontline CRM workflows because high-performing ensemble and non-linear architectures are opaque: a retention specialist cannot design a personalised intervention from a probability score alone, without knowing why a subscriber is at risk. This paper addresses that gap. We benchmark four classifiers--Logistic Regression, Random Forest, XGBoost, and LightGBM--on the IBM Telco Customer Churn benchmark (7,043 records; 19 features; 26.5% churn, balanced to 50% via SMOTE on the training partition only). Logistic Regression attains the strongest AUC-ROC (0.8411) and LightGBM the highest accuracy (78.42%); all four fall within a 0.011 AUC band (0.831--0.841), and 5-fold cross-validation confirms the leading models are effectively tied. Explanations are delivered at two granularities: a global SHAP ranking identifying tenure, total charges, and month-to-month contract as the dominant churn signals, and instance-level SHAP and LIME decompositions that expose the drivers behind each prediction. Building on these outputs, we introduce a four-layer CRM integration architecture that converts risk scores and attribution vectors into tiered segmentation, maps top features to structured retention-action templates, and routes campaign outcomes into a retraining feedback loop. Targeting the highest-risk quintile is projected to cut overall churn by 3.3--5.3 percentage points, preserving an estimated $199K--$319K per campaign cycle.",
       "source": "",
       "source_url": "https://arxiv.org/abs/2608.26151",
@@ -3426,7 +3426,7 @@
     {
       "title": "EEG-to-Report: An Annotation and Feature-Text Framework for Training Language Models on Clinical EEG",
       "link": "https://arxiv.org/abs/2608.26153",
-      "pub_date": "2026-08-28T00:00:00-04:00",
+      "pub_date": "2026-08-29T00:00:00-04:00",
       "description": "arXiv:2608.26153v1 Announce Type: new \nAbstract: Clinical electroencephalography (EEG) reporting remains largely manual and time-consuming, and current EEG software ecosystems do not produce the structured EEG-text supervision needed for training modern language models. Most toolboxes focus on visualization or preprocessing, providing limited support for workflows that generate high-quality datasets for AI. We introduce EEG-to-Report, a browser-based annotation and feature-text framework that links routine EEG review with the construction of AI-ready datasets. The framework integrates multi-format EEG ingestion, channel standardization, and an interactive viewer with a multimodal annotation layer that combines typed text and transcribed voice notes. For each annotated segment, a feature extraction engine computes a standardized set of spectral, temporal, entropy, Hjorth, connectivity, and spike-related descriptors, stored alongside clinical descriptions in a portable JSON schema. This yields aligned feature-text pairs designed to supervise multimodal EEG-language models. The framework also includes an auto-report module that couples an ensemble of convolutional networks with a large language model to draft clinical narratives for neurologist review. Using pilot annotations, we describe how EEG-to-Report streamlines annotation workflows and produces editable draft reports, providing a reusable foundation for automated EEG reporting systems.",
       "source": "",
       "source_url": "https://arxiv.org/abs/2608.26153",
@@ -3444,17 +3444,6 @@
       "query": "transformacion inteligencia artificial alta direccion banca",
       "category": "impacto",
       "lang": "es"
-    },
-    {
-      "title": "Accounting and AI: How Will Artificial Intelligence Affect the Accounting Industry? - Intuit",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTDJVOEtRc3FzYVlGWlEwQTRkbFg5QmFpalgwemJnRl9GMEpPVXpvaXdZa1RzaWR1VEw2LXA1V2kxb2N5dzdLTTdSMW9PWFhWZHlzNWZ0Wm0yR2FuTFRSYkFfeGZmMkY3N3c4NTJfZGEyakZtd3RYYnJIeFozUmRpTEpLU3E?oc=5",
-      "pub_date": "2026-08-27T01:17:02+00:00",
-      "description": "Accounting and AI: How Will Artificial Intelligence Affect the Accounting Industry?&nbsp;&nbsp;Intuit",
-      "source": "Intuit",
-      "source_url": "https://www.intuit.com",
-      "query": "artificial intelligence replace financial roles automation",
-      "category": "impacto",
-      "lang": "en"
     },
     {
       "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
@@ -3563,6 +3552,28 @@
       "source": "",
       "source_url": "https://arxiv.org/abs/2608.23644",
       "query": "https://arxiv.org/rss/cs.AI",
+      "category": "impacto",
+      "lang": "en"
+    },
+    {
+      "title": "Will AI Replace Accountants? - Intuit",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZzdNVnFTOThvLUNUd082dXQ4a0VOcnFUbk5SQnptNlJzY3BSSkh4WWFEQXJaTXVEZkQ0SE1yUHVBV0tJMEdMam9fSlNIbnVoSkpNNUo2WURIeGY4aW9uNVJYMW5vb2h6WGR3TXRtalJTeXcyUnFEeF9vRHZPZ2I0X2p3?oc=5",
+      "pub_date": "2026-08-26T07:00:00+00:00",
+      "description": "Will AI Replace Accountants?&nbsp;&nbsp;Intuit",
+      "source": "Intuit",
+      "source_url": "https://www.intuit.com",
+      "query": "artificial intelligence replace financial roles automation",
+      "category": "impacto",
+      "lang": "en"
+    },
+    {
+      "title": "Accounting and AI: How Will Artificial Intelligence Affect the Accounting Industry? - Intuit",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTDJVOEtRc3FzYVlGWlEwQTRkbFg5QmFpalgwemJnRl9GMEpPVXpvaXdZa1RzaWR1VEw2LXA1V2kxb2N5dzdLTTdSMW9PWFhWZHlzNWZ0Wm0yR2FuTFRSYkFfeGZmMkY3N3c4NTJfZGEyakZtd3RYYnJIeFozUmRpTEpLU3E?oc=5",
+      "pub_date": "2026-08-26T07:00:00+00:00",
+      "description": "Accounting and AI: How Will Artificial Intelligence Affect the Accounting Industry?&nbsp;&nbsp;Intuit",
+      "source": "Intuit",
+      "source_url": "https://www.intuit.com",
+      "query": "artificial intelligence replace financial roles automation",
       "category": "impacto",
       "lang": "en"
     },
@@ -3952,15 +3963,15 @@
       "lang": "en"
     },
     {
-      "title": "Enforcing LLM Safety through DMD-based Classification of Prompt-Response Embedding Dynamics",
-      "link": "https://arxiv.org/abs/2608.19579",
-      "pub_date": "2026-08-21T00:00:00-04:00",
-      "description": "arXiv:2608.19579v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly deployed in high-stakes applications, yet their tendency to generate toxic, harmful, or policy-violating content poses significant risks. Detecting these unsafe outputs efficiently in a black-box manner remains an open challenge. In this paper, we extend a recently proposed dynamical systems framework designed for hallucination detection to LLM safety classification. By projecting both prompts and responses into high-dimensional embedding spaces and fitting separate Koopman-based predictive models for safe and unsafe regimes, we classify new outputs using a new differential residual score that compares prediction errors of the safe and unsafe regimes. A key contribution is the incorporation of the prompt and response embedding dynamics, yielding fitted Koopman operators that capture crucial interaction patterns. We evaluate our black-box method across three safety benchmarks using three embedding models. Our results show that incorporating prompt embeddings yields consistent improvements, particularly for interaction-dependent violations when paired with causal decoders (e.g., in Llama-3), while response-only violations benefit more from dense semantic embedding representations. These findings opens the door for using dynamical systems to analyze AI systems rather than the dominant paradigm of using AI to model dynamical systems.",
-      "source": "",
-      "source_url": "https://arxiv.org/abs/2608.19579",
-      "query": "https://arxiv.org/rss/cs.AI",
-      "category": "impacto",
-      "lang": "en"
+      "title": "Estos son los puestos de éxito que conseguirá si domina las 20 habilidades necesarias - Expansión",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUy1acTNzdGRrYzAtSDlONnZxVGpsVHpobGlRZnprejJoQ2N2OFkyQnl3MEw0azFCTkg2a0tJX3M5YVg3ZU51dHJmM1h3QjBUU0dSSHMtSzFqamUyWHJ1UUF3ME1BU2pzczVMSnlQRi1VdENoM2xjdU16dXlIaGRuR1hYOTAyX1h2azU1eTJyNU96cG1qLTl4Wjhpb9IBmwFBVV95cUxQUy1acTNzdGRrYzAtSDlONnZxVGpsVHpobGlRZnprejJoQ2N2OFkyQnl3MEw0azFCTkg2a0tJX3M5YVg3ZU51dHJmM1h3QjBUU0dSSHMtSzFqamUyWHJ1UUF3ME1BU2pzczVMSnlQRi1VdENoM2xjdU16dXlIaGRuR1hYOTAyX1h2azU1eTJyNU96cG1qLTl4Wjhpbw?oc=5",
+      "pub_date": "2026-08-29T10:35:49+00:00",
+      "description": "Estos son los puestos de éxito que conseguirá si domina las 20 habilidades necesarias&nbsp;&nbsp;Expansión",
+      "source": "Expansión",
+      "source_url": "https://amp.expansion.com",
+      "query": "liderazgo humano IA sector financiero habilidades directivos",
+      "category": "liderazgo",
+      "lang": "es"
     },
     {
       "title": "Eltropy Leadership Summit 2026 Concludes in Monterey Bay, Putting Human Leadership at Center of Agentic AI Conversation - EIN Presswire",
@@ -4228,7 +4239,7 @@
     },
     {
       "title": "Dubai summit to examine AI’s next chapter in HR - Gulf Business",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeC1QX3hSLTF2b0NwMzZDX3BlR1I2VXVseEFqNjc2bTJzc3J6S21DMTVmNTRhX3ZjekV1WEFsSE9OSkt6YlFuWnRCZDZrV25pUU85Und2eUVlcF9oeVpHd01JWnNmZHNCQmFWVUhvVndsTkdNTjlnRU5XRUJPWncwUktzY2tkQ3pDN2xjS1c5SXI?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdGxSVTZQdXVmNWloRkZhbHloNmJLNVE0YzBsUDZMX1F5b2otSTM5VkQ2bWdhbWdPLXBlVG9tNHZQeWlQMWVTTGYxRmlZQnozV3BfUUh3NTJObXNCWTRCZ0FqelNaUzZVeklVRjF4TGY1d3JNTWJTdWFHRXBXeXJFaFk5UUtLUERTTG42V1V2RQ?oc=5",
       "pub_date": "2026-08-25T10:23:51+00:00",
       "description": "Dubai summit to examine AI’s next chapter in HR&nbsp;&nbsp;Gulf Business",
       "source": "Gulf Business",
@@ -4239,8 +4250,8 @@
     },
     {
       "title": "Dubai summit to examine AI’s next chapter in HR - Gulf Business",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdGxSVTZQdXVmNWloRkZhbHloNmJLNVE0YzBsUDZMX1F5b2otSTM5VkQ2bWdhbWdPLXBlVG9tNHZQeWlQMWVTTGYxRmlZQnozV3BfUUh3NTJObXNCWTRCZ0FqelNaUzZVeklVRjF4TGY1d3JNTWJTdWFHRXBXeXJFaFk5UUtLUERTTG42V1V2RQ?oc=5",
-      "pub_date": "2026-08-25T08:20:27+00:00",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeC1QX3hSLTF2b0NwMzZDX3BlR1I2VXVseEFqNjc2bTJzc3J6S21DMTVmNTRhX3ZjekV1WEFsSE9OSkt6YlFuWnRCZDZrV25pUU85Und2eUVlcF9oeVpHd01JWnNmZHNCQmFWVUhvVndsTkdNTjlnRU5XRUJPWncwUktzY2tkQ3pDN2xjS1c5SXI?oc=5",
+      "pub_date": "2026-08-25T10:23:51+00:00",
       "description": "Dubai summit to examine AI’s next chapter in HR&nbsp;&nbsp;Gulf Business",
       "source": "Gulf Business",
       "source_url": "https://gulfbusiness.com",
@@ -4612,15 +4623,15 @@
       "lang": "en"
     },
     {
-      "title": "Reputation and institutional certification as complementary trust mechanisms in a single online market",
-      "link": "https://arxiv.org/abs/2608.17312",
-      "pub_date": "2026-08-19T00:00:00-04:00",
-      "description": "arXiv:2608.17312v1 Announce Type: cross \nAbstract: Reputation and institutional certification are the two main trust mechanisms under information asymmetry, yet their interaction remains poorly understood. We analyze nearly one million fixed-price eBay listings of Pokemon cards, where sellers choose among three signals: third-party grading (institutional certification), self-grading (a self-claimed condition description), or no signal. We show that self-grading and third-party grading dominate distinct regions of the reputation-value space, with the self-grading region widening as reputation rises. Reputation also amplifies the price premium of self-grading but not that of third-party grading. We develop a signaling game in which a false self-claim carries an ex-post cost proportional to reputation, whereas certification carries an ex-ante cost independent of reputation. These costs split the reputation-value space into equilibrium regimes that explain both patterns. The two mechanisms are therefore substitutes within a transaction yet complements across the market, replacing the reputation-versus-institution dichotomy with a regime structure set by reputation and value.",
-      "source": "",
-      "source_url": "https://arxiv.org/abs/2608.17312",
-      "query": "https://arxiv.org/rss/econ.GN",
-      "category": "liderazgo",
-      "lang": "en"
+      "title": "El mercado ya no busca una habilidad estrella: la ventaja está en combinar - Expansión",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSjBhcnlmNmJYQTdpNWtKTWxCUGZEaEtfTXd3SkpacjI0WUF2aGozRmNuRTV3dmhFMnk3ZUY5UTFMRXBrSXJ2M3p1dlRWbjBNUDVIQUpaQXl6QXYzLV9IMjB0QXJpYTQ4cGVIdnVzb2I4X2FVdUd5U1h5Q041YWdUSzdJTXpaSlgtbDNJVEdqYTZQUTdjM3FSMHkxMNIBmwFBVV95cUxNSjBhcnlmNmJYQTdpNWtKTWxCUGZEaEtfTXd3SkpacjI0WUF2aGozRmNuRTV3dmhFMnk3ZUY5UTFMRXBrSXJ2M3p1dlRWbjBNUDVIQUpaQXl6QXYzLV9IMjB0QXJpYTQ4cGVIdnVzb2I4X2FVdUd5U1h5Q041YWdUSzdJTXpaSlgtbDNJVEdqYTZQUTdjM3FSMHkxMA?oc=5",
+      "pub_date": "2026-08-29T08:00:01+00:00",
+      "description": "El mercado ya no busca una habilidad estrella: la ventaja está en combinar&nbsp;&nbsp;Expansión",
+      "source": "Expansión",
+      "source_url": "https://amp.expansion.com",
+      "query": "habilidades inteligencia artificial profesionales banca 2026",
+      "category": "habilidades",
+      "lang": "es"
     },
     {
       "title": "Google cambia las reglas con Gemini Notebook (NotebookLM), que estrena nuevos límites",
@@ -4702,7 +4713,7 @@
     {
       "title": "Junior consultants called back to office as AI increases need for human skills - Financial Times",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVF9Hd3dTQkpvcGJxaFliNF9qVFlnMzRadmhqZGZSeUJ2UXJBUFlVcG52aXVjajRtYjBRRFRXS1R4VVJtTUVrLVYyNXV0NEdRY3VsMFI2OVZfdzZwSUJuQW9fQTVHVWtpek0xdDJvZEpEYXJVOVRzSlNUMjVKRjI2YXhWYWY?oc=5",
-      "pub_date": "2026-08-27T04:13:56+00:00",
+      "pub_date": "2026-08-27T08:01:21+00:00",
       "description": "Junior consultants called back to office as AI increases need for human skills&nbsp;&nbsp;Financial Times",
       "source": "Financial Times",
       "source_url": "https://www.ft.com",
@@ -4724,7 +4735,7 @@
     {
       "title": "Accounting and AI: How Will Artificial Intelligence Affect the Accounting Industry? - Intuit",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTDJVOEtRc3FzYVlGWlEwQTRkbFg5QmFpalgwemJnRl9GMEpPVXpvaXdZa1RzaWR1VEw2LXA1V2kxb2N5dzdLTTdSMW9PWFhWZHlzNWZ0Wm0yR2FuTFRSYkFfeGZmMkY3N3c4NTJfZGEyakZtd3RYYnJIeFozUmRpTEpLU3E?oc=5",
-      "pub_date": "2026-08-27T01:17:02+00:00",
+      "pub_date": "2026-08-26T07:00:00+00:00",
       "description": "Accounting and AI: How Will Artificial Intelligence Affect the Accounting Industry?&nbsp;&nbsp;Intuit",
       "source": "Intuit",
       "source_url": "https://www.intuit.com",
@@ -5267,17 +5278,6 @@
       "description": "Si algo ha quedado claro en las últimas semanas es que la IA puede salirse de control en el momento menos indicado. La prueba más evidente es el hackeo de Hugging Face provocado por dos agentes que escaparon de su entorno de pruebas sin ayuda humana. Microsoft quiere que esto no vuelva a ocurrir y [&#8230;]\nSeguir leyendo: Microsoft ya tiene claro qué hacer para evitar que la IA se salga de control",
       "source": "",
       "source_url": "https://hipertextual.com/inteligencia-artificial/microsoft-hackeos-ia-autonoma-guia-contencion/",
-      "query": "https://hipertextual.com/feed",
-      "category": "habilidades",
-      "lang": "es"
-    },
-    {
-      "title": "Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic",
-      "link": "https://hipertextual.com/inteligencia-artificial/google-cambia-jefes-inteligencia-artificial/",
-      "pub_date": "2026-08-05T19:25:00+00:00",
-      "description": "Google ha anunciado una reestructuración de su división de inteligencia artificial con miras a recuperar el terreno perdido frente a Anthropic y OpenAI. Jeff Dean, uno de los ingenieros más influyentes en la historia de la compañía, dejará Google para fundar su propia empresa. Por si fuera poco, Demis Hassabis dejará de ser CEO de [&#8230;]\nSeguir leyendo: Google cambia a los jefes de su inteligencia artificial para poder competir con OpenAI y Anthropic",
-      "source": "",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/google-cambia-jefes-inteligencia-artificial/",
       "query": "https://hipertextual.com/feed",
       "category": "habilidades",
       "lang": "es"
