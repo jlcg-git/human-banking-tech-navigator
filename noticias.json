@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T15:05:20.691378+00:00",
+  "updated_at": "2026-09-09T15:06:08.984262+00:00",
   "total": 480,
   "items": [
     {
@@ -10,6 +10,17 @@
       "source": "Murcia.com",
       "source_url": "https://www.murcia.com",
       "query": "inteligencia artificial banca tradicional 2026",
+      "category": "banca_trad",
+      "lang": "es"
+    },
+    {
+      "title": "IA en las finanzas - ActuIA",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wMUd1RVRmdHdhaC1hYW9FSm9SVTVLa0tfUTVhTFFvdkVzQ3RjeFVOWDlVM1hTb180NjliN2hwNE5FRlFUc0ZleU9JdHhpeEM1N2l2MGx3?oc=5",
+      "pub_date": "2026-09-05T07:00:00+00:00",
+      "description": "IA en las finanzas&nbsp;&nbsp;ActuIA",
+      "source": "ActuIA",
+      "source_url": "https://www.actuia.com",
+      "query": "inteligencia artificial credito riesgo operaciones bancarias",
       "category": "banca_trad",
       "lang": "es"
     },
@@ -58,11 +69,11 @@
       "lang": "en"
     },
     {
-      "title": "New State of Banking Transformation Report Captures the Trends Shaping the Future of Financial Services - ffnews.com",
+      "title": "New State of Banking Transformation Report Captures the Trends Shaping the Future of Financial Services - FF News",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMXRKRXVNeUVOSTFTQzZ1b1NZWGQ1NnlUczRpdHpDY0RNNm1aTWZNVDVCZENHalNTTVBpMGtQb0M4cmxJVm5WNzV5TllidUczX1dXWWxMNVRhV0tMcUxUbVBuOHRmYVdTLTVQaU4ycmZ0SU4yZHlfNDN5TDNmcXFiVGcya0JJS2xnaE9XSWtrQ1lGWFAzYzBXNEJ4b3lmSERlMHV1bzZxTU81eU12a2xrV0wxRFlDNG9OU3BGYW9jQUEyUDlObkE?oc=5",
       "pub_date": "2026-09-02T13:47:25+00:00",
-      "description": "New State of Banking Transformation Report Captures the Trends Shaping the Future of Financial Services&nbsp;&nbsp;ffnews.com",
-      "source": "ffnews.com",
+      "description": "New State of Banking Transformation Report Captures the Trends Shaping the Future of Financial Services&nbsp;&nbsp;FF News",
+      "source": "FF News",
       "source_url": "https://ffnews.com",
       "query": "AI traditional banking transformation 2026",
       "category": "banca_trad",
@@ -148,7 +159,7 @@
     {
       "title": "Así es como la banca está dejando atrás los pilotos con inteligencia artificial y la está integrando a su negocio - Revista Semana",
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVHc1aU5hNXZXVHBuWU12aHZETGJLUkEwazZqZC1KQzZNbXFmR1ktTG1zdUdUOWU3aVVkb3RaWGhDTkE2cy1XYlVYek94eTZNUzN3REtpY0hCSW5OZE5MQU1FNGVWalVSLTJBS1c5RjBEVnBCSVZUaGRBNmN5SnFOYjJ1cEhSZnJ3cTBWTE0xRzRUOGNrd0VoVGJMeGtZanZaT2JYYmFyd05oWS15MDlwSGNhWFRyZWt3dXotREdhV1pvdzlwY0FBREhBQm9oVF9GWlNja01RdERreXMtajVqaUFaQmN6cmJmZkQzSkVPdm5JckxqX09RRzdn0gH_AUFVX3lxTE5zOFFueTEtVXBrd2dxYzhUQlVxc05GazNYaFl3VFJVR05SN293ZEh6UURHLUhBcEcxYnhHcF9MZUw2a0Y1ZFBtQmY4MUxJWGRoeHQwNFg3LXR5WjlodnpTcGlJa3pMbE1LTmpIV1l6S1BuaTNsejdzNEJqQ1VnMFpLa2NHbTQ5V1F5RUZuRUlMWG1nc3haWGhVZ2xfRHdqMkNMSHFMY0dacG5LS2NDVkJKWVNtbWd3bExCN0E1WVNDMFBvekRpWEdnUzQ5VVNDZ1RnWG8tdjlTZjZBREdFbWtiTk1tdldoWkZuZUsxWl9jdEluSXNkN3FoS1laLUZlWQ?oc=5",
-      "pub_date": "2026-08-31T14:52:29+00:00",
+      "pub_date": "2026-08-31T07:00:00+00:00",
       "description": "Así es como la banca está dejando atrás los pilotos con inteligencia artificial y la está integrando a su negocio&nbsp;&nbsp;Revista Semana",
       "source": "Revista Semana",
       "source_url": "https://www.semana.com",
@@ -487,11 +498,11 @@
       "lang": "en"
     },
     {
-      "title": "AI push is putting banks at mercy of tech firms, warns Moody’s - theguardian.com",
+      "title": "AI push is putting banks at mercy of tech firms, warns Moody’s - The Guardian",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPeTlnMGVSVmhwMldNQ3RhaEhqaXFaRzlaSVd2b1g2ZTJPdnRfQTI5WkRTMWVJb1MtRklmaGZUeXY5UkpOeVdNX3NfM2ltVnI5cFZNMTlfZ2huQ3hrQy1sN2FiY1pxNktKd0ZUeHN1NkVGdDhFdExzRy1Bd1BCLVYwcnVwa3lEOVl6ZFBsNzNubFlRQ2xFZFJlSmN5Uk9NdTN2UzhKQkRR?oc=5",
       "pub_date": "2026-08-09T07:00:00+00:00",
-      "description": "AI push is putting banks at mercy of tech firms, warns Moody’s&nbsp;&nbsp;theguardian.com",
-      "source": "theguardian.com",
+      "description": "AI push is putting banks at mercy of tech firms, warns Moody’s&nbsp;&nbsp;The Guardian",
+      "source": "The Guardian",
       "source_url": "https://www.theguardian.com",
       "query": "AI banking operations technology financial",
       "category": "banca_trad",
@@ -652,14 +663,36 @@
       "lang": "en"
     },
     {
-      "title": "From Systems of Record to Outcome-Driven AI Banking - FinTech Magazine",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZDlsZGdsb0dEQnZTaXhFS0hFM01Fa1FlWXVWeDNWLXhpbnhaVnFiOEpEbmROTzNxZFlYYWlBVnctZGVjVGVFU0JhLVRESUNHc3M0dlNFSFBfYmJGbGw1N0Flb2k3a19DbXhUTG9WZFBjT1FLV0ZOcFc4c21XdXRRdTZ4aTgwdU1hRFNxSHV1U0k0dw?oc=5",
-      "pub_date": "2026-07-31T07:00:00+00:00",
-      "description": "From Systems of Record to Outcome-Driven AI Banking&nbsp;&nbsp;FinTech Magazine",
-      "source": "FinTech Magazine",
-      "source_url": "https://fintechmagazine.com",
-      "query": "AI banking operations technology financial",
-      "category": "banca_trad",
+      "title": "PropTech in 2026: How Technology Is Reshaping the Industry",
+      "link": "https://www.fintechnews.org/proptech-in-2026-how-technology-is-reshaping-the-industry/",
+      "pub_date": "2026-09-09T04:54:26+00:00",
+      "description": "For most of the past decade, &#8220;proptech&#8221; was shorthand for proprietary trading software. In 2026, the term carries a second meaning across financial markets, one that describes the technology powering proprietary trading firms: the evaluation systems, risk engines, payout systems and trader portals that determine how retail traders access market capital. That second definition is [&#8230;]\nThe post PropTech in 2026: How Technology Is Reshaping the Industry appeared first on fintechnews.org.",
+      "source": "",
+      "source_url": "https://www.fintechnews.org/proptech-in-2026-how-technology-is-reshaping-the-industry/",
+      "query": "https://fintechnews.org/feed/",
+      "category": "neobancos",
+      "lang": "en"
+    },
+    {
+      "title": "Clutch report: 53% of consumers are less likely to buy from brands using AI on social media",
+      "link": "https://www.fintechnews.org/clutch-report-53-of-consumers-are-less-likely-to-buy-from-brands-using-ai-on-social-media/",
+      "pub_date": "2026-09-08T20:48:19+00:00",
+      "description": "53% of consumers are less likely to purchase from brands they know use AI in social media content. Consumers are increasingly encountering AI on social media, but familiarity does not equal widespread trust. Research from Clutch finds that 86% of consumers have encountered AI-generated content, while 53% are less likely to purchase from brands they [&#8230;]\nThe post Clutch report: 53% of consumers are less likely to buy from brands using AI on social media appeared first on fintechnews.org.",
+      "source": "",
+      "source_url": "https://www.fintechnews.org/clutch-report-53-of-consumers-are-less-likely-to-buy-from-brands-using-ai-on-social-media/",
+      "query": "https://fintechnews.org/feed/",
+      "category": "neobancos",
+      "lang": "en"
+    },
+    {
+      "title": "Billing and payment friction puts $330 billion in annual service revenue at risk, new study finds",
+      "link": "https://www.fintechnews.org/billing-and-payment-friction-puts-330-billion-in-annual-service-revenue-at-risk-new-study-finds/",
+      "pub_date": "2026-09-08T20:42:01+00:00",
+      "description": "58% of Consumers Say the Billing and Payment Experience Shapes Their Perception of Overall Service Quality 54% of Gen Z Consumers Find It Frustrating Paymentus Holdings Inc. (“Paymentus”) (NYSE:PAY), the leading provider of AI-native solutions for Service Commerce providers, and PYMNTS Intelligence, a leading global data and analytics platform, today released findings from the Service [&#8230;]\nThe post Billing and payment friction puts $330 billion in annual service revenue at risk, new study finds appeared first on fintechnews.org.",
+      "source": "",
+      "source_url": "https://www.fintechnews.org/billing-and-payment-friction-puts-330-billion-in-annual-service-revenue-at-risk-new-study-finds/",
+      "query": "https://fintechnews.org/feed/",
+      "category": "neobancos",
       "lang": "en"
     },
     {
@@ -672,6 +705,17 @@
       "query": "https://fintechnews.org/feed/",
       "category": "neobancos",
       "lang": "en"
+    },
+    {
+      "title": "UIN levanta US$2M: engagement para fintech en LATAM - El Ecosistema Startup",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYU9hRXFUdFM3MGZzcnA3ZDIwaXRiYlV1RWlDSGRUTUYtRENhQTNhaUF6ZW1ieTRtTzdkOTlYek8yRzIweTZoTGROZU1CNG9ERDJvb1A1NkFGSDY2T3plMEtwZUlDVlB6OTVVTFoyOGxEamR5WkhiNnVDZVNIVGRmLTNBaENicDg?oc=5",
+      "pub_date": "2026-09-04T20:51:56+00:00",
+      "description": "UIN levanta US$2M: engagement para fintech en LATAM&nbsp;&nbsp;El Ecosistema Startup",
+      "source": "El Ecosistema Startup",
+      "source_url": "https://ecosistemastartup.com",
+      "query": "fintech IA expansion America Latina",
+      "category": "neobancos",
+      "lang": "es"
     },
     {
       "title": "Ant International secures payment institution licence from the Central Bank of Brazil",
@@ -740,11 +784,11 @@
       "lang": "es"
     },
     {
-      "title": "Stark Technology Launches Integrated Ecosystem Featuring Stark Market and Stark Banking - ffnews.com",
+      "title": "Stark Technology Launches Integrated Ecosystem Featuring Stark Market and Stark Banking - FF News",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTWZPei1HdTJjaGtMR2VMZTBSckJjRGF6QnhGUnJpQ2twMkMtZWt6cVNrNXI5T0dLa0pZVGI2eXVSbmdRYWhjSzd5VDFXeHh4SUwwTXJ2LWc4Zm8wY1BibFBQSlBnYjNXcnF1V3ZvSE9CdHNySU1QVXh5akVVWG5IOEYxclkyaFBlS0VFb2N5NWhIS2hBQ1BrZlpKb29oTWhw?oc=5",
       "pub_date": "2026-09-03T11:22:44+00:00",
-      "description": "Stark Technology Launches Integrated Ecosystem Featuring Stark Market and Stark Banking&nbsp;&nbsp;ffnews.com",
-      "source": "ffnews.com",
+      "description": "Stark Technology Launches Integrated Ecosystem Featuring Stark Market and Stark Banking&nbsp;&nbsp;FF News",
+      "source": "FF News",
       "source_url": "https://ffnews.com",
       "query": "neobank AI fintech 2026",
       "category": "neobancos",
@@ -817,11 +861,11 @@
       "lang": "es"
     },
     {
-      "title": "AI in Financial Services Market Size, Share & Growth Report 2035 - snsinsider.com",
+      "title": "AI in Financial Services Market Size, Share & Growth Report 2035 - SNS Insider",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBCTjRkNzhsQ2xwSF9BekhVY1c2R29BSWJLNVJmZW84YklZTE5yWTkwb2RjekE3RUhGdlNwWWxlNUgtcnpDMXFpODV4MVpSUVktNGpkUi05SW80ZmltSnRlNHVrR3NjeEZTRV9reV9vWkpvRDhZR0tvVXh1OA?oc=5",
       "pub_date": "2026-09-02T18:30:00+00:00",
-      "description": "AI in Financial Services Market Size, Share & Growth Report 2035&nbsp;&nbsp;snsinsider.com",
-      "source": "snsinsider.com",
+      "description": "AI in Financial Services Market Size, Share & Growth Report 2035&nbsp;&nbsp;SNS Insider",
+      "source": "SNS Insider",
       "source_url": "https://www.snsinsider.com",
       "query": "fintech challenger bank AI Latin America",
       "category": "neobancos",
@@ -1279,48 +1323,15 @@
       "lang": "en"
     },
     {
-      "title": "Ether.fi lanza neobanco de próxima generación con xStocks y préstamos al 4% - DiarioBitcoin",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdDdrbVZEQUprWWdkbllVTVpDeDE0b0Rxb3NnZ2hXNF9PVUlqVTctSUZhOUc0SlU3T2Z2bWpEQTRpTXhaamVnRENidWVsSGNYX1hzZ1oyMkp6WkoxTGx4YTlDS000c1N1eUZLWEVZQVBCZUtmd2dBbHVhWGw0dUJGallSRUZOX3dkTXQ3alZlbHBfaHppeFpseWVDUmxycXVjTy0xcUJaY0RxUUVzczY4Ylgwb0gwbXhKemsxQW51S1Bmb1RZRkY1QVcyYw?oc=5",
-      "pub_date": "2026-08-13T07:00:00+00:00",
-      "description": "Ether.fi lanza neobanco de próxima generación con xStocks y préstamos al 4%&nbsp;&nbsp;DiarioBitcoin",
-      "source": "DiarioBitcoin",
-      "source_url": "https://www.diariobitcoin.com",
-      "query": "neobanco inteligencia artificial fintech Latinoamerica 2026",
-      "category": "neobancos",
+      "title": "Billeteras cripto de Brasil cambian por nueva regulación: ¿afecta a usuarios argentinos? - iProUP",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMlFuN1IzeHhVdG1hY29mcmdWWXZjVThBRUE3OWxzMVQzbUQ0Zk1QRFpiMTllVXdQWVduU21xMEVmRC1McVpRODQ4NjdLV0VVLXpqQTA1d19FNmY5Zjg5ZWRNVHpyT1prS1phRkZVUVpFbzBYQVExdVlZTVBjTkV2OEw5NDlXNlNtZXBKX2l6ZElGTFczeEJNNHdidHRyb1FYV1RZem52ZEpXblhaaEVzeVZUV0ZxX21QUmc4R2hGWGlsSVlrZGo0Q1FCY2dmRzYt0gHWAUFVX3lxTE14am5abFRMaS1hdTRMSjRLdmhIWTltTVVNcGlXWlBvQnBWRU0zR2VSSHlYb3hpc0xmMnZDdnFHRGZGMVlFREp3TmgzcFo5R0QyOGR3anlXZ0dNcG8wdjk2cnpROUQzeWhmOFNXbWQteTFNam9qTnJKNGJjYjVuUXRGSGE4a0xQOEh1a0NtU1dYeFVaNDFyQTRSQkhyRGppVDZiZ3hpSFQ4OGY1c2hKbUZjenlRUU5NWFpiNWoxNThxMWtpU1hNRWtHYW5ZTjRuSUN6MkFKOWc?oc=5",
+      "pub_date": "2026-09-09T10:26:30+00:00",
+      "description": "Billeteras cripto de Brasil cambian por nueva regulación: ¿afecta a usuarios argentinos?&nbsp;&nbsp;iProUP",
+      "source": "iProUP",
+      "source_url": "https://www.iproup.com",
+      "query": "criptoactivos inteligencia artificial regulacion 2026",
+      "category": "cripto",
       "lang": "es"
-    },
-    {
-      "title": "Colombia | Participa durante agosto en talleres y curso gratis en Inteligencia Artificial, matketing y más para tu empresa, negocio o emprendimiento en Bogotá - DPL News",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQLV84cW5SdXd4TE5zTnR6ZjF4Um42SXBTVERVSUV2VmFXbWcxUEdqRE1GR09ZSEdGcWFKR3pGMVFISFNPRVJ5NHpkcEZsTk9MYnRUQXFWMkhvZE5lTnpmY0pucFRhdHpoa200SUZMdWRSdDItUXhwaUtENU5famlIZHpFeFp4bjQzMlRrcVhTWHBlQU1nYTluWG15Sy1pY3IxeGRBRUMyS21aLWp0MTFTRDBaakpER2FYTUsxWkVtZElUWlR2MlpFNUV1RllfcDM3ZzRIUFV0WTRuSEpxWkVyMkUxaGZpTE1Za0ZULUFGX2hELXE3NjNUNkFuQnJjXzZtLXo1Wlpn?oc=5",
-      "pub_date": "2026-08-13T07:00:00+00:00",
-      "description": "Colombia | Participa durante agosto en talleres y curso gratis en Inteligencia Artificial, matketing y más para tu empresa, negocio o emprendimiento en Bogotá&nbsp;&nbsp;DPL News",
-      "source": "DPL News",
-      "source_url": "https://dplnews.com",
-      "query": "banco digital IA Colombia Panama innovacion",
-      "category": "neobancos",
-      "lang": "es"
-    },
-    {
-      "title": "Uber invierte en fintech Galgo: US$100M levantados y expansión LATAM 2026 - El Ecosistema Startup",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc1VvcEtvdEpBMTgwc3hrWGdDa3o1R3EzTU1UWEJqTzJmQnhfZEhXSnp4bkxNOVFESjNrZGVrYVJzV0cwdjZ0cVNpSWlEZEpycnVaaEtHa2ZpRGlBZFFwelpEOGFsZXhyNmloMjZtWmk1RFdXVGF4ZWFELTk2dXo3dTRyWTEwYktQbFp1eVJkaTk5YnFNQkd0c3lqM2dEaXVYYlFGNA?oc=5",
-      "pub_date": "2026-08-13T01:51:37+00:00",
-      "description": "Uber invierte en fintech Galgo: US$100M levantados y expansión LATAM 2026&nbsp;&nbsp;El Ecosistema Startup",
-      "source": "El Ecosistema Startup",
-      "source_url": "https://ecosistemastartup.com",
-      "query": "fintech IA expansion America Latina",
-      "category": "neobancos",
-      "lang": "es"
-    },
-    {
-      "title": "Researchers find the first significant link between AI adoption and revenue growth",
-      "link": "https://www.fintechnews.org/researchers-find-the-first-significant-link-between-ai-adoption-and-revenue-growth/",
-      "pub_date": "2026-08-12T21:13:34+00:00",
-      "description": "New study of 500 enterprises conducted by Larridin and Carnegie Mellon University reveals organizations with concrete evidence of AI deployments and results grew revenue faster than those with weaker signals Larridin, Inc.®, the platform measuring AI-powered work across the enterprise, today announced findings from a new study, Do AI Adoption Signals Predict Company Performance?,conductedin collaboration [&#8230;]\nThe post Researchers find the first significant link between AI adoption and revenue growth appeared first on fintechnews.org.",
-      "source": "",
-      "source_url": "https://www.fintechnews.org/researchers-find-the-first-significant-link-between-ai-adoption-and-revenue-growth/",
-      "query": "https://fintechnews.org/feed/",
-      "category": "neobancos",
-      "lang": "en"
     },
     {
       "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights - Investing News Network",
@@ -1631,17 +1642,6 @@
       "lang": "en"
     },
     {
-      "title": "Ya esta disponible la agenda oficial del Cripto Latin Fest para el 27 y 28 de agosto en Bogotá - Criptoinforme",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91MEtnNzZDWXQxYzBOS0RHVXAtM2N1NFEwbXJlUVA2OERQY3ZlaFNGdEJhTHlLLWFiYnFtTTEwSG5OcFVPTHU4NDlhd20zRHhIV1BibVBUYmNhalhkd24wRnJTYVFSOFhCdFZ2R2ZIVnl6Zw?oc=5",
-      "pub_date": "2026-08-11T07:00:00+00:00",
-      "description": "Ya esta disponible la agenda oficial del Cripto Latin Fest para el 27 y 28 de agosto en Bogotá&nbsp;&nbsp;Criptoinforme",
-      "source": "Criptoinforme",
-      "source_url": "https://criptoinforme.com",
-      "query": "criptoactivos inteligencia artificial regulacion 2026",
-      "category": "cripto",
-      "lang": "es"
-    },
-    {
       "title": "SA’s crypto rules hit decentralised finance wall - ITWeb",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVThxZmJDcWEzUEFELUZEeWd0Q0lmaV9POEIwN1d6TTJDekFTLW9ZR2w1QU1VMlNiUGxmUDV6RmhmdXNEZE9vOV9PU2dENFRaZ000SHVrZnd5X09mdzRNVmxwbW1mX2NMaE9ZNWdncEVyYV9CUW9iNmY3MWN4VnNBT01VdVRZaFY4SDhsME5LRTdaRFRxVVVZVW9UcGg?oc=5",
       "pub_date": "2026-08-11T07:00:00+00:00",
@@ -1651,6 +1651,17 @@
       "query": "blockchain AI financial services regulation",
       "category": "cripto",
       "lang": "en"
+    },
+    {
+      "title": "Ya esta disponible la agenda oficial del Cripto Latin Fest para el 27 y 28 de agosto en Bogotá - Criptoinforme",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91MEtnNzZDWXQxYzBOS0RHVXAtM2N1NFEwbXJlUVA2OERQY3ZlaFNGdEJhTHlLLWFiYnFtTTEwSG5OcFVPTHU4NDlhd20zRHhIV1BibVBUYmNhalhkd24wRnJTYVFSOFhCdFZ2R2ZIVnl6Zw?oc=5",
+      "pub_date": "2026-08-11T07:00:00+00:00",
+      "description": "Ya esta disponible la agenda oficial del Cripto Latin Fest para el 27 y 28 de agosto en Bogotá&nbsp;&nbsp;Criptoinforme",
+      "source": "Criptoinforme",
+      "source_url": "https://criptoinforme.com",
+      "query": "criptoactivos inteligencia artificial regulacion 2026",
+      "category": "cripto",
+      "lang": "es"
     },
     {
       "title": "\"They Can't Open Bank Accounts\": Pantera Founder Says AI Agents Will Drive Crypto Demand - Yellow.com",
@@ -1895,11 +1906,11 @@
       "lang": "en"
     },
     {
-      "title": "STS Digital CEO sees three major headwinds for crypto markets - coindesk.com",
+      "title": "STS Digital CEO sees three major headwinds for crypto markets - CoinDesk",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRi1ham9XZXJfOVpFRWVfc1lrRmtnMXhfWDVfTlh6R05obkQ1cjZWZ2ZDVk1LcjdIRW9pUE9Fek1hZ2QwMkFpQThRb3l4N21vWnE0WkpuSWJRYi00MW8zVGdXNEtQdjFHbnQwQUJzanNCZWZMM0lLUEFTWFJmbXpncFU4OWlhd215VHhHSXZGYnlLdlNtT3pGTExvbmw0bnlzVUdsbjNGc0s?oc=5",
       "pub_date": "2026-07-31T07:00:00+00:00",
-      "description": "STS Digital CEO sees three major headwinds for crypto markets&nbsp;&nbsp;coindesk.com",
-      "source": "coindesk.com",
+      "description": "STS Digital CEO sees three major headwinds for crypto markets&nbsp;&nbsp;CoinDesk",
+      "source": "CoinDesk",
       "source_url": "https://www.coindesk.com",
       "query": "artificial intelligence cryptocurrency institutional adoption",
       "category": "cripto",
@@ -1917,11 +1928,11 @@
       "lang": "es"
     },
     {
-      "title": "The AI Crypto Boom Is Cooling. Here’s Where Smart Money Is Moving - bitcoinfoundation.org",
+      "title": "The AI Crypto Boom Is Cooling. Here’s Where Smart Money Is Moving - Bitcoin Foundation",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONUQ4dUFGRGJMemVvdXVUQ0dRdTZYZGJUdEFkdGNNeW5vS2ljdDVwcnJhWDRmMmFMcmlNRDY5M3VxY1RMbFpoS2gxd1ptV2xod1hJNU1pNjlGTFA5RVdKOVlNRTl1Q2xhdXNCVDBGZk9nbWpaalFzZElzOHNBcTY4Q0h6U2Y1aWJyU1B5eTBMdWR2OWhPdEwzWWFPNV91bXlEa2RhWmhORnJKYm15?oc=5",
       "pub_date": "2026-07-30T07:00:00+00:00",
-      "description": "The AI Crypto Boom Is Cooling. Here’s Where Smart Money Is Moving&nbsp;&nbsp;bitcoinfoundation.org",
-      "source": "bitcoinfoundation.org",
+      "description": "The AI Crypto Boom Is Cooling. Here’s Where Smart Money Is Moving&nbsp;&nbsp;Bitcoin Foundation",
+      "source": "Bitcoin Foundation",
       "source_url": "https://bitcoinfoundation.org",
       "query": "artificial intelligence cryptocurrency institutional adoption",
       "category": "cripto",
@@ -1972,14 +1983,135 @@
       "lang": "en"
     },
     {
-      "title": "10 Mejores Bots de Trading de Criptomonedas con IA (agosto 2026) - unite.ai",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE14U0pTVm42RlBVNm1lUkVzUlR2SDdXTkl6M3YzbmdfQmhoS2JYZTU4TDVTRk15YUtjX3ktbnJ4RXQyeFdaN1JPcnlOV2RUVmYzV2x0aW8xbHd0WUJjendUZ0xn?oc=5",
-      "pub_date": "2026-07-24T07:00:00+00:00",
-      "description": "10 Mejores Bots de Trading de Criptomonedas con IA (agosto 2026)&nbsp;&nbsp;unite.ai",
-      "source": "unite.ai",
-      "source_url": "https://www.unite.ai",
-      "query": "criptoactivos inteligencia artificial regulacion 2026",
-      "category": "cripto",
+      "title": "Kapital Lands $125 Million to Scale AI-Powered Business Platform",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/kapital-lands-125-million-dollars-scale-ai-powered-business-platform/",
+      "pub_date": "2026-09-09T14:46:21+00:00",
+      "description": "Kapital, a financial institution providing access to business capital across Mexico, Colombia, Spain and the United States, secured $125 million in new financing, the company said in a Wednesday (Sept. 9) press release. Kapital will use the financing to accelerate product innovation around its proprietary artificial intelligence platform and data analytics suite, and to expand [&#8230;]\nThe post Kapital Lands $125 Million to Scale AI-Powered Business Platform appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/news/investment-tracker/2026/kapital-lands-125-million-dollars-scale-ai-powered-business-platform/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "States Accelerate Crackdown on Algorithmic Pricing, Raising Compliance Stakes",
+      "link": "https://www.pymnts.com/legal/2026/states-accelerate-crackdown-on-algorithmic-pricing-raising-compliance-stakes/",
+      "pub_date": "2026-09-09T14:28:59+00:00",
+      "description": "State efforts to regulate algorithmic pricing are accelerating, replacing a handful of isolated restrictions with an increasingly complex patchwork of antitrust, consumer protection and data privacy rules. California, Connecticut, Maryland and New Jersey have enacted restrictions targeting different pricing practices, while New York lawmakers are considering replacing the state’s disclosure requirement with a broader prohibition. [&#8230;]\nThe post States Accelerate Crackdown on Algorithmic Pricing, Raising Compliance Stakes appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/legal/2026/states-accelerate-crackdown-on-algorithmic-pricing-raising-compliance-stakes/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "Zeal Raises $10 Million for Merchant Loyalty Product",
+      "link": "https://www.pymnts.com/news/investment-tracker/2026/zeal-raises-10-million-dollars-merchant-loyalty-product/",
+      "pub_date": "2026-09-09T14:21:54+00:00",
+      "description": "Payments tech company Zeal, based in the United Kingdom, raised $10 million to expand its merchant loyalty product, according to a Wednesday (Sept. 9) press release. The funding will help support the rollout of Zeal’s technology to over 4 million card machines over the next two years, per the release. “Online commerce has built customer [&#8230;]\nThe post  Zeal Raises $10 Million for Merchant Loyalty Product appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/news/investment-tracker/2026/zeal-raises-10-million-dollars-merchant-loyalty-product/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "World Bank Pushes to Expand Emerging Market Digital Payments",
+      "link": "https://www.pymnts.com/digital-payments/2026/world-bank-pushes-to-expand-emerging-market-digital-payments/",
+      "pub_date": "2026-09-09T12:50:42+00:00",
+      "description": "Mastercard and Visa have joined a new World Bank initiative to promote digital payments in emerging markets. The International Finance Corporation (IFC), a member of the World Bank Group that concentrates on the private sector, announced the project Wednesday (Sept. 9), with the goal of helping banks, FinTechs and other financial institutions in these markets expand digital payment access for consumers and small [&#8230;]\nThe post World Bank Pushes to Expand Emerging Market Digital Payments appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/digital-payments/2026/world-bank-pushes-to-expand-emerging-market-digital-payments/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "Fraud Detection And Prevention In BFSI Market (2026 - 2033) - Grand View Research",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRVctOFh6cS01X3Fhd1o1dXV0dnl1MU1zU2hkRUx2RDlCbHU3dGpyV2k3aTRhNTRLUEI2VjNaNHIzbDJPZ3N4M2dlaDdNVDdZQkxqdEFlSW16Q0Vxa3h6NjJtQzJvS280N1pRdGQ1LWdaNnJxUzVOeUhtYWI3Z01ScVJBWEJwTFFUWnptNHlReFNFZWVaSXdOM0hrYy1ndw?oc=5",
+      "pub_date": "2026-09-09T10:26:11+00:00",
+      "description": "Fraud Detection And Prevention In BFSI Market (2026 - 2033)&nbsp;&nbsp;Grand View Research",
+      "source": "Grand View Research",
+      "source_url": "https://www.grandviewresearch.com",
+      "query": "artificial intelligence fraud detection payments banking",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "Surprise Bills Test the Value of Subprime Credit",
+      "link": "https://www.pymnts.com/consumer-finance/2026/surprise-bills-test-the-value-of-subprime-credit/",
+      "pub_date": "2026-09-09T08:02:14+00:00",
+      "description": "Watch more: Need to Know With Concora Credit’s Jason Tinurelli An emergency expense doesn’t need to overwhelm a household budget to create a credit problem. For subprime consumers, a medical bill, car repair or veterinary expense can redirect enough cash to jeopardize a payment, putting hard-won credit progress at risk. Credit issuers are, in those [&#8230;]\nThe post Surprise Bills Test the Value of Subprime Credit appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/consumer-finance/2026/surprise-bills-test-the-value-of-subprime-credit/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "Card Issuers Speed Upgrades as Fraud Threats Grow",
+      "link": "https://www.pymnts.com/digital-payments/2026/card-issuers-speed-upgrades-as-fraud-threats-grow/",
+      "pub_date": "2026-09-09T08:02:04+00:00",
+      "description": "Card platform upgrade calendars are getting shorter. The next major deadline may arrive before issuers finish planning for the last one. Card issuers face pressure from several directions. Fraud keeps changing, customers expect faster digital services and AI is creating new ways to manage accounts. Older platforms can make each improvement harder to deliver. Issuers [&#8230;]\nThe post Card Issuers Speed Upgrades as Fraud Threats Grow appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/digital-payments/2026/card-issuers-speed-upgrades-as-fraud-threats-grow/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "Banks Turn Card Replacement Into a Single AI Workflow",
+      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-turn-card-replacement-into-a-single-ai-workflow/",
+      "pub_date": "2026-09-09T08:00:55+00:00",
+      "description": "Banks have spent the past several years asking whether artificial intelligence can make better decisions. The more important question is becoming whether their infrastructure can execute those decisions. While 52% of banks have piloted agentic AI, just 16% have fully deployed production use cases, according to data cited in the September edition of the AI-Ready [&#8230;]\nThe post Banks Turn Card Replacement Into a Single AI Workflow appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-turn-card-replacement-into-a-single-ai-workflow/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "Paycheck-to-Paycheck Consumers Have Already Cut the Lattes",
+      "link": "https://www.pymnts.com/consumer-finance/2026/paycheck-to-paycheck-consumers-have-already-cut-the-lattes/",
+      "pub_date": "2026-09-09T08:00:23+00:00",
+      "description": "Meet Tom and Elaine. (Our names, not theirs.) Both report household income between $65,000 and $70,000. Both are married, live in a city and say day-to-day spending is why they live paycheck to paycheck. For both, the next paycheck is critical to meeting their monthly financial obligations. On paper, they’re the same consumer. A bank, [&#8230;]\nThe post Paycheck-to-Paycheck Consumers Have Already Cut the Lattes appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/consumer-finance/2026/paycheck-to-paycheck-consumers-have-already-cut-the-lattes/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "62% of Businesses Make ERP Integration the Top AP Test",
+      "link": "https://www.pymnts.com/back-office/accounts-payable/2026/62percent-of-businesses-make-erp-integration-the-top-ap-test/",
+      "pub_date": "2026-09-09T08:00:02+00:00",
+      "description": "For accounts payable software buyers, the quality of the connections now carries more weight than the size of the price tag. That shift runs through “Who Decides Now,” the July edition of the Business Payments Tracker from PYMNTS Intelligence and WEX. The report finds that developers, IT teams and implementation specialists are gaining influence as [&#8230;]\nThe post 62% of Businesses Make ERP Integration the Top AP Test appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/back-office/accounts-payable/2026/62percent-of-businesses-make-erp-integration-the-top-ap-test/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "Ramp Eyes $60 Billion Valuation Just Months After Series F",
+      "link": "https://www.pymnts.com/spend-management/2026/ramp-eyes-60-billion-valuation-just-months-after-series-f/",
+      "pub_date": "2026-09-09T01:54:49+00:00",
+      "description": "Financial operations platform Ramp is in early talks with investors to raise about $1 billion in primary funding at a $60 billion valuation, Bloomberg reported Tuesday (Sept. 8), citing unnamed sources. The talks are still underway, and the details of the funding round could change, according to the report. Reached by PYMNTS, Ramp declined to [&#8230;]\nThe post Ramp Eyes $60 Billion Valuation Just Months After Series F appeared first on PYMNTS.com.",
+      "source": "",
+      "source_url": "https://www.pymnts.com/spend-management/2026/ramp-eyes-60-billion-valuation-just-months-after-series-f/",
+      "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "América Digital 2026 pondrá el foco en la IA aplicada a los negocios latinoamericanos - El Enviador",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRHNfSkZoV25sZ2pPVGl1SU02REVVYmJPNW83UldRal8zd2VqZkVoelp4MUx1SE51Q3FBWHhEMjNFMlBhbGQxX2NIdlpacHpZZU9hbFRjdTdITUdhZFdBR1AtWjg1RUxROC1OeWdpNVpMazZSUmtjUEtBeFlfb0ZTTTJia3g?oc=5",
+      "pub_date": "2026-09-08T22:01:34+00:00",
+      "description": "América Digital 2026 pondrá el foco en la IA aplicada a los negocios latinoamericanos&nbsp;&nbsp;El Enviador",
+      "source": "El Enviador",
+      "source_url": "https://elenviador.com",
+      "query": "inteligencia artificial medios de pago digitales 2026",
+      "category": "pagos",
       "lang": "es"
     },
     {
@@ -2100,6 +2232,17 @@
       "source": "",
       "source_url": "https://www.pymnts.com/cryptocurrency/2026/hackers-take-320-million-dollars-from-liquid-network-blockchain/",
       "query": "https://www.pymnts.com/feed/",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "How AI Improves Fraud Detection in Digital Banking Apps - Nasscom",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0pwaGdOTTU4eFlXaDVmUjVkM0xQcXF4NTVXVzRMeEVCelpkNDVhbGF6TTBYcDlrRm1sWmRWRFYzMzF3by04ZFhSNk44dHZDb0FBSHlWQWhfaE5BM3FpVTRrX2NSQ0pvak1lMlVCZVZudjFCSU5JUk82dC1IOFprVENzSzRia2F0ZW1RUkM1M3NPa1VPdFltZE5DTmhsSWtnOVMtV2hNb3A?oc=5",
+      "pub_date": "2026-09-07T10:28:37+00:00",
+      "description": "How AI Improves Fraud Detection in Digital Banking Apps&nbsp;&nbsp;Nasscom",
+      "source": "Nasscom",
+      "source_url": "https://community.nasscom.in",
+      "query": "artificial intelligence fraud detection payments banking",
       "category": "pagos",
       "lang": "en"
     },
@@ -2500,149 +2643,6 @@
       "lang": "en"
     },
     {
-      "title": "Digital Sales Give Small Businesses a Map for Growth",
-      "link": "https://www.pymnts.com/smbs/2026/digital-sales-give-small-businesses-a-map-for-growth/",
-      "pub_date": "2026-09-03T08:00:23+00:00",
-      "description": "Digital channels gave small and medium-sized businesses more than reach in 2025. They gave those companies a measurable growth edge: Digital-led SMBs were 14 percentage points more likely than store-led peers to increase revenue. “The SMB Growth Engine: How Digital Sales and Customer Tracking Drive Revenue,” a PYMNTS Intelligence report, found that U.S. SMB revenue [&#8230;]\nThe post Digital Sales Give Small Businesses a Map for Growth appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/smbs/2026/digital-sales-give-small-businesses-a-map-for-growth/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "72% of UAE Shoppers Used AI for Their Latest Purchase",
-      "link": "https://www.pymnts.com/consumer-insights/2026/72-of-uae-shoppers-used-ai-for-their-latest-purchase/",
-      "pub_date": "2026-09-03T08:00:08+00:00",
-      "description": "The UAE shopper has little patience for yesterday’s checkout. A phone can serve as a storefront, research assistant and wallet before a merchant’s website has time to prompt, “add to cart.” AI is now joining that toolkit, giving consumers new ways to find products, compare offers and decide what to buy. “The 2026 Global Digital [&#8230;]\nThe post 72% of UAE Shoppers Used AI for Their Latest Purchase appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/consumer-insights/2026/72-of-uae-shoppers-used-ai-for-their-latest-purchase/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "Most Banks Wait Six Years for AI Payback. Discovery Didn’t.",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/most-banks-wait-six-years-for-ai-payback-discovery-didnt/",
-      "pub_date": "2026-09-03T00:03:45+00:00",
-      "description": "Banks have a lot of data on their customers, but most of it sits unused. The customer gets flooded the same generic offer everyone else gets, and the bank misses a warning sign of fraud its own systems could have caught earlier, simply because nothing connects the dots fast enough. Discovery Bank, the South African [&#8230;]\nThe post Most Banks Wait Six Years for AI Payback. Discovery Didn&#8217;t. appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/news/artificial-intelligence/2026/most-banks-wait-six-years-for-ai-payback-discovery-didnt/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "EMVCo Proposes Intent Layer for Agentic Card Payments",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/emvco-proposes-intent-layer-for-agentic-card-payments/",
-      "pub_date": "2026-09-02T14:50:54+00:00",
-      "description": "A valid card credential may tell an issuer that an artificial intelligence agent can pay. It does not necessarily tell the issuer whether the AI agent should make this particular purchase. That distinction sits at the center of a new effort to build common technical standards for agentic commerce. EMVCo on Tuesday (Sept. 1) released a draft framework designed [&#8230;]\nThe post EMVCo Proposes Intent Layer for Agentic Card Payments appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/news/artificial-intelligence/2026/emvco-proposes-intent-layer-for-agentic-card-payments/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "British Banks Increasingly Using Higher-Risk Assets as Collateral",
-      "link": "https://www.pymnts.com/news/banking/2026/british-banks-increasingly-using-higher-risk-assets-as-collateral/",
-      "pub_date": "2026-09-02T14:20:32+00:00",
-      "description": "U.K. banks are increasingly using higher-risk assets as collateral with the Bank of England. That’s according to a report Wednesday (Sept. 2) from Reuters, citing its own review of filings at the British central bank. On August 18, banks pledged $2.56 billion worth of the Bank of England’s highest-risk type of collateral — things like store cards and vehicle leases [&#8230;]\nThe post British Banks Increasingly Using Higher-Risk Assets as Collateral appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/news/banking/2026/british-banks-increasingly-using-higher-risk-assets-as-collateral/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "Michiel Le Roux's Capitec blocked $43 million in fraud losses using AI that scores every payment in real time - Billionaires.Africa",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQzFnYlZUOEhaNnNnVXVETjZONEl1Vm1UanFyRmowQ0lmWmJsdzB0bWtLaTFyNGhNNVV3Z2lRaGM1QTBlU2x0bVZJb1RvYzJfNkQybE5qRWJHbkNJQXJvVXdrNnFCYmltU1B4NFU2YVJUaGx6a2dJTjlTWkdKLWVOV0kxeVB0aUppdXA4c0JPNFNJWVNwVm9NaG1oRFk4d09CVHRfdjluT19uT2gxdlhab0ZMbVpIUFdfRmZjZzFKUEl5SWdBRVlzMUhnczFVUnlHZEZualBwNTNFbGpCSklnUXI1bjM5QQ?oc=5",
-      "pub_date": "2026-09-02T13:23:53+00:00",
-      "description": "Michiel Le Roux's Capitec blocked $43 million in fraud losses using AI that scores every payment in real time&nbsp;&nbsp;Billionaires.Africa",
-      "source": "Billionaires.Africa",
-      "source_url": "https://www.billionaires.africa",
-      "query": "artificial intelligence fraud detection payments banking",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "US and Big Tech Advocate Looser AI Rules at G20 Gathering",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/us-calls-for-relaxed-approach-to-ai-regulation-at-g20-gathering/",
-      "pub_date": "2026-09-02T12:45:20+00:00",
-      "description": "The U.S. has joined the country&#8217;s tech giants in urging G20 members to relax their stance on regulation of artificial intelligence (AI). For example, Nvidia CEO Jensen Huang on Wednesday (Sept. 2) urged G20 countries at their meeting in North Carolina to not craft AI regulations focused on &#8220;theoretical harms,&#8221; and instead focus on rules dealing [&#8230;]\nThe post US and Big Tech Advocate Looser AI Rules at G20 Gathering appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/news/artificial-intelligence/2026/us-calls-for-relaxed-approach-to-ai-regulation-at-g20-gathering/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "Google Debuts AI-Powered Image Creation Tool",
-      "link": "https://www.pymnts.com/google/2026/google-debuts-ai-powered-image-creation-tool/",
-      "pub_date": "2026-09-02T12:17:55+00:00",
-      "description": "Google will soon begin rolling out its image creation/editing tool for Google Workspace. Google Pics will be available over the coming weeks to all Google AI Pro and Ultra subscribers and most Workspace business customers, the tech giant announced in a blog post Tuesday (Sept. 2). “Built on our Nano Banana image generation and editing model, Pics gives [&#8230;]\nThe post Google Debuts AI-Powered Image Creation Tool appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/google/2026/google-debuts-ai-powered-image-creation-tool/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "OpenAI Says New Model Meets Its ‘Critical’ Cybersecurity Threshold",
-      "link": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-says-new-model-meets-its-critical-cybersecurity-threshold/",
-      "pub_date": "2026-09-02T11:01:02+00:00",
-      "description": "OpenAI says its upcoming Astra model is the first to meet its “Critical” cybersecurity threshold. The artificial intelligence (AI) startup noted this development in a blog post Tuesday (Sept. 1) after spending the last few weeks testing Astra’s capabilities. “We now believe Astra meets the Critical cybersecurity capability threshold under our Preparedness Framework, meaning that [&#8230;]\nThe post OpenAI Says New Model Meets Its ‘Critical’ Cybersecurity Threshold appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-says-new-model-meets-its-critical-cybersecurity-threshold/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "Apple’s New CEO Hypes Product Launch in First Employee Address",
-      "link": "https://www.pymnts.com/apple/2026/apples-new-ceo-hypes-product-launch-in-first-employee-address/",
-      "pub_date": "2026-09-02T10:48:35+00:00",
-      "description": "Apple’s new CEO previewed a “phenomenal” iPhone launch in his first comments to employees. John Ternus became Apple’s chief executive Monday (Sept. 1), and used part of his introductory memo to workers to tout the company’s annual September product showcase next week, Bloomberg News reported. “We have a huge launch next week that’s going to [&#8230;]\nThe post Apple’s New CEO Hypes Product Launch in First Employee Address appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/apple/2026/apples-new-ceo-hypes-product-launch-in-first-employee-address/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "Interoperability Now Drives Asia-Pacific’s Real-Time Payments Agenda",
-      "link": "https://www.pymnts.com/real-time-payments/2026/interoperability-now-drives-asia-pacifics-real-time-payments-agenda/",
-      "pub_date": "2026-09-02T08:03:14+00:00",
-      "description": "Real-time payments in Asia-Pacific are entering a new phase. After years of building domestic instant payment rails, countries across the region are now connecting those systems across borders, expanding their commercial uses and laying the groundwork for transactions that run without a person at each step. The clearest example of that shift is Project Nexus. [&#8230;]\nThe post Interoperability Now Drives Asia-Pacific’s Real-Time Payments Agenda appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/real-time-payments/2026/interoperability-now-drives-asia-pacifics-real-time-payments-agenda/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "Spreedly Sees Good Bots Becoming an Agentic Commerce Channel",
-      "link": "https://www.pymnts.com/commerce/ecommerce/2026/agentic-payments-turn-bot-traffic-into-a-merchant-revenue-channel/",
-      "pub_date": "2026-09-02T08:01:06+00:00",
-      "description": "Watch more: Digital Shift With Spreedly’s Adam Hiatt Bots are bad. That, at least, has been digital commerce’s operating assumption since the category’s inception. Automated activity was associated with credential stuffing, scraping, inventory hoarding and fraud. Legitimate customers, it went without saying, were assumed to be human ones. As a result, merchants have traditionally treated [&#8230;]\nThe post Spreedly Sees Good Bots Becoming an Agentic Commerce Channel appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/commerce/ecommerce/2026/agentic-payments-turn-bot-traffic-into-a-merchant-revenue-channel/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
-      "title": "56% of Consumers Have Faced a False Payment Decline",
-      "link": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/56percent-of-consumers-have-faced-a-false-payment-decline/",
-      "pub_date": "2026-09-02T08:00:40+00:00",
-      "description": "Merchants may have more revenue to gain from approving good customers than from tightening fraud controls another turn. That opportunity runs through “The Performance Gap: Why Every Transaction Is a Growth Opportunity,” the August edition of the “Optimizing Payments Tracker® Series.” The report finds that failed authorizations, processing costs and fraud controls can weaken payment [&#8230;]\nThe post 56% of Consumers Have Faced a False Payment Decline appeared first on PYMNTS.com.",
-      "source": "",
-      "source_url": "https://www.pymnts.com/cybersecurity/fraud-prevention/2026/56percent-of-consumers-have-faced-a-false-payment-decline/",
-      "query": "https://www.pymnts.com/feed/",
-      "category": "pagos",
-      "lang": "en"
-    },
-    {
       "title": "Pruebas PISA: los países de América Latina profundizan su retroceso educativo - Infobae",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNUU2NWFOOU5ma0hKYkk0NUxMUHRqYnREeTFRaTRXVm84TnoyejlSVWUtakk0MzJMakdpalFMckxTc0VDMG10WlR6Uy0xS0hRbnMwOWtyTUR4U3BVTE5BRjBkQmJqSzUzZm53aDBvUWVwVFR1SlNkeUJnWkZKMl8td1l0a2lveUVRQ3h3V0ZBRFM1blN0SG43ZXp3VmtvT3ZQZ1FoaUJqTWhRd0lyX0NlbWh3N0h5RUdSbklOVEVCNFliUWtreTRpbE9kTFQ4LUVX0gHrAUFVX3lxTE96dWc5Qm41Q1dmM25VUmN0TUJfVVl5aUY2TTlHMWtybE5nMXVuZWVWSkQ5VFdHLUJuRGVkelRyMU82cnRTd3lFMlNGOVdqQVFKcm93OVdLNEJoNDFUdFdSTUhxMk9taG93ZnhSUmw3bmlpSTAyR3JuLUdUZk8yd2RHZXk4bVdnVVB2MTJGUi1acm90SkR1Y0l1ZzJ4UkVLbF9xdEdtUEVJYVRmamZZUmlHMGJra2hHRjNtektpSW5SQ2xSRFAwMGZnLUZvUlRSaURoeXRZLXlFNHVsZWJFMGVtVW9uSXJvcms1bDA?oc=5",
       "pub_date": "2026-09-08T12:12:09+00:00",
@@ -2693,6 +2693,17 @@
       "description": "Los empresarios colombianos más influyentes de América Latina en 2026 están en el sector financiero&nbsp;&nbsp;Portafolio.co",
       "source": "Portafolio.co",
       "source_url": "https://www.portafolio.co",
+      "query": "inteligencia artificial banca Colombia Panama El Salvador Guatemala 2026",
+      "category": "latam",
+      "lang": "es"
+    },
+    {
+      "title": "EXCLUSIVA E&N | BSC revela la estrategia que redefine su escala regional - www.revistaeyn.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLTNOdGtsNlhiNjl3Nk8wMjRrM095Mk9URUhPa2xJQ2FTQXJxeHRZOU5ieWc1SzdndkRKQ042Ylo5SXY4UVVEWDc4NXlQM1VCenFIbF8wUjIwQUw3N2QzckVKS0RoamRKbjc1Z2JuRXM3ZVVyZ3VibmdqN29SczZsSGl2Z3BwRWNrYU9vTjFFcm1XejBZQW5yODVwMVlRNm1Xa0NyU3NGZWFjRU9EcjhMVWJldTFjX0RDb0dCQkpmMUhCTjVhaWc?oc=5",
+      "pub_date": "2026-09-04T16:15:00+00:00",
+      "description": "EXCLUSIVA E&N | BSC revela la estrategia que redefine su escala regional&nbsp;&nbsp;www.revistaeyn.com",
+      "source": "www.revistaeyn.com",
+      "source_url": "https://www.revistaeyn.com",
       "query": "inteligencia artificial banca Colombia Panama El Salvador Guatemala 2026",
       "category": "latam",
       "lang": "es"
@@ -3149,11 +3160,11 @@
       "lang": "en"
     },
     {
-      "title": "Open Finance e inteligencia artificial impulsan la transformación del sector fintech en México - itsitio.com",
+      "title": "Open Finance e inteligencia artificial impulsan la transformación del sector fintech en México - ITSitio",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeVFEeGpfU1Vtd1ZoaFE5emVISmpPdGk4UFN1Z0U4b28ydE1TakgtdGlYcFdocVpxbHJaVzFLQlJoeUMtN3Y1THh1UF9zd1d3LWQzTWRIMkZkd0RqZFU5S0NyVFBCaE81N3ZFb1lZQU9ESmlKVXZodVVSWTFxUTFpTFlxd3ZScUVvOUNtYTJnTXhxc0xfZmRLNVl2S1BPNjh2ZlItM2cxRlFBZmlCV1A1Tmh1bmVpVUVrWmNuejNJM1dJYUhRRFY2ekR3?oc=5",
       "pub_date": "2026-07-30T07:00:00+00:00",
-      "description": "Open Finance e inteligencia artificial impulsan la transformación del sector fintech en México&nbsp;&nbsp;itsitio.com",
-      "source": "itsitio.com",
+      "description": "Open Finance e inteligencia artificial impulsan la transformación del sector fintech en México&nbsp;&nbsp;ITSitio",
+      "source": "ITSitio",
       "source_url": "https://www.itsitio.com",
       "query": "IA fintech regulacion America Latina inclusion financiera",
       "category": "latam",
@@ -3182,11 +3193,11 @@
       "lang": "en"
     },
     {
-      "title": "Utel reafirma liderazgo educativo en Magna Graduación 2026 - Reforma",
+      "title": "Utel reafirma liderazgo educativo en Magna Graduación 2026 - reforma.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDMzd2lEWUJvcFJJOTBUa28xNnBNU3BBUEJYNWZYUDl0WUxyX1lGaE5ORlhmdTBnVXluWDViM1hjNWNyby16OU1oeXpEQXpFek5obUhnUGFEcW5CQXhMemRrclZvTHdhUEp6cUlJZ283aDdVLXZYOWNmSnJidDN1Vmt3TDREeW9keGNKeU5YT1VlUU82LW00?oc=5",
       "pub_date": "2026-07-27T07:00:00+00:00",
-      "description": "Utel reafirma liderazgo educativo en Magna Graduación 2026&nbsp;&nbsp;Reforma",
-      "source": "Reforma",
+      "description": "Utel reafirma liderazgo educativo en Magna Graduación 2026&nbsp;&nbsp;reforma.com",
+      "source": "reforma.com",
       "source_url": "https://www.reforma.com",
       "query": "inteligencia artificial banca Colombia Panama El Salvador Guatemala 2026",
       "category": "latam",
@@ -3248,11 +3259,11 @@
       "lang": "es"
     },
     {
-      "title": "Nubank Ranked #1 in the 2026 Evident AI Index for Banks in Latin America - Nubank",
+      "title": "Nubank Ranked #1 in the 2026 Evident AI Index for Banks in Latin America - nu.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUFR5SERqZDc2Zk85NG5ZbmZOdG5aZmJvclZ1VnhXT2lQMkRWMm1weWFaVEJjb0tsUDAyaXBzQmI2NVduQk1EMlJidnJMcU13bFVONVV5X1hrSHpmWUJKS0t0LTl1LTdDbjF0eXNoY0c2MGxWN2NlQ0tPbVV2SGVZWEJMcE02UDZ2WHJNdnZiTUpjUjRTOWUxN2wwQ1otYkpfSjl6NmxqY2h5ckMxbEdsTVdONHNRYk0?oc=5",
       "pub_date": "2026-07-21T07:00:00+00:00",
-      "description": "Nubank Ranked #1 in the 2026 Evident AI Index for Banks in Latin America&nbsp;&nbsp;Nubank",
-      "source": "Nubank",
+      "description": "Nubank Ranked #1 in the 2026 Evident AI Index for Banks in Latin America&nbsp;&nbsp;nu.com",
+      "source": "nu.com",
       "source_url": "https://international.nubank.com.br",
       "query": "AI banking Latin America Colombia Panama 2026",
       "category": "latam",
@@ -3270,6 +3281,17 @@
       "lang": "es"
     },
     {
+      "title": "El banco digital Nu recibe la autorización para operar como banco en México y planea invertir más de US$ 4.000 millones - RankiaPro",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPRk9hd0E4LVNPRWJHeUg5bUtSN2lUZjA0UHI1R2tSSHVsbkZLU25CSmNLMm1CUVpUZHdaR01jNlQ0Vk40V3pTYy14blhjRnJmM3BuYU9lRE45RTJDVDdwUGxUcmpYTW9LOEVxYlhlV1BPYThDb2IwXzRYZ2wybkVSUWtvbTVLRzJwaGNvMTFzUkpNQ2o4bEd2b1c3YWxmRWJxZEZja0EtdlpxR3NmSkpiV0NtUm5jZC1sd3k1SjRrcHJGNjg1NU9Bd0ZwMlJld21qUUI4TmxSLTVhaXdsY2R5VkJpMVAzdk1PN215Nw?oc=5",
+      "pub_date": "2026-07-17T07:00:00+00:00",
+      "description": "El banco digital Nu recibe la autorización para operar como banco en México y planea invertir más de US$ 4.000 millones&nbsp;&nbsp;RankiaPro",
+      "source": "RankiaPro",
+      "source_url": "https://rankiapro.com",
+      "query": "transformacion digital banco Miami expansion latinoamerica",
+      "category": "latam",
+      "lang": "es"
+    },
+    {
       "title": "COLADE 2026 pone a El Salvador en el centro financiero - elsalvador.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaFE3bjFFT20wRUt0Q2xpc2VLYXZ5MVJfVWFCUmtiTlFYV2tYbkdjWm1LZXppRS16ZUJ4S2hIMy13ampDTHBkclVScjVWTmVNaVBnYkdNSk9MRnBlaXFwRGMxZ3lpblA3alhEVmVuYzhJb3Nac1R0eUpqQ2dnR2NybTVHbXZpVU5GQ3h3dml6al85akFvcGxlS21ZOG94ek1CcUZWSWJoOWVMZWFXUnlCUHJMdlY4UQ?oc=5",
       "pub_date": "2026-07-16T07:00:00+00:00",
@@ -3281,25 +3303,14 @@
       "lang": "es"
     },
     {
-      "title": "David Vélez volverá a Colombia para participar en el Latam Fintech Market 2026 - ENTER.CO",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbUduY3NxTEFvWTZlUGVHNlA1Tm1WLWNrOHp1bGEyTVRnUnFGTHJObmZscTNvV0Z3QTJiUHVVZUIwLUtWUWlHbDFHeTRKbks2X0FzWlRFTDVHblNpbV9OU2dpbHlnaC0yclh1ME1MYmtwcFR2cUs1YTJXd3JiSGtPU2ktSGduVmhCOTRPdzBKdkdCdlYtY2FTTkpPT21TaWdBTFlJUWNGZlRRQmpU?oc=5",
-      "pub_date": "2026-07-16T07:00:00+00:00",
-      "description": "David Vélez volverá a Colombia para participar en el Latam Fintech Market 2026&nbsp;&nbsp;ENTER.CO",
-      "source": "ENTER.CO",
-      "source_url": "https://www.enter.co",
-      "query": "IA fintech regulacion America Latina inclusion financiera",
-      "category": "latam",
-      "lang": "es"
-    },
-    {
-      "title": "Open Finance 2050: El evento fintech más importante de América Latina regresa a la Ciudad de México - Reporte Indigo",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTExFNms1MEJ0OXFSMkFTTkhCTlMyUDgxRXh6UVJSTWdXYldUYi1oZGQxeF9rYWp6VndsRVpaUzVpbVdpT1JrU1dIc0NnOTVxZUR0TXhuckdsc09ITXhId3ZUR01vNWFBTjNmR1Q0NVNvTExxU1M5TF9zSXBNSmxSckhENXNjVlpBcjdQNDFEdnZWTGJjTnFUb3BCZzB4S1JZUUJoR0pTWno3ZXdQWGRlMS1EV3lkOVdWX3hUYk10TWpZWWtKdktTWlBVLVQ4bkFnbmU3cWwteGtCVkZQT0Q3Rm0yb0JWVjhpbXfSAe8BQVVfeXFMT0dHSUFvemNtbDBKZEgyZm40UzdSZUhDRm9ubXFGZ2VWaWxES2RVbWh4S3B3dFFZcGZ0b1hKZ2daV0tFNWM5ZG1walJYWWNXdjRIYmtNTG9OdWFsUkN4X3pxbm1jMVFqMVZwX2VFRWx5eXhTamtJT004VDRuQ09WUkk4U2RLdEs2ZXhXY3owLTQ4Y096aGtKOUxvSi1qamxibUFFUXo1WlNTTlF2bnVUZTFyLXFVb3ROeXZkMWJSa2NjSHNXZWVqN2t1Y1J5VUFabG5UU2FOWnJLcGI1Tjd1RVFkU3BIV0s0ZW52dWtqaFE?oc=5",
-      "pub_date": "2026-07-14T07:00:00+00:00",
-      "description": "Open Finance 2050: El evento fintech más importante de América Latina regresa a la Ciudad de México&nbsp;&nbsp;Reporte Indigo",
-      "source": "Reporte Indigo",
-      "source_url": "https://www.reporteindigo.com",
-      "query": "IA fintech regulacion America Latina inclusion financiera",
-      "category": "latam",
+      "title": "Presidenta de Abancord: La inteligencia artificial ya forma parte de organizaciones y sus decisiones - Periódico elDinero",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObllLTXUxbFR4MkZadFBaVlZhR19LSHR1TF94MHoxSXdQMFhzTmNWckthTDVpQXZyVGYxcmRFR3hyT3QxalNGaDRiZXk3TS1Vd003YWtKdUE3VXlFV19KQWVFQVd5LUJ5WFQyU1lDX3FmRW1YaEdZUmltdkxScEdLUnE3SC1EcDBSUExTUzVwa0FNMTlQYTQ0QUlKSlRDcFNONmNZTnJaMXFpaGZZUlBnZmsxbWREdTdvMDJVTHE5WUtoeFF3bU5lV3F2NA?oc=5",
+      "pub_date": "2026-09-08T21:11:37+00:00",
+      "description": "Presidenta de Abancord: La inteligencia artificial ya forma parte de organizaciones y sus decisiones&nbsp;&nbsp;Periódico elDinero",
+      "source": "Periódico elDinero",
+      "source_url": "https://eldinero.com.do",
+      "query": "transformacion inteligencia artificial alta direccion banca",
+      "category": "impacto",
       "lang": "es"
     },
     {
@@ -3952,17 +3963,6 @@
       "lang": "en"
     },
     {
-      "title": "Leveraging Generative AI to Design Accessible Interactive Visualizations for Undergraduate Mathematics: A Six-Phase Workflow",
-      "link": "https://arxiv.org/abs/2608.28601",
-      "pub_date": "2026-09-01T00:00:00-04:00",
-      "description": "arXiv:2608.28601v1 Announce Type: new \nAbstract: Interactive visualizations support conceptual understanding in undergraduate mathematics, but building them has required programming expertise most instructors lack. Using a design-based research approach, we develop, deploy, and evaluate a six-phase workflow (Foundation, Customization, Mathematical Depth, Application, Accessibility, Pedagogical Control) that uses generative AI to build WCAG~2.2 Level~AA compliant visualizations without programming. The six phases structure every prompt, scaffold the AI's code generation, and define where human verification is applied. We ask whether the structure reliably yields correct and accessible tools, whether it runs both backward (reverse-engineering prompts from a finished tool) and forward (generating a tool from a plain-language idea), and what verification each phase requires. Across four deployed tools spanning calculus, multivariable calculus, and differential equations, we evaluate mathematical correctness against closed forms, accessibility through automated and manual screen-reader testing, and the errors that recurred. The structure produces structurally complete first-pass tools, but human verification remains mandatory at every phase: each output must be checked for mathematical correctness, accessibility, and pedagogical fit before the next phase begins. The workflow is platform-independent and serves both instructors and students.",
-      "source": "",
-      "source_url": "https://arxiv.org/abs/2608.28601",
-      "query": "https://arxiv.org/rss/cs.AI",
-      "category": "impacto",
-      "lang": "en"
-    },
-    {
       "title": "TD Bank Group shakes up leadership to consolidate tech, AI, and commercial strategy - FinTech Futures",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdGVUTWhYOHBXTXBqVkVwMGpBVVFGMVpUdzRmOXlyNkpBSWhVZlQxVTZYYml3TWktWElmWmU4R0wtQnc0T2xTbGZya2RmbkloTnJ0TUk3Q1hUSTU4dEpvSFU0cTk0OWFaeU9LN0hQel9PYTFLcmltZ2t0V0JMRmd0QXpwZWFPSk1GcDgzS2dCa0puNk1KLU5zRmtnQ1NpTTdoQ0VjWGNod0NTUVd1?oc=5",
       "pub_date": "2026-09-08T06:14:27+00:00",
@@ -4062,11 +4062,11 @@
       "lang": "en"
     },
     {
-      "title": "C-Suite Job Titles: What Do They Really Mean? - Business.com",
+      "title": "C-Suite Job Titles: What Do They Really Mean? - business.com",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1HSE9HT1c3TDBOWGlmRl9GTlBiNkd6SW51dWYyTnBscWpkVEUyZl9jR3NRc3FxaF92blhXR2NCZ3Fac09tdGgyQkQ1WDdDVHUwUFdfOC05TmtrYTFpelE5Nk1Vdw?oc=5",
       "pub_date": "2026-09-04T07:00:00+00:00",
-      "description": "C-Suite Job Titles: What Do They Really Mean?&nbsp;&nbsp;Business.com",
-      "source": "Business.com",
+      "description": "C-Suite Job Titles: What Do They Really Mean?&nbsp;&nbsp;business.com",
+      "source": "business.com",
       "source_url": "https://www.business.com",
       "query": "CEO CFO artificial intelligence strategy financial sector",
       "category": "liderazgo",
@@ -4623,6 +4623,61 @@
       "lang": "en"
     },
     {
+      "title": "Santander y Coursera ofrecen 100.000 plazas de formación gratuita en IA, datos o liderazgo ante la transformación del mercado laboral - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPRFpTZEVwWmU0V3lrTWtSQmNBR0lKWGtEQjVHWUl5dDNFN1M2ZWJ2Q0VLaVZvYkNVZDdDZ0FqWTBPa3NhM3BYOWprX3JJdEtybEI4bzJVYnJQYktyZGxRNTFxbnJlUVZjTC1xaDZ2MGgxUlNuTkJ6NE1LVXdfejcwN1FUMGFuSzQxeGxMNGg2RjRCeXZfZHR2aTNBdVhzZmxINHRIdFhDZWk4OHZzLTF1UVota0tXbkYwM2VqcC1MQXg3TFZmdlZ0N2wxckdwWU5wOUM2WlJzblNTMWh3TURxNVcyZW9NeTNUS3hDcmozYkdoVUVOVUFPUWJ0VHNaeThnekJyVVNEV1FjalA1UWxyOHJ30gGsAkFVX3lxTE00Y0hSTlNyMUFEQnhORDFWa2FtaUlQdXp2WDMtNnNUUW1pX2ZLeXNacWVyWnpUejkwaWhDMk9WS05iMzcyR1VMUW1lVkNoTWpZT0xuZUJpMVhZVGxEaVg0QW9xMHBNbV9aLVZ5bXRXUXQwRTFFSk40cDBNeWtVZjJlTWNZVXdWYV9iczRjQ2Rsb1BiU1ZRSnFILUZTZW5OUjRlNU5wZXEtYmoxR3F6SW9vNUF1U2puSS10T0hXLXVvN21lQnMyYU5EdWJkT2FIMXJ6OW5vVmUwVFZDQWUySnZ2cDBlX3BsbGhES2hzZUwtSW15OTlvRmRYVkhnV2YzVlhYbENHc0xBZGJINlJwalU0eUxmdmh2Rl8tbThnUTRJNnhIMFJjSHl4OEhXdQ?oc=5",
+      "pub_date": "2026-09-09T15:05:01+00:00",
+      "description": "Santander y Coursera ofrecen 100.000 plazas de formación gratuita en IA, datos o liderazgo ante la transformación del mercado laboral&nbsp;&nbsp;Infobae",
+      "source": "Infobae",
+      "source_url": "https://www.infobae.com",
+      "query": "habilidades inteligencia artificial profesionales banca 2026",
+      "category": "habilidades",
+      "lang": "es"
+    },
+    {
+      "title": "Meta lanza Muse, un agente de IA que trabaja por ti sin salir de WhatsApp",
+      "link": "https://hipertextual.com/inteligencia-artificial/meta-lanza-muse-un-agente-de-ia-que-trabaja-por-ti-sin-salir-de-whatsapp/",
+      "pub_date": "2026-09-08T22:58:55+00:00",
+      "description": "Meta ha presentado su primer agente de inteligencia artificial para todos los usuarios. Conocido como Muse, esta IA se define como un agente personal que puede conectarse a tus aplicaciones y ejecutar tareas en tu nombre. Aunque es capaz de llevar a cabo múltiples funciones, los usuarios requieren dar permisos que ninguna otra herramienta de [&#8230;]\nSeguir leyendo: Meta lanza Muse, un agente de IA que trabaja por ti sin salir de WhatsApp",
+      "source": "",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/meta-lanza-muse-un-agente-de-ia-que-trabaja-por-ti-sin-salir-de-whatsapp/",
+      "query": "https://hipertextual.com/feed",
+      "category": "habilidades",
+      "lang": "es"
+    },
+    {
+      "title": "OpenAI sube el listón con su nueva IA para generar imágenes: es mejor, más rápida y te permite dibujar en ChatGPT",
+      "link": "https://hipertextual.com/inteligencia-artificial/openai-chatgpt-images-2-5/",
+      "pub_date": "2026-09-08T20:37:54+00:00",
+      "description": "OpenAI acaba de estrenar ChatGPT Images 2.5, un nuevo modelo de inteligencia artificial dedicado a la generación de imágenes. La tecnología supone una importante mejora respecto de la versión 2.0 que debutó en abril pasado y que también brindaba un desempeño muy interesante. Según la empresa, ChatGPT Images 2.5 no solo ofrece mejores resultados al [&#8230;]\nSeguir leyendo: OpenAI sube el listón con su nueva IA para generar imágenes: es mejor, más rápida y te permite dibujar en ChatGPT",
+      "source": "",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/openai-chatgpt-images-2-5/",
+      "query": "https://hipertextual.com/feed",
+      "category": "habilidades",
+      "lang": "es"
+    },
+    {
+      "title": "OpenAI dice que su IA resolvió el enigma matemático del milenio, pero un científico la acusa de plagio",
+      "link": "https://hipertextual.com/inteligencia-artificial/ia-openai-resuelve-problema-milenio-navier-stokes/",
+      "pub_date": "2026-09-08T19:58:40+00:00",
+      "description": "Un sistema de OpenAI ha resuelto un enigma matemático que llevaba décadas sin solución. La compañía anunció que su IA encontró la solución de uno de los siete problemas del milenio relacionado con las ecuaciones de Navier-Stokes usando un modelo más potente que GPT-6 Astra. Aunque esto suena notable, el hecho quedó empañado por una [&#8230;]\nSeguir leyendo: OpenAI dice que su IA resolvió el enigma matemático del milenio, pero un científico la acusa de plagio",
+      "source": "",
+      "source_url": "https://hipertextual.com/inteligencia-artificial/ia-openai-resuelve-problema-milenio-navier-stokes/",
+      "query": "https://hipertextual.com/feed",
+      "category": "habilidades",
+      "lang": "es"
+    },
+    {
+      "title": "Google lanza AlphaGenome Atlas, una IA que ayuda a detectar enfermedades raras",
+      "link": "https://hipertextual.com/ciencia/alphagenome-atlas-google-mapa-ia-adn-humano/",
+      "pub_date": "2026-09-08T18:45:00+00:00",
+      "description": "Google lleva varios años estudiando las proteínas con ayuda de la IA. La prueba más evidente es AlphaFold, un modelo que ayudó a predecir el plegamiento de las proteínas y que fue clave para que sus creadores ganaran el Premio Nobel de Química en 2024. Ahora toca el turno de AlphaGenome Atlas, que se posiciona [&#8230;]\nSeguir leyendo: Google lanza AlphaGenome Atlas, una IA que ayuda a detectar enfermedades raras",
+      "source": "",
+      "source_url": "https://hipertextual.com/ciencia/alphagenome-atlas-google-mapa-ia-adn-humano/",
+      "query": "https://hipertextual.com/feed",
+      "category": "habilidades",
+      "lang": "es"
+    },
+    {
       "title": "Lo nuevo de Logitech es un dispositivo que pones en tu escritorio y te permite controlar cualquier IA con solo pulsar un botón",
       "link": "https://hipertextual.com/tecnologia/lo-nuevo-de-logitech-es-un-dispositivo-que-pones-en-tu-escritorio-y-te-permite-controlar-cualquier-ia-con-solo-pulsar-un-boton/",
       "pub_date": "2026-09-08T09:04:02+00:00",
@@ -4656,6 +4711,17 @@
       "lang": "es"
     },
     {
+      "title": "Banco UBS exigirá habilidades de IA a sus candidatos para 2027 - DiarioBitcoin",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzZHdk05eUtreXR2blMyczlfXzlKZzAxSU01dkRYZ2NGZm96cE5nampIS29IQUkxd1N0M0pXS3hGUndjZmJMMTJMdmVpVGQtTFk2RmV5Q21NUjJ4NTFlM1VBcFpKb2lRbl9VS1RHUHBOU3RzVUUtd3I4dGpvTGh2ZmR3S0RMQ2hIclVGZUp0UHE4YXpoNmg5TEtKZzNZN2JCVzQxa09UbFNyUWhJZ19JMmU5Z3FQdTA?oc=5",
+      "pub_date": "2026-09-07T20:36:15+00:00",
+      "description": "Banco UBS exigirá habilidades de IA a sus candidatos para 2027&nbsp;&nbsp;DiarioBitcoin",
+      "source": "DiarioBitcoin",
+      "source_url": "https://www.diariobitcoin.com",
+      "query": "habilidades inteligencia artificial profesionales banca 2026",
+      "category": "habilidades",
+      "lang": "es"
+    },
+    {
       "title": "Google descubre que su IA hace trampa al intentar resolver problemas matemáticos",
       "link": "https://hipertextual.com/inteligencia-artificial/agentes-ia-deepmind-trampa-matematicas/",
       "pub_date": "2026-09-07T20:15:29+00:00",
@@ -4678,23 +4744,23 @@
       "lang": "es"
     },
     {
-      "title": "Colombia y Uruguay avanzan en la regulación de la inteligencia artificial - itsitio.com",
+      "title": "Colombia y Uruguay avanzan en la regulación de la inteligencia artificial - ITSitio",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSFdzdXVZdkhSdUNFd25aUThPZGtha2FnM3RoYnpJcUxxUTNHMW9vam9rakJnek1PZ2hKN1Q3LTdZY0JzUHFlWDZzRngzZHFDWFkwdkNFZGZkYWJpS25vRDRGZFFNQmJncmZxcFBuVEZBcGZkdUZJdzRJWnI1c0JlSnBqOXJyMk5PRkNzc1M5T0Rpdl9mbFJ3Mks3RFQtcks2cEUxMTBMaktOTnNZWDNiUlNISnlkMFJSVlJGNXR5MUlyTms?oc=5",
       "pub_date": "2026-09-07T14:07:02+00:00",
-      "description": "Colombia y Uruguay avanzan en la regulación de la inteligencia artificial&nbsp;&nbsp;itsitio.com",
-      "source": "itsitio.com",
+      "description": "Colombia y Uruguay avanzan en la regulación de la inteligencia artificial&nbsp;&nbsp;ITSitio",
+      "source": "ITSitio",
       "source_url": "https://www.itsitio.com",
       "query": "competencias digitales inteligencia artificial banco Colombia",
       "category": "habilidades",
       "lang": "es"
     },
     {
-      "title": "Banco UBS exigirá habilidades de IA a sus candidatos para 2027 - DiarioBitcoin",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzZHdk05eUtreXR2blMyczlfXzlKZzAxSU01dkRYZ2NGZm96cE5nampIS29IQUkxd1N0M0pXS3hGUndjZmJMMTJMdmVpVGQtTFk2RmV5Q21NUjJ4NTFlM1VBcFpKb2lRbl9VS1RHUHBOU3RzVUUtd3I4dGpvTGh2ZmR3S0RMQ2hIclVGZUp0UHE4YXpoNmg5TEtKZzNZN2JCVzQxa09UbFNyUWhJZ19JMmU5Z3FQdTA?oc=5",
-      "pub_date": "2026-09-07T09:36:16+00:00",
-      "description": "Banco UBS exigirá habilidades de IA a sus candidatos para 2027&nbsp;&nbsp;DiarioBitcoin",
-      "source": "DiarioBitcoin",
-      "source_url": "https://www.diariobitcoin.com",
+      "title": "Santander y Coursera alcanzan las 100.000 plazas gratuitas para formarse en IA, datos y liderazgo - Territorio Fintech",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN2pCWlZVNlVmVVJjZE5ERl9RYmt4T3RmTWJXbHBoS2dUb2V4d1VJTnRlWUJEWTZ5bkQzN2IyY2RIcUJLc013eUlONzBGRmczeGxIOE5IZ0dGdGYwQ1AwSzN1V09ZUmNnaUtMWWhVZjQyVWExQk12YVB5cjJqNExodHRPY29CdEpySkF5Mk1vajZSYmFXVmFMVGpBbUhTMVVocGhqaFFmLVVSSlRZZHYxWUtXR2ZtRFZvQVFjTGRsZllaQ3M?oc=5",
+      "pub_date": "2026-09-07T05:30:00+00:00",
+      "description": "Santander y Coursera alcanzan las 100.000 plazas gratuitas para formarse en IA, datos y liderazgo&nbsp;&nbsp;Territorio Fintech",
+      "source": "Territorio Fintech",
+      "source_url": "https://territoriofintech.com",
       "query": "habilidades inteligencia artificial profesionales banca 2026",
       "category": "habilidades",
       "lang": "es"
@@ -5162,11 +5228,11 @@
       "lang": "es"
     },
     {
-      "title": "Accounting and AI: How Will Artificial Intelligence Affect the Accounting Industry? - Intuit",
+      "title": "Accounting and AI: How Will Artificial Intelligence Affect the Accounting Industry? - intuit.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTDJVOEtRc3FzYVlGWlEwQTRkbFg5QmFpalgwemJnRl9GMEpPVXpvaXdZa1RzaWR1VEw2LXA1V2kxb2N5dzdLTTdSMW9PWFhWZHlzNWZ0Wm0yR2FuTFRSYkFfeGZmMkY3N3c4NTJfZGEyakZtd3RYYnJIeFozUmRpTEpLU3E?oc=5",
       "pub_date": "2026-08-26T07:00:00+00:00",
-      "description": "Accounting and AI: How Will Artificial Intelligence Affect the Accounting Industry?&nbsp;&nbsp;Intuit",
-      "source": "Intuit",
+      "description": "Accounting and AI: How Will Artificial Intelligence Affect the Accounting Industry?&nbsp;&nbsp;intuit.com",
+      "source": "intuit.com",
       "source_url": "https://www.intuit.com",
       "query": "artificial intelligence technical skills finance workers",
       "category": "habilidades",
@@ -5215,72 +5281,6 @@
       "query": "AI skills upskilling reskilling banking professionals 2026",
       "category": "habilidades",
       "lang": "en"
-    },
-    {
-      "title": "Gemini ya puede resolver los fallos de tu Pixel con solo pedírselo",
-      "link": "https://hipertextual.com/mobile/gemini-ayuda-pixel-11-pro/",
-      "pub_date": "2026-08-25T01:37:24+00:00",
-      "description": "Google está probando una nueva herramienta dentro de Gemini que te ayudará a resolver problemas en el móvil. El gigante tecnológico le ha seguido los pasos a Samsung e integró una función de ayuda con IA dentro del Pixel 11 Pro. El objetivo de esta herramienta es que puedas acceder a las opciones y ajustes [&#8230;]\nSeguir leyendo: Gemini ya puede resolver los fallos de tu Pixel con solo pedírselo",
-      "source": "",
-      "source_url": "https://hipertextual.com/mobile/gemini-ayuda-pixel-11-pro/",
-      "query": "https://hipertextual.com/feed",
-      "category": "habilidades",
-      "lang": "es"
-    },
-    {
-      "title": "Esta IA china convierte tus PowerPoint en vídeos ultrarrealistas",
-      "link": "https://hipertextual.com/inteligencia-artificial/wan-3-0-alibaba-modelo-video-ia/",
-      "pub_date": "2026-08-24T22:20:00+00:00",
-      "description": "Alibaba ha presentado Wan 3.0, su nuevo modelo de IA que puede generar clips de video a partir de un simple prompt. La versión más reciente duplica la duración máxima de los vídeos que conseguía su predecesor y unifica funciones que antes estaban repartidas entre varios modelos. El nuevo modelo llega a unas semanas de [&#8230;]\nSeguir leyendo: Esta IA china convierte tus PowerPoint en vídeos ultrarrealistas",
-      "source": "",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/wan-3-0-alibaba-modelo-video-ia/",
-      "query": "https://hipertextual.com/feed",
-      "category": "habilidades",
-      "lang": "es"
-    },
-    {
-      "title": "Xiaomi presenta un chip seis veces más potente que el A19 del iPhone 17 Pro",
-      "link": "https://hipertextual.com/mobile/xiaomi-xring-o3-chip-caracteristicas/",
-      "pub_date": "2026-08-24T18:20:00+00:00",
-      "description": "Xiaomi ha presentado un nuevo procesador móvil con el que buscará reducir su dependencia de Qualcomm y MediaTek. Conocido como Xring O3, este chip debutó en un mini PC enfocado a tareas de inteligencia artificial. Xiaomi echó mano de TSMC para fabricarlo, utilizando un proceso similar al que vemos en los Apple Silicon. De acuerdo [&#8230;]\nSeguir leyendo: Xiaomi presenta un chip seis veces más potente que el A19 del iPhone 17 Pro",
-      "source": "",
-      "source_url": "https://hipertextual.com/mobile/xiaomi-xring-o3-chip-caracteristicas/",
-      "query": "https://hipertextual.com/feed",
-      "category": "habilidades",
-      "lang": "es"
-    },
-    {
-      "title": "No eres tú: este es el motivo por el que Claude tarda tanto en responder. ¿Se ha caído?",
-      "link": "https://hipertextual.com/tecnologia/no-eres-tu-este-es-el-motivo-por-el-que-claude-tarda-tanto-en-responder-se-ha-caido/",
-      "pub_date": "2026-08-24T08:28:08+00:00",
-      "description": "Si Claude te está fallando, no es un problema de tu cuenta o dispositivo. El popular modelo de IA de Anthropic lleva horas dando problemas a miles de usuarios en todo el mundo. Si bien tanto la app como la versión web están disponibles, cuando alguien le realiza una pregunta o le pide cualquier cosa [&#8230;]\nSeguir leyendo: No eres tú: este es el motivo por el que Claude tarda tanto en responder. ¿Se ha caído?",
-      "source": "",
-      "source_url": "https://hipertextual.com/tecnologia/no-eres-tu-este-es-el-motivo-por-el-que-claude-tarda-tanto-en-responder-se-ha-caido/",
-      "query": "https://hipertextual.com/feed",
-      "category": "habilidades",
-      "lang": "es"
-    },
-    {
-      "title": "DBS rolls out career advisory service to help employees navigate AI-driven change - straitstimes.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUzExaXdNbG9MMDl0MVdPWUF6OUhZQ2xDRjM5SE9jS25LRHhhd3AyckNXQkp5eHZQRFA1QUtNbFZZV3NiOUlBNFdzWnVSNHJ1ajdJa09HdnJOYUtlR1Y5ekt5YkhUMVZDX3Q5amZJSnpxMVRNaEpLS3Eyb2xjWFpFeHVEM0R6MHZ2TnZHang3aXBpTFotX3IxTS1aazY0RzVxRjFrTGJWeEtBdTJXRkwta05QdXZySFpRZVVN?oc=5",
-      "pub_date": "2026-08-24T07:00:00+00:00",
-      "description": "DBS rolls out career advisory service to help employees navigate AI-driven change&nbsp;&nbsp;straitstimes.com",
-      "source": "straitstimes.com",
-      "source_url": "https://www.straitstimes.com",
-      "query": "AI literacy financial sector learning development",
-      "category": "habilidades",
-      "lang": "en"
-    },
-    {
-      "title": "Virus mentales: así es la nueva amenaza que puede contagiar a los agentes de IA",
-      "link": "https://hipertextual.com/inteligencia-artificial/virus-mentales-agentes-inteligencia-artificial/",
-      "pub_date": "2026-08-23T08:00:00+00:00",
-      "description": "Los agentes de inteligencia artificial se han convertido en el eje de ChatGPT, Claude, Gemini y otros modelos que los usan para ejecutar trabajos de forma autónoma. En la mayoría de los casos, estos agentes colaboran entre sí y comparten archivos que conservan memoria entre sesiones. Esta interconexión ha abierto la puerta a una vulnerabilidad [&#8230;]\nSeguir leyendo: Virus mentales: así es la nueva amenaza que puede contagiar a los agentes de IA",
-      "source": "",
-      "source_url": "https://hipertextual.com/inteligencia-artificial/virus-mentales-agentes-inteligencia-artificial/",
-      "query": "https://hipertextual.com/feed",
-      "category": "habilidades",
-      "lang": "es"
     }
   ]
 }
