@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T14:56:53.798571+00:00",
+  "updated_at": "2026-10-26T17:20:48.298854+00:00",
   "total": 480,
   "items": [
     {
@@ -9,6 +9,17 @@
       "description": "Bancor acelera su transformación para construir un banco más ágil, eficiente y con capacidades propias&nbsp;&nbsp;La Voz del Interior",
       "source": "La Voz del Interior",
       "source_url": "https://www.lavoz.com.ar",
+      "query": "inteligencia artificial credito riesgo operaciones bancarias",
+      "category": "banca_trad",
+      "lang": "es"
+    },
+    {
+      "title": "Banco Ciudad suma IA: créditos por WhatsApp y límites a los bots - iProUP",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUlAtVTJEbVFGMFJTQ1JDSXRRMm9KUzZzUFJGTEtMNk1CdEp6VEs5WThHc2M3THZrQmlMTkFNNFFvZmc3MTlnd2lhcmlxR19TVFBoNjBUcjRsTjVBNVBFTDhTNXU4TzAwVXRxSHB5OXBEc0gyNUdUTkJBZnU0U2pxSm1nNDk4b2JIaUxyYnZkT1BScmF4SGlNSEEyYVZ4R1d2ZnVkbEtR0gGrAUFVX3lxTE1YZjlFclRjbkppUlJpaDlfV3ZURF9fd01EY3pLQ1VsMklZV1ZmUWZXNEFiZGlDY0QwNHVaMzFDWWRSM3F2RWVNWVQtR21IMzVZSTlLcFd5Q1lhRF9lbmc4dVpBVzlOTWgzRkhxV3hkejFyWHplNTNERVk2VWpEd1phOGk0UzAzbUdQeUhQS2pYWEtpaERaNWJfNG1xU1ZqWjY0dExZUlFQX01ENA?oc=5",
+      "pub_date": "2026-10-23T10:16:58+00:00",
+      "description": "Banco Ciudad suma IA: créditos por WhatsApp y límites a los bots&nbsp;&nbsp;iProUP",
+      "source": "iProUP",
+      "source_url": "https://www.iproup.com",
       "query": "inteligencia artificial credito riesgo operaciones bancarias",
       "category": "banca_trad",
       "lang": "es"
@@ -137,7 +148,7 @@
     {
       "title": "Los bancos reevalúan el riesgo de la financiación de IA - La Ecuación Digital",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFQ0WFRfcThzTmFpZi1CcThBczN1VWRkTmFwbTZ5RHRfQUVMXzAwaDZlMXFhOGRPTGNqMGtmejZQYXJrZDAtaVo0VF9xeUlWWm9VR3IyQkhyVE5EV2IzTjdKa0toczFRdWw4MnpHbXdZR3F2WEFZalhhc0dFZ3NzSg?oc=5",
-      "pub_date": "2026-10-12T07:10:25+00:00",
+      "pub_date": "2026-10-12T07:00:00+00:00",
       "description": "Los bancos reevalúan el riesgo de la financiación de IA&nbsp;&nbsp;La Ecuación Digital",
       "source": "La Ecuación Digital",
       "source_url": "https://www.laecuaciondigital.com",
@@ -432,17 +443,6 @@
       "lang": "es"
     },
     {
-      "title": "Inteligencia artificial podría facilitar préstamos financieros a trabajadores independientes incluyendo a la industria automotriz - El Universal",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZjVQNllqbmFNc0pqcDctTHMwdTBnOFdqbnliVUptS3U2ZFRWeXhmSncxbXN4WWduMW9TZWZKWEJ4THNJendnT0JCZGxVMTh6M1VFOWNWTzhBeHRiRzVyaFJxSHFPcUhaWUN6R0d6c0lrTVdMMGdEMHlrbXFXV2xoVlQ5dnZVMTRWRnNUeGNaOTZkb1dOWVJPWTliT29BeGh5aFFkRWZEaWNFY1BGWjNsZTA3cklzbjFMSWhfNEtwRENFbmNuNGk4S3c5VDFsQWNyR1I1THF5cXd1UDhOeF9uUmVUajFVZjl4WGFVeW5xWXd6VTBDeDNCYg?oc=5",
-      "pub_date": "2026-09-22T07:00:00+00:00",
-      "description": "Inteligencia artificial podría facilitar préstamos financieros a trabajadores independientes incluyendo a la industria automotriz&nbsp;&nbsp;El Universal",
-      "source": "El Universal",
-      "source_url": "https://www.eluniversal.com.mx",
-      "query": "inteligencia artificial banca tradicional 2026",
-      "category": "banca_trad",
-      "lang": "es"
-    },
-    {
       "title": "La ingeniería financiera de la IA subcontrata su riesgo real y pone en guardia a las firmas de ‘rating’ - Cinco Días",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQY3Aza0VyU1FzTnRrc0dSZWJIeGkzaUhXUkVKNFNTY0l2WFRCbURFZDVTUHV4U3kxcF9zalpEbnBmaGIzOS1ody1zU0o5VTJRcmQ2ZXY1Nll1azFEYUJQY3pZTU1VcDV3LWZtZHZSNWE3NkNmcHFIbVRzcmt2TmZUX3Z0SmFVOS10VVFfaWNHemVnb0t5aVZJYVZJaldGblhVNE9QWHlYM3JPczREVERBUktRZzcxNGU3ajFsb1hSVTdGbnp2WGRZcDIzLUJiUkZPZjdRdXlqOHg0N25RSmJvZ05YcV9jcVRGN21BbFEyVDBtWXg2X1hXbm94WdIBjwJBVV95cUxPNVJ1dU96N1N0SW5rZ0YtdWhXeXJRYlkwbnozNWpZT2dXaUloOVl5a0Zfa3lZdEZzZTdXTy1saWRqN3IybENlaFdQT0p1TW5yRXdZeG1WeGtKT2dNRnZraGJhWjF1cVoyMTRKVGdaUkg4ZFo0TkFJdkpzZVloeUVBS0lsdjhvWFFzQU00bHNpS2lneUZUWnZTYzNXQVppSWlSTHJRM2p0dExPVE5McFJsQTU4d1hoVlpvYVdDMHN6MHhkcnVFdU5KWXMxTzFScUdZdmhVbF9uSXhWbi1hTEtfZEdLbWl1bGRJenQ0OHIzU0ZmcmV3bWJqaWlRN2hKZExiMXlPUWlBRjZvRDV4UE5N?oc=5",
       "pub_date": "2026-09-22T07:00:00+00:00",
@@ -450,6 +450,17 @@
       "source": "Cinco Días",
       "source_url": "https://cincodias.elpais.com",
       "query": "inteligencia artificial credito riesgo operaciones bancarias",
+      "category": "banca_trad",
+      "lang": "es"
+    },
+    {
+      "title": "Inteligencia artificial podría facilitar préstamos financieros a trabajadores independientes incluyendo a la industria automotriz - El Universal",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZjVQNllqbmFNc0pqcDctTHMwdTBnOFdqbnliVUptS3U2ZFRWeXhmSncxbXN4WWduMW9TZWZKWEJ4THNJendnT0JCZGxVMTh6M1VFOWNWTzhBeHRiRzVyaFJxSHFPcUhaWUN6R0d6c0lrTVdMMGdEMHlrbXFXV2xoVlQ5dnZVMTRWRnNUeGNaOTZkb1dOWVJPWTliT29BeGh5aFFkRWZEaWNFY1BGWjNsZTA3cklzbjFMSWhfNEtwRENFbmNuNGk4S3c5VDFsQWNyR1I1THF5cXd1UDhOeF9uUmVUajFVZjl4WGFVeW5xWXd6VTBDeDNCYg?oc=5",
+      "pub_date": "2026-09-22T07:00:00+00:00",
+      "description": "Inteligencia artificial podría facilitar préstamos financieros a trabajadores independientes incluyendo a la industria automotriz&nbsp;&nbsp;El Universal",
+      "source": "El Universal",
+      "source_url": "https://www.eluniversal.com.mx",
+      "query": "inteligencia artificial banca tradicional 2026",
       "category": "banca_trad",
       "lang": "es"
     },
@@ -474,6 +485,17 @@
       "query": "AI traditional banking transformation 2026",
       "category": "banca_trad",
       "lang": "en"
+    },
+    {
+      "title": "David Vélez, creador del neobanco Nu, será asesor de inteligencia artificial en Colombia - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZy1FYlZURkVVTnh5VHVWelVsMmhZU0VwWXc0alRzemJ2Y3hKc2FvOHhNUXdVb3NlSjdvNDRpeGtXMzhzcEFEaDVnQk85YUdSeFhmV2FFY25uT19EMHJsZVdndmE0cDBjX1BKcC1ubFpRcWFsSWNFY3VIakY4YlBrSm56b0ZaMXM0UDk2UTE0TlNsd2xOaHRubE5XM3lVMFZtUXFEcmpaQXN2VGl3ZVQxZ21LcmV5VGNnV0JtZ2diOGZaUnRiQ1Zn0gHiAUFVX3lxTE9aM1d6V3R0NDBQY3lkRjBNOWNBaHY3LTlJb2lDY1R3WTE4cFppaTNDWG9YVmNrVllEQUNKbkVuQ3VXN1g0UnNaOE9UNlJsVWxsQXZmb3J0bnRXb3laemZuSExMUHVDZVNZNFUzWXROMHYtLWNIdnJoSzlURTFNa2ZDM21JUGdsMU4wTXlSWkZIRHNnR2p6d3MyckJ5U0ZwMXhYMkpsOVZyWm44X0ZiaVFFWjUxOXpRMTlvRS10ano0djdjUDFpdmxzRzRmZ1dvY3M1RFZXc3JHZC1MV2J6N1FLSGc?oc=5",
+      "pub_date": "2026-09-18T07:00:00+00:00",
+      "description": "David Vélez, creador del neobanco Nu, será asesor de inteligencia artificial en Colombia&nbsp;&nbsp;Infobae",
+      "source": "Infobae",
+      "source_url": "https://www.infobae.com",
+      "query": "inteligencia artificial banca tradicional 2026",
+      "category": "banca_trad",
+      "lang": "es"
     },
     {
       "title": "Abrigo bets on AI to cut CECL workload for banks - FinTech Global",
@@ -641,25 +663,25 @@
       "lang": "en"
     },
     {
-      "title": "CREALOGIX’s Khaled Al Ahli on what good digital lending really looks like - Gulf Business",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNkdGM0gweGZLUllHQ3VyLWRsYUZGcS1oUzVTWmVTdUE0emZFdW14Y3F5UC0yNUkxTlRMOU1PMDVqUE9VWnBOUWc0WjJEVmcwQTduMnRiOVcxVFQ2R1JwLWhBZjVydFZsQXJTNVpfN2Zhdk9yQXBhSTFrREkyV25McE9CT0E3S25SSWNObHRIYTY0QmZULTNzRDc4cmtrMFZRRE9LQ1BZcGJBUXRPckFYelNlMA?oc=5",
-      "pub_date": "2026-09-02T10:00:19+00:00",
-      "description": "CREALOGIX’s Khaled Al Ahli on what good digital lending really looks like&nbsp;&nbsp;Gulf Business",
-      "source": "Gulf Business",
-      "source_url": "https://gulfbusiness.com",
-      "query": "artificial intelligence bank credit risk automation",
-      "category": "banca_trad",
+      "title": "Softtek se posiciona como Challenger por segundo año consecutivo en el Gartner® Magic Quadrant™ 2026",
+      "link": "https://www.fintechnews.org/softtek-se-posiciona-como-challenger-por-segundo-ano-consecutivo-en-el-gartner-magic-quadrant-2026/",
+      "pub_date": "2026-10-26T08:43:48+00:00",
+      "description": "Madrid, 26 de octubre de 2026-.&#160;Softtek, líder en soluciones tecnológicas globales, ha sido reconocida como Challenger en el Gartner® Magic Quadrant™ 2026 para Servicios de Desarrollo de Software a la Medida a Nivel Mundial. Este reconocimiento marca el sexto año consecutivo en que Softtek es incluida en el informe y el segundo año consecutivo en [&#8230;]\nThe post Softtek se posiciona como Challenger por segundo año consecutivo en el Gartner® Magic Quadrant™ 2026 appeared first on fintechnews.org.",
+      "source": "",
+      "source_url": "https://www.fintechnews.org/softtek-se-posiciona-como-challenger-por-segundo-ano-consecutivo-en-el-gartner-magic-quadrant-2026/",
+      "query": "https://fintechnews.org/feed/",
+      "category": "neobancos",
       "lang": "en"
     },
     {
-      "title": "Top 25 Generative AI Finance Use Cases - AIMultiple",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBWU2VBNWxybEkxWGd3VWJKaE5yTmRjTHIxNFEtdHF1bEJGREtxQ2V5U3N1eXl4eGcxenlIeW9PSlljVUdXQ05fWFJIWkRQRDZyMUxLcWQ3WQ?oc=5",
-      "pub_date": "2026-09-02T07:00:00+00:00",
-      "description": "Top 25 Generative AI Finance Use Cases&nbsp;&nbsp;AIMultiple",
-      "source": "AIMultiple",
-      "source_url": "https://aimultiple.com",
-      "query": "artificial intelligence bank credit risk automation",
-      "category": "banca_trad",
+      "title": "AWS lanza Well-Architected Agent, una IA agéntica para optimizar entornos cloud",
+      "link": "https://www.fintechnews.org/aws-lanza-well-architected-agent-una-ia-agentica-para-optimizar-entornos-cloud/",
+      "pub_date": "2026-10-26T08:18:14+00:00",
+      "description": "Amazon Web Services (AWS) ha anunciado la disponibilidad en vista previa pública de AWS Well-Architected Agent, un nuevo servicio de IA agéntica diseñado para ayudar a las organizaciones a identificar, priorizar y resolver los problemas más relevantes de sus entornos cloud en AWS de forma contextualizada y automatizable.  Well-Architected Agent responde a uno de los [&#8230;]\nThe post AWS lanza Well-Architected Agent, una IA agéntica para optimizar entornos cloud  appeared first on fintechnews.org.",
+      "source": "",
+      "source_url": "https://www.fintechnews.org/aws-lanza-well-architected-agent-una-ia-agentica-para-optimizar-entornos-cloud/",
+      "query": "https://fintechnews.org/feed/",
+      "category": "neobancos",
       "lang": "en"
     },
     {
@@ -1301,26 +1323,15 @@
       "lang": "en"
     },
     {
-      "title": "Unicornio mexicano Kapital alcanza una valuación de US$2.000M y adquiere una empresa de IA en EE.UU. para fortalecer su apuesta tecnológica - Latam Fintech Hub",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdFRzTDA4WmxiVlFTdGh0N3U5VEpBSjBZQ2FlVjZvWHJRNkNKcXBOdFhCSkMyalE0TUtPd3piRU8yNE1oU1JLaWhvQVQ3WU5iWHRBc0xOS3F6aTNKRkFzZWFETTA5UHZRQkQ4aGVkWFNIcjExRko1UGxOakRjU2x6THB2VmZ4dEt4R1hTeHd6UjdfMnVQS2dnNlBINUdoNDRGQnRzWmtXNENpYzBSY0s3N0ZVeWoyY1Fhd3RMS3pxdlpEZGxfdHJKbFV1MWoyN25mS2c1U1JfbkhkcnEwWWM5aGFrUUEyVEVUMW1aM1ZVaUJha2xWanVvcFFuUnk2cno4dlljNWVB?oc=5",
-      "pub_date": "2026-10-05T19:33:42+00:00",
-      "description": "Unicornio mexicano Kapital alcanza una valuación de US$2.000M y adquiere una empresa de IA en EE.UU. para fortalecer su apuesta tecnológica&nbsp;&nbsp;Latam Fintech Hub",
-      "source": "Latam Fintech Hub",
-      "source_url": "https://www.latamfintech.co",
-      "query": "neobanco inteligencia artificial fintech Latinoamerica 2026",
-      "category": "neobancos",
-      "lang": "es"
-    },
-    {
-      "title": "Una plataforma argentina usa IA para anticipar qué harán los usuarios de bancos y fintech - La Ribera Web",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVjhtZ0J1NDRzOFJGSjFXUHRTQkNwXzM2WG5zSXBfemNyZ1NkRjF1RjVIOFVfMkQ3TDFaSEJCS0FsQ0F6ME9vSTVGRzdpVzBNUUw3aDNmT0dUMkFXUmxBVVFRdnQ5eDFwXzVnSjB3YUVXZDdfTEhzMU1qRmpRdEMxNVJSczZPQjNzREF0R1JxUjRZN0VISFpMemxLMVpxa2dxTHdaMzN2b0xEdUswTi1yZjJJZExfc2RpMTJHRExKU1JBOWwy?oc=5",
-      "pub_date": "2026-10-05T07:00:00+00:00",
-      "description": "Una plataforma argentina usa IA para anticipar qué harán los usuarios de bancos y fintech&nbsp;&nbsp;La Ribera Web",
-      "source": "La Ribera Web",
-      "source_url": "https://www.lariberaweb.com",
-      "query": "fintech IA expansion America Latina",
-      "category": "neobancos",
-      "lang": "es"
+      "title": "Banks Ban AI Agents: What It Means for Crypto Banking - OneSafe.io",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0Nk1Bdl9GeGlURVZPYzFtem41MV8wbHQ1cC1ZUkpnaGtaTFRaalJoWlFRUlE1SFU5bXNiLUllLXJLRG1qUWpQX3FDQXgzQ285QUtIUlUyU00xVnU0dEtzdjAwYUJodnZ1aHNyaGhlREdMRW1PeUFQTVNn?oc=5",
+      "pub_date": "2026-10-26T02:24:07+00:00",
+      "description": "Banks Ban AI Agents: What It Means for Crypto Banking&nbsp;&nbsp;OneSafe.io",
+      "source": "OneSafe.io",
+      "source_url": "https://www.onesafe.io",
+      "query": "blockchain AI financial services regulation",
+      "category": "cripto",
+      "lang": "en"
     },
     {
       "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights - Investing News Network",
@@ -1466,17 +1477,6 @@
       "lang": "es"
     },
     {
-      "title": "10 noticias que debes saber hoy: Europa regula USDC, Bitcoin se desploma y la IA enfrenta nuevas alertas - DiarioBitcoin",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdE9QVHpYa0d6VkRQaUtKU2duNTAydThlYkJZS2FGY1lTZjdGN3MwYlJnUUpjTHkzMHBmRXVtTmhCN2ZtX3FuempIYklMVzNfR2FnNkpOb2xRcUpRWmNFejVQLVhaSWR2U0RZUkxZOHNTY1VsN19BNy12U3p6R095UnJYeExDSkt5YzBOTEJUM05IdS1aRVN5U05CR0ZrMGJJZlg0YnV3Q0JkWklaOUlONm5wZUJNYm5MTnVlbWt4cWFpZDlEeE9odlV1SzhoUVJqd1l3QWJKODU?oc=5",
-      "pub_date": "2026-10-15T17:47:23+00:00",
-      "description": "10 noticias que debes saber hoy: Europa regula USDC, Bitcoin se desploma y la IA enfrenta nuevas alertas&nbsp;&nbsp;DiarioBitcoin",
-      "source": "DiarioBitcoin",
-      "source_url": "https://www.diariobitcoin.com",
-      "query": "criptoactivos inteligencia artificial regulacion 2026",
-      "category": "cripto",
-      "lang": "es"
-    },
-    {
       "title": "Tether invierte en EFY, la fintech detrás del USDT del Banco Unión de Bolivia - Criptoinforme",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdm85a3pQQTVYN25WSlZsc2lZTGJwZXpqQ1hpc0ZLbmMtMnpSVmR3cjdGeGxOV28wZVhIeXdYWUw4akNmSDJoN29VWFZlQ3lYYlZaZ0tZTXpLVnprcE96Z0dNdk4xczRGN1ZET3FJTWJQTFBXa2NueGVOWFpjUWJyQ254TG40WE1KTmZaVXZvYlE?oc=5",
       "pub_date": "2026-10-15T13:55:07+00:00",
@@ -1497,6 +1497,17 @@
       "query": "blockchain AI financial services regulation",
       "category": "cripto",
       "lang": "en"
+    },
+    {
+      "title": "10 noticias que debes saber hoy: Europa regula USDC, Bitcoin se desploma y la IA enfrenta nuevas alertas - DiarioBitcoin",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdE9QVHpYa0d6VkRQaUtKU2duNTAydThlYkJZS2FGY1lTZjdGN3MwYlJnUUpjTHkzMHBmRXVtTmhCN2ZtX3FuempIYklMVzNfR2FnNkpOb2xRcUpRWmNFejVQLVhaSWR2U0RZUkxZOHNTY1VsN19BNy12U3p6R095UnJYeExDSkt5YzBOTEJUM05IdS1aRVN5U05CR0ZrMGJJZlg0YnV3Q0JkWklaOUlONm5wZUJNYm5MTnVlbWt4cWFpZDlEeE9odlV1SzhoUVJqd1l3QWJKODU?oc=5",
+      "pub_date": "2026-10-15T07:00:00+00:00",
+      "description": "10 noticias que debes saber hoy: Europa regula USDC, Bitcoin se desploma y la IA enfrenta nuevas alertas&nbsp;&nbsp;DiarioBitcoin",
+      "source": "DiarioBitcoin",
+      "source_url": "https://www.diariobitcoin.com",
+      "query": "criptoactivos inteligencia artificial regulacion 2026",
+      "category": "cripto",
+      "lang": "es"
     },
     {
       "title": "Bitcoin banking adoption set for historic surge amid AI and inflation pressures, says Strategy CEO. - Pluang",
@@ -1664,10 +1675,10 @@
       "lang": "es"
     },
     {
-      "title": "DaLand CUSO Earns First-Ever Level 4 Blockchain Certification for Core-Native Digital Asset Bridge - FF News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVnc5XzZyN2JkXzJaX0d5ZHlDNHFSODdsMWVULV9hV1RTZ1ExNVFaSWxOMFhvNGFtUE5XVF9Td05kNTROOUpGNnFBZ0JuTjBoRlZBcnNmQTkwSjU2cm45d25FdVF0NzloVWt0TkdYUTFjTXd2azM3SFl1MkNNZWNsaUpCeHRFYTJYaXlvX3VRVURzeGRvQXhDWWln?oc=5",
-      "pub_date": "2026-10-06T12:41:17+00:00",
-      "description": "DaLand CUSO Earns First-Ever Level 4 Blockchain Certification for Core-Native Digital Asset Bridge&nbsp;&nbsp;FF News",
+      "title": "Blockchain Life 2026: Dubai to Host 15,000 Global Crypto and AI Leaders This December - FF News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMm5xeGhBUDB6Z3k4bFZ3M09Ua0ZaMk5qQ094V2dtTFVMcWlBUlh5cEQ2Qld0d0tILTBKYm1lSm92SFlRMnV2TkNXX2tDSEdZeVFUelJUOTBIdWlyR0Y5b1MtalJabmJNdVRCemJranRNU2RiR2t1ZkNEWC1YaHFLRkN0U2ltd0pwd3dveXRCZUNKWXF5QmRGVmNWaFhNM2ZGQ1J1dUtxcEVYR28?oc=5",
+      "pub_date": "2026-10-06T07:00:00+00:00",
+      "description": "Blockchain Life 2026: Dubai to Host 15,000 Global Crypto and AI Leaders This December&nbsp;&nbsp;FF News",
       "source": "FF News",
       "source_url": "https://ffnews.com",
       "query": "crypto AI blockchain banking 2026",
@@ -1675,10 +1686,10 @@
       "lang": "en"
     },
     {
-      "title": "Blockchain Life 2026: Dubai to Host 15,000 Global Crypto and AI Leaders This December - FF News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMm5xeGhBUDB6Z3k4bFZ3M09Ua0ZaMk5qQ094V2dtTFVMcWlBUlh5cEQ2Qld0d0tILTBKYm1lSm92SFlRMnV2TkNXX2tDSEdZeVFUelJUOTBIdWlyR0Y5b1MtalJabmJNdVRCemJranRNU2RiR2t1ZkNEWC1YaHFLRkN0U2ltd0pwd3dveXRCZUNKWXF5QmRGVmNWaFhNM2ZGQ1J1dUtxcEVYR28?oc=5",
+      "title": "DaLand CUSO Earns First-Ever Level 4 Blockchain Certification for Core-Native Digital Asset Bridge - FF News",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVnc5XzZyN2JkXzJaX0d5ZHlDNHFSODdsMWVULV9hV1RTZ1ExNVFaSWxOMFhvNGFtUE5XVF9Td05kNTROOUpGNnFBZ0JuTjBoRlZBcnNmQTkwSjU2cm45d25FdVF0NzloVWt0TkdYUTFjTXd2azM3SFl1MkNNZWNsaUpCeHRFYTJYaXlvX3VRVURzeGRvQXhDWWln?oc=5",
       "pub_date": "2026-10-06T07:00:00+00:00",
-      "description": "Blockchain Life 2026: Dubai to Host 15,000 Global Crypto and AI Leaders This December&nbsp;&nbsp;FF News",
+      "description": "DaLand CUSO Earns First-Ever Level 4 Blockchain Certification for Core-Native Digital Asset Bridge&nbsp;&nbsp;FF News",
       "source": "FF News",
       "source_url": "https://ffnews.com",
       "query": "crypto AI blockchain banking 2026",
@@ -1763,17 +1774,6 @@
       "lang": "en"
     },
     {
-      "title": "European watchdogs prepare direct oversight of AI and tokenization in retail finance - CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR0wzZU9ETU9YdDRYUU5pZFRBYVBrdWdNdVZWczRkZ2VFelphMkQ0a0E2WXRPMGdJVFB5azRibVo5UHN1OEppNmZJS09IckgxQ3A2TWl3dHg4ZVJBWkFnaG9MVHpvSE5qb2Y1WFpZNVFBT0Q5dWxvaElNclhiSTJNY1lCNWVhMjA1cUpHSGFwYzRYM0F3UnFhMmItbmZMS1Y2NFdRWEFCWS0tSDRjbGl2bF9SX3N6YkRrUGYxcldoM0dxQzV4?oc=5",
-      "pub_date": "2026-09-24T07:00:00+00:00",
-      "description": "European watchdogs prepare direct oversight of AI and tokenization in retail finance&nbsp;&nbsp;CoinDesk",
-      "source": "CoinDesk",
-      "source_url": "https://www.coindesk.com",
-      "query": "blockchain AI financial services regulation",
-      "category": "cripto",
-      "lang": "en"
-    },
-    {
       "title": "Los supervisores europeos preparan una supervisión directa de la IA y la tokenización en las finanzas minoristas - CoinDesk",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmVQcWM2Q0ZBdXdYVWY1VGFqcE9rZl9jcEZPN19UVHpJSVpUTmFoNXg4MEJYNUEzY0wwY1AwRjZVeFI5RzRISlJSUDRkdF81RjdMQVRpMDYybDBVNFg1UGFuVWNLdHRwUGVMS195ejVlY0Nkbml4VE8wRnBXblVud3NvNllXeHRqczJpbGVONzFNWkhTZ2NGZ3dPVmxONnpuWjBiZXA1aWh3d3E1ME52Y29Uazk4dTVLS3VKeVR6blZvdzlKcFFDaw?oc=5",
       "pub_date": "2026-09-24T07:00:00+00:00",
@@ -1783,6 +1783,17 @@
       "query": "criptoactivos inteligencia artificial regulacion 2026",
       "category": "cripto",
       "lang": "es"
+    },
+    {
+      "title": "European watchdogs prepare direct oversight of AI and tokenization in retail finance - CoinDesk",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR0wzZU9ETU9YdDRYUU5pZFRBYVBrdWdNdVZWczRkZ2VFelphMkQ0a0E2WXRPMGdJVFB5azRibVo5UHN1OEppNmZJS09IckgxQ3A2TWl3dHg4ZVJBWkFnaG9MVHpvSE5qb2Y1WFpZNVFBT0Q5dWxvaElNclhiSTJNY1lCNWVhMjA1cUpHSGFwYzRYM0F3UnFhMmItbmZMS1Y2NFdRWEFCWS0tSDRjbGl2bF9SX3N6YkRrUGYxcldoM0dxQzV4?oc=5",
+      "pub_date": "2026-09-24T07:00:00+00:00",
+      "description": "European watchdogs prepare direct oversight of AI and tokenization in retail finance&nbsp;&nbsp;CoinDesk",
+      "source": "CoinDesk",
+      "source_url": "https://www.coindesk.com",
+      "query": "blockchain AI financial services regulation",
+      "category": "cripto",
+      "lang": "en"
     },
     {
       "title": "Santander, BBVA, Trade Republic y Western Union debatirán el futuro de las stablecoins en MERGE Madrid 2026 - BeInCrypto",
@@ -1972,17 +1983,6 @@
       "lang": "es"
     },
     {
-      "title": "Senado votará sobre regulación de criptomonedas mientras demócratas critican inversiones de Trump - The Morning Call",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR3lHYmRwdnRsOF9IR0ZMUUVRb2tvNUVrdEZfNUZlVUJoc0pMc0d2bDFOZEQ0Z1lHMjAtUnF5am0yVDVuSFVRRGRHamNGWVYxT0VJQWRUNWpfNXRSU09OdmVoVWFHVWhhMzluWjFobE9tRVJ5UUt2UUxTRU82eFJtMENuaEFHd0ZYRkk5bXIxZ253MXRKQjh1LXJLa2dfTndQbVBZNTB1dkREejU3LThTVnhoVThUVV9wR1hDNzZ1dW1zM3MwOEo0?oc=5",
-      "pub_date": "2026-09-15T14:53:41+00:00",
-      "description": "Senado votará sobre regulación de criptomonedas mientras demócratas critican inversiones de Trump&nbsp;&nbsp;The Morning Call",
-      "source": "The Morning Call",
-      "source_url": "https://www.mcall.com",
-      "query": "criptoactivos inteligencia artificial regulacion 2026",
-      "category": "cripto",
-      "lang": "es"
-    },
-    {
       "title": "LA NUEVA AMENAZA DE LOS PAGOS DIGITALES NO ESTÁ EN EL SISTEMA - Mundo Ejecutivo",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbTRFTUZVczJmTmZWSFNNaFNheGpsLU1GTUFyOVBpMC1fdGRZVHZmcDQtU3pQQlkxZEs3R1ZBX2FMdjU4N3c3bmM4S04ybGJiZlQ5RjJVUGZBdS1NVWhVZzNzMXhESDZFZHpPQjdxQk9OLVhpS0M2d2ZEQjJRU1l3YllsVXhnX0FoVmMwVzFEMVNnbE1TWkpPYWZsMUI3d2hlQmc?oc=5",
       "pub_date": "2026-10-24T21:47:30+00:00",
@@ -2034,6 +2034,17 @@
       "source": "Mail & Guardian",
       "source_url": "https://mg.co.za",
       "query": "artificial intelligence fraud detection payments banking",
+      "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "The 2026 Ultimate Guide to Payment Technologies - ecommercenews.co.nz",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XRmFjYXhndmRoYlE5aFp2a01ZdFRiS0g5OHlpYUxudEt4SC1JazNjczRHVjNha1g2eFJYaEhDQ3dRTjJUamZwaWhfSEpmQXVualRyV0RTdEF6ZzVLMGJ1T1p3?oc=5",
+      "pub_date": "2026-10-23T07:00:00+00:00",
+      "description": "The 2026 Ultimate Guide to Payment Technologies&nbsp;&nbsp;ecommercenews.co.nz",
+      "source": "ecommercenews.co.nz",
+      "source_url": "https://ecommercenews.co.nz",
+      "query": "AI payment systems digital wallets 2026",
       "category": "pagos",
       "lang": "en"
     },
@@ -2094,7 +2105,7 @@
     },
     {
       "title": "Banks must prepare for AI failures before customers pay the price, UK watchdog warns - Bitdefender",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQclZnTm9mdW0tN1UwTEFwWGZYSnZOMElZMF9pYkhKRjNTMjVuZWtFcnI2aG9SWGhxRXRRcnBtOVRNTTdua2MzbUVtbHlheTZoVDVJbkxuUXFtT2J2V0E2YW1KeENHWGxYNVdjZzdfM2pKbFFJWnp0UGdmd1lmb0dJRmNVTnRmWEI0VkI4?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVFlGN0RLWFF6ckZ0WVFLX3hfbWQ2UEliZFZNNENFQTNBdDFaRXhvNmU0dG1ERzh3Q18zcl9Qbl9xS3JuZW92WTNSYmoxUURZZmx4WmJkclFEZzBjdDBXQmFhQlpjbGhNX1JTYjVhTkZtTmVucDJoSXlrRnRCUVlBeVVLVkNEXzRoZDZ3?oc=5",
       "pub_date": "2026-10-21T15:43:50+00:00",
       "description": "Banks must prepare for AI failures before customers pay the price, UK watchdog warns&nbsp;&nbsp;Bitdefender",
       "source": "Bitdefender",
@@ -2105,7 +2116,7 @@
     },
     {
       "title": "Banks must prepare for AI failures before customers pay the price, UK watchdog warns - Bitdefender",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVFlGN0RLWFF6ckZ0WVFLX3hfbWQ2UEliZFZNNENFQTNBdDFaRXhvNmU0dG1ERzh3Q18zcl9Qbl9xS3JuZW92WTNSYmoxUURZZmx4WmJkclFEZzBjdDBXQmFhQlpjbGhNX1JTYjVhTkZtTmVucDJoSXlrRnRCUVlBeVVLVkNEXzRoZDZ3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQclZnTm9mdW0tN1UwTEFwWGZYSnZOMElZMF9pYkhKRjNTMjVuZWtFcnI2aG9SWGhxRXRRcnBtOVRNTTdua2MzbUVtbHlheTZoVDVJbkxuUXFtT2J2V0E2YW1KeENHWGxYNVdjZzdfM2pKbFFJWnp0UGdmd1lmb0dJRmNVTnRmWEI0VkI4?oc=5",
       "pub_date": "2026-10-21T15:43:50+00:00",
       "description": "Banks must prepare for AI failures before customers pay the price, UK watchdog warns&nbsp;&nbsp;Bitdefender",
       "source": "Bitdefender",
@@ -2260,21 +2271,10 @@
     {
       "title": "El boom de los pagos digitales genera ingresos por USD 5.200 millones por año en la Argentina y promete más crecimiento - Infobae",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNM19BOEV6NU0ycExIRDB5ZXI3LWFaTWdlMUowZlJUSm5WcDhtbXJDSTRtUnM3azlJMTFjMVVZS3FjelpMU0Nja0JkQzV0RThtMFFUcDlzT3phSWJEVkJfRzRfSGphYjAzZkU0MHk1OTA3WnZOZ3lFUDc4VWdxQ3lULUVCYldTYlRaZWFlR3dfRmNtZHllTnd5azRUbkcwb1g1bklBRVlKaFp3OGk1Zjhtb1NxU29UQ21UQ3FFeERJRzRNaTJPdUh4T1J1T2ZIOU4yaVQ4N01SUWxKcFpxallHcmxOVlVZTnMxRVRVN2Z3bFRVS3hSVVHSAZACQVVfeXFMT1FXVlhESmRYQi01a0ZwX0ZldGczWmlXdjBpV3A1N0t4akNpRVhzZFZCanY1MllUZVE5R3JKQm9oWTQ2SFVlWU9lVHcxOWt6bUUzbTcwNUZ6Y09QTUw0Wk8yaXM4bTFBQ1FVQkh4RFRnYm55VWI0eEMzMWJMb1h3UXdBQXljekVadVdLTVJTUWxLX0lkemFpV0VWTUF2S1lfVUxhY0wxNE82MElYd3hLN2JxcVF2OWo2emNYR3lnT29NVkZOSXhPTFFXMklOWmRFYXg3TmJtT3VNSlAtV2IwRGtsNTZxdjYzZXJGYl9ZY2haaWpoaDd2eGlrazR2ZVdUd29RLWFHNTE0eGU1VnpWNUI?oc=5",
-      "pub_date": "2026-10-18T05:16:00+00:00",
+      "pub_date": "2026-10-17T07:00:00+00:00",
       "description": "El boom de los pagos digitales genera ingresos por USD 5.200 millones por año en la Argentina y promete más crecimiento&nbsp;&nbsp;Infobae",
       "source": "Infobae",
       "source_url": "https://www.infobae.com",
-      "query": "inteligencia artificial medios de pago digitales 2026",
-      "category": "pagos",
-      "lang": "es"
-    },
-    {
-      "title": "Billeteras digitales concentrarían la mitad de los pagos en comercios hacia 2030 - Jornada",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQekR4MHMzdjVwOTFzVVhvT0JQTlJLZTVLVjhqLTVtSk1RWldWQnlUT3BFSmNPZnNkN200SHlPSjZCeTBCdHRRZ2hrVzRXSDB2aHJUUjhQWjFwc3ZBb3VGR1pqaTJYajJlLWVpRl9MaXNsUnUyRkN6QUp0VERTQVhPMXY0TkU1dXNjNkxNTkdSZjV0ZFE5ZmpzNmYxdm93aWVrN1lWT0VRWQ?oc=5",
-      "pub_date": "2026-10-16T23:32:12+00:00",
-      "description": "Billeteras digitales concentrarían la mitad de los pagos en comercios hacia 2030&nbsp;&nbsp;Jornada",
-      "source": "Jornada",
-      "source_url": "https://jornada.com.pe",
       "query": "inteligencia artificial medios de pago digitales 2026",
       "category": "pagos",
       "lang": "es"
@@ -2300,6 +2300,17 @@
       "query": "artificial intelligence fraud detection payments banking",
       "category": "pagos",
       "lang": "en"
+    },
+    {
+      "title": "Billeteras digitales concentrarían la mitad de los pagos en comercios hacia 2030 - Jornada",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQekR4MHMzdjVwOTFzVVhvT0JQTlJLZTVLVjhqLTVtSk1RWldWQnlUT3BFSmNPZnNkN200SHlPSjZCeTBCdHRRZ2hrVzRXSDB2aHJUUjhQWjFwc3ZBb3VGR1pqaTJYajJlLWVpRl9MaXNsUnUyRkN6QUp0VERTQVhPMXY0TkU1dXNjNkxNTkdSZjV0ZFE5ZmpzNmYxdm93aWVrN1lWT0VRWQ?oc=5",
+      "pub_date": "2026-10-16T07:00:00+00:00",
+      "description": "Billeteras digitales concentrarían la mitad de los pagos en comercios hacia 2030&nbsp;&nbsp;Jornada",
+      "source": "Jornada",
+      "source_url": "https://jornada.com.pe",
+      "query": "inteligencia artificial medios de pago digitales 2026",
+      "category": "pagos",
+      "lang": "es"
     },
     {
       "title": "75% of Kazakh banks use AI for scoring, fraud prevention, marketing - Mastercard (Exclusive) - Trend News Agency",
@@ -2621,26 +2632,59 @@
       "lang": "es"
     },
     {
-      "title": "¿Por qué el Hot Sale 2026 es un termómetro clave para el e-commerce colombiano? - El Ecosistema Startup",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWWZxZ3BSVlh1NU9kc2hCYy1ZUERKMHdQOEtXY1NGM2FTdDB2R0RIX011TkRSa0dyMm1hcHhUcGJ0LVYwRE4wSXM1ZVI1RVQycmszZzJOeEpLOE83SU03MGRiX1dJTE1aR3owMlV2M2pzcl8yZUdvN0tNMjVCeFRDQXMtbG0zaGlwVl8tN3BRdHNEMmtTRHQwTjI0cjBSOWxZejVsRDBBZng4Q1dQ?oc=5",
-      "pub_date": "2026-10-05T06:06:29+00:00",
-      "description": "¿Por qué el Hot Sale 2026 es un termómetro clave para el e-commerce colombiano?&nbsp;&nbsp;El Ecosistema Startup",
-      "source": "El Ecosistema Startup",
-      "source_url": "https://ecosistemastartup.com",
-      "query": "inteligencia artificial medios de pago digitales 2026",
+      "title": "AWS Says Banks Face a 24/7 Payments Balancing Act - PYMNTS.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdTBxZnN1UmdlcXU5NUlINUtvd0NwRHc0cVpBVG9mNmV2S0Vzd0pMSTRNeFczTmdjN0Frck1nVGJ3bEJrTFB2MlFmTjhKU3RyVjNFOUpfWUl4RDdUVHVEUE9tYlp5ZktGdElOU3haX2pJeWJad3BUWUtqUmlRX29OT2J4bS1KNFFCWHdHXzJ1WXZObjZoaDE0M29DRmxlZw?oc=5",
+      "pub_date": "2026-10-05T07:00:00+00:00",
+      "description": "AWS Says Banks Face a 24/7 Payments Balancing Act&nbsp;&nbsp;PYMNTS.com",
+      "source": "PYMNTS.com",
+      "source_url": "https://www.pymnts.com",
+      "query": "real-time payments AI instant banking",
       "category": "pagos",
+      "lang": "en"
+    },
+    {
+      "title": "República Dominicana y El Salvador liderarán el crecimiento regional con 4% en 2026, prevé el Banco Mundial - Infobae",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbmdSLW5wbkJ4cWJHbi1EYXg0MGNVQmlKSG5ISExwTzVBMUc3Q0xSd016X0ZSVkQzamNFMXRDRVZzYW9Fc1BvMXdaY1NGOG5JZWtMaU81UW52UTI3SVoxUkZkWkJpRzlWTFFvZVpvckNNWnVfaEFfVlU1ZGZ5N2FUbmFfa1RwUWhlektENWg1ZHF2aC16Wi1VZmotRWdOYUFMLVREdkY0VmNncHRRZTFCT0hXZjRkN1lpZHBTakVCbXBkV1kxeU5yR0hRbzIxOUdxaUpSX0E4UmRQTDI3bk1BMnZRaGdvSGly0gGDAkFVX3lxTE45SmpPNVpSNGZCSU52dGxYeXlGN0NzRnlCcEhEUUFnbXNhNzFDNXdHZVdHMm9iMjlrYXpKZTVFdWJUY3NzNzVENy1wMjBIWGZVUEdDWWxDRW0ya0lpR1JLT3JIRXZMUkt1RnFEWUZSa1RZWnQ5Z0V5WXhOTkFrQUJtUkk1b0ZFeG1vZHd4eXdzdjFaZUprYy1MSmVCekdncjN3TEg3RmctUnBFa1dlTjU2TWFwaWk4R1BjcWdFQUpvejhEUFdmYk0tRUlkWFJKb2VIQ19PdVdtYndOX3hsRmNIVnd3bVk5aWRENUt4SFNGOEpkazkxVXc1MDVwLThxZXBCbG8?oc=5",
+      "pub_date": "2026-10-26T12:55:00+00:00",
+      "description": "República Dominicana y El Salvador liderarán el crecimiento regional con 4% en 2026, prevé el Banco Mundial&nbsp;&nbsp;Infobae",
+      "source": "Infobae",
+      "source_url": "https://www.infobae.com",
+      "query": "inteligencia artificial banca Colombia Panama El Salvador Guatemala 2026",
+      "category": "latam",
       "lang": "es"
     },
     {
-      "title": "AI agents are entering the payments. So is the risk - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaDhXNnR4bGFZTHlZMExYd0lTYzRxSlJlWlVoNFhGUnpwZ25RTkIwdGhSaXA1MWJWMWlHY3NwZkdsekctNGpkYmJWN1pnZ05KWFJ0ODA1dkNZY1JCRjMxU1M3NEVnTWJYV0d6NnRsLVZGMHdjVEhjRDVJN3hnR1J4X0JYQU9aM0k2VkZHNWRDNlVvNFhodGVxVTZGWWxKaEJiTHRySGxLczFKb3hOVXNGbFhB0gG3AUFVX3lxTFBMUDdHMmR5alRwTUlWOGVyU3FlWE50YVBjdmpFSkVqcHNEc3ByRVA0bElYM2FFbEhwMXdBQlNlS0FTaG9Na2g3eHAxUVRNbEttQWNxOENvZmRvbzFySVZDWDZvQWJCMXU2T1Z3S0V5QUY3bDBQUGhSeU1kYjVrOGhqU0VIOW8yR0EzQnk0RXl0bzZhUDRldjlfbHh1S2NyZmlURjdIbkw0QlE0ZWFHZEJqS2YyYUVmdw?oc=5",
-      "pub_date": "2026-10-03T03:08:31+00:00",
-      "description": "AI agents are entering the payments. So is the risk&nbsp;&nbsp;Moneycontrol.com",
-      "source": "Moneycontrol.com",
-      "source_url": "https://www.moneycontrol.com",
-      "query": "artificial intelligence fraud detection payments banking",
-      "category": "pagos",
-      "lang": "en"
+      "title": "The Download: los daños cotidianos de la IA y la carrera hacia el vuelo espacial nuclear",
+      "link": "https://www.technologyreview.es/article/the-download-los-danos-cotidianos-de-la-ia-y-la-carrera-hacia-el-vuelo-espacial-nuclear",
+      "pub_date": "2026-10-26T08:40:00+00:00",
+      "description": "Además: Ucrania ha recuperado la conectividad de alta velocidad de Starlink y Starshield.",
+      "source": "",
+      "source_url": "https://www.technologyreview.es/article/the-download-los-danos-cotidianos-de-la-ia-y-la-carrera-hacia-el-vuelo-espacial-nuclear",
+      "query": "https://www.technologyreview.es/feed/",
+      "category": "latam",
+      "lang": "es"
+    },
+    {
+      "title": "El foco en las catástrofes de la seguridad de la IA ignora los daños cotidianos",
+      "link": "https://www.technologyreview.es/article/el-foco-en-las-catastrofes-de-la-seguridad-de-la-ia-ignora-los-danos-cotidianos",
+      "pub_date": "2026-10-26T05:01:00+00:00",
+      "description": "Los legisladores están aprobando proyectos de ley respaldados por la industria para blindarse frente a los peores escenarios, en lugar de abordar los problemas más comunes.",
+      "source": "",
+      "source_url": "https://www.technologyreview.es/article/el-foco-en-las-catastrofes-de-la-seguridad-de-la-ia-ignora-los-danos-cotidianos",
+      "query": "https://www.technologyreview.es/feed/",
+      "category": "latam",
+      "lang": "es"
+    },
+    {
+      "title": "Tigo abre una nueva edición del Programa Internacional de Periodismo y suma a creadores de contenido a su programa de formación digital - Red Uno",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPSjduODJzNHp1NmFPUGNfZW1vNWVNRzhEVHltODl6bTJtaTdYbG5rTVdka21iZ3lRQ2NkSnZyNS1pZmdEOV9VSHBtUnk0R3o2enAtNHJpVHJtc0R4S2hFYVBwTHZCYWE0bGtuSWZSREdaVnprWnRpZE44U2s4SThqdXQwc0JrdEV0NlpST1NoSkstVnJvSll1dHIzSlRITzFkMHFNcUlnc2tBczVramxrUkE3MlRTQlJTZzNwckZHdlplMDlnTTBlbWlsMjNIbVZkTkR2cGoybVM3aHhqSnVfczBvRnN0NndRaFVSTGdibzJieGpnaVBYanI5YXRKNGl5dVJicXZvQXkzWTlleTZjTUJKdw?oc=5",
+      "pub_date": "2026-10-23T21:03:23+00:00",
+      "description": "Tigo abre una nueva edición del Programa Internacional de Periodismo y suma a creadores de contenido a su programa de formación digital&nbsp;&nbsp;Red Uno",
+      "source": "Red Uno",
+      "source_url": "https://www.reduno.com.bo",
+      "query": "inteligencia artificial banca Colombia Panama El Salvador Guatemala 2026",
+      "category": "latam",
+      "lang": "es"
     },
     {
       "title": "OpenAI amplía los anuncios en ChatGPT a Colombia y a 14 nuevos mercados de América Latina - ITSitio",
@@ -2718,6 +2762,17 @@
       "query": "AI banking Latin America Colombia Panama 2026",
       "category": "latam",
       "lang": "en"
+    },
+    {
+      "title": "Open Banking y Open Finance: La Revolución Financiera - Mexico Business News",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPejRJM2hMUFEwTUFYbmVvUzhLODQ2WExqVEpCQ1p1LUpzaFY4b2ZXczhMQmZaQWJwMXY4UzJOWmtPQlFmR2xiUEg0LUJ5SnlLMXFNYXBJblJhSlJJZFFKVE1ZMHVwVEtySWhSakxhRHJHU25LY19NQ29Yc2lGaWszV1pQT1E3bE5LWmo4dlhiQzkyZHlXMHFGYm5lUUg?oc=5",
+      "pub_date": "2026-10-18T08:56:04+00:00",
+      "description": "Open Banking y Open Finance: La Revolución Financiera&nbsp;&nbsp;Mexico Business News",
+      "source": "Mexico Business News",
+      "source_url": "https://mexicobusiness.news",
+      "query": "IA fintech regulacion America Latina inclusion financiera",
+      "category": "latam",
+      "lang": "es"
     },
     {
       "title": "Ketzai, IA educativa dominicana, gana el Startup World Cup - El Ecosistema Startup",
@@ -2907,6 +2962,17 @@
       "lang": "es"
     },
     {
+      "title": "IMF cuts Latin America, Caribbean growth forecasts on energy shock, little AI boost - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZ21qSmpyZzRDaFJwUUh1Zldnb25yMGphSVlOa0NiN3hPdDVXcThHVzlEdTM2U0NhdkwwSFdnanZ2VENlYVhDZWF3UlA4eVBGRms1clZabHdJbnJQeVpOWEd4NkkyWkVPbzQxRG8xQnFhWGVfVEpseXhfOURzLUI0SVptcW9KNWxjUGlLT1N6Nkh0cVRrMmdmQ2xoS09NbVBQa3RzWFgtWnRFQkZlUnMwekl0U0NJTm5wM2o3QURySFpJNldySHgzUjNzOVhRZw?oc=5",
+      "pub_date": "2026-10-12T07:00:00+00:00",
+      "description": "IMF cuts Latin America, Caribbean growth forecasts on energy shock, little AI boost&nbsp;&nbsp;Reuters",
+      "source": "Reuters",
+      "source_url": "https://www.reuters.com",
+      "query": "AI banking Latin America Colombia Panama 2026",
+      "category": "latam",
+      "lang": "en"
+    },
+    {
       "title": "MD 2026 | Hoy, Costa Rica es epicentro del poder en acción de MUJERES DESAFIANTES - www.revistaeyn.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWFptc0FQUlcwaWlKNXJVZERNVERtaWNLZ0dEdGYzUDNVUUhNSS1JMXpuc01BVjBYaDk4SlRhS1IwdUF5MXNDWDZfaTQ2dDA4MXJaNEdDbEIxWUp2cDJZdTJPUXJJajBHbDhTMDFnaVhmcVJ4VXFJSGhMMi1sUTZjOS1IbjFjd0s5c1dqRUZ0c0JqTGtQLWJpMXZwM19GQWc2LV9zdFh0TVJ3RTZUOVd5bjB6bUU0MW4yUVhxMExKUkxJM0NobGZKMmY2NkYyb3otSlVzSTlVUmFaeUp5dXpwZw?oc=5",
       "pub_date": "2026-10-12T07:00:00+00:00",
@@ -3028,17 +3094,6 @@
       "lang": "en"
     },
     {
-      "title": "World Bank sees potential for faster economic growth in Latin America and the Caribbean - BNamericas",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFhldXMzampiMGhJR1RJV2htZ0xTQjZ0WnB6eVVLc3dNallGYnl2YXlNMU82dm1tOHRDWXFJVUFPZmR1UFdadndqTDluakhJUS1RZEN4eHg0aWVlUUxCdG1Vbk1aeUZyU2pUbFV4aGFEall6dkVYeVY3WmFWY0lRcVREbE56SlZudThkRm9yNTJ2ZV9UN01BdU5UWDRWOE5BVUlHSGFWLTdzdllkOGxVNi0wVQ?oc=5",
-      "pub_date": "2026-10-07T07:00:00+00:00",
-      "description": "World Bank sees potential for faster economic growth in Latin America and the Caribbean&nbsp;&nbsp;BNamericas",
-      "source": "BNamericas",
-      "source_url": "https://www.bnamericas.com",
-      "query": "AI banking Latin America Colombia Panama 2026",
-      "category": "latam",
-      "lang": "en"
-    },
-    {
       "title": "Banco Mundial proyecta crecimiento de 4.2% para Panamá en 2026, casi el doble del promedio regional - La Estrella de Panamá",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZTR0YlUwTmZoWnJhM3MxRXR1Y3NPT1VPOE42SnRGY1ZBZ1dFMW50cGNpZmRwdHJUN2dMZ2FrUEk5aGR0YlFCNW9vakRUeUwwM2FLbHQtX2QtYXdfdUJScHFfLU9pS0M2NjhxWVJETklETFFrNUZIWDEwcFY3amtRUGtia0c0dTlRWUxETG8yenp2WGpWQW10eXlBMDhFYUUwQTVaWlJvZHZ1OXVmdUppbC1jSEdrbXB2TGJmWmlpTzVHV0RaX3YxaTNfcTA1RnZyaUNaWTJ0WG9oWGNjbklJ0gHkAUFVX3lxTFB3Wm0wYnNPQzlvZnBrekphT250cDJRZ2hBNWlGWUxtbEwzRlltVm8zSG9LOUJSUkZaVi1WS3RYa2t6clVVSklraU8xNnEzb09XRG4taGVHUUp0OUNfLVBRcVJmT2lULWZBeTdLR0ppaTdpdVc3cVMwWmtsVExaX1RXS05Jd0N5Z3l0NDZrS0s5STJBb0RYcDRIVTFSalVhejU0QkZ5RzNZbjNRYTdlUUo2Wmw3YkpnMkxKUUg5SUI1SXhHNFdENGdPd1ZndzhlVUJuTE4wN1V5WEpvdTVKbmlZU1gtVw?oc=5",
       "pub_date": "2026-10-07T07:00:00+00:00",
@@ -3048,6 +3103,17 @@
       "query": "inteligencia artificial banca Colombia Panama El Salvador Guatemala 2026",
       "category": "latam",
       "lang": "es"
+    },
+    {
+      "title": "World Bank sees potential for faster economic growth in Latin America and the Caribbean - BNamericas",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaFhldXMzampiMGhJR1RJV2htZ0xTQjZ0WnB6eVVLc3dNallGYnl2YXlNMU82dm1tOHRDWXFJVUFPZmR1UFdadndqTDluakhJUS1RZEN4eHg0aWVlUUxCdG1Vbk1aeUZyU2pUbFV4aGFEall6dkVYeVY3WmFWY0lRcVREbE56SlZudThkRm9yNTJ2ZV9UN01BdU5UWDRWOE5BVUlHSGFWLTdzdllkOGxVNi0wVQ?oc=5",
+      "pub_date": "2026-10-07T07:00:00+00:00",
+      "description": "World Bank sees potential for faster economic growth in Latin America and the Caribbean&nbsp;&nbsp;BNamericas",
+      "source": "BNamericas",
+      "source_url": "https://www.bnamericas.com",
+      "query": "AI banking Latin America Colombia Panama 2026",
+      "category": "latam",
+      "lang": "en"
     },
     {
       "title": "Latin America growth to slow to 2.2% in 2026, World Bank says - IntelliNews",
@@ -3125,6 +3191,17 @@
       "query": "inteligencia artificial banca Colombia Panama El Salvador Guatemala 2026",
       "category": "latam",
       "lang": "es"
+    },
+    {
+      "title": "Latin America and the Caribbean Holds Steady While Top Performers Show a Path to Higher Growth - World Bank Group",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOS1ZZUVxSkFXbGxmNDZoaGdxZ190OWJSLWx5RFNHS05DNmNDLWpjV25ITjFBRUZQVHRqNDZKZkVkTDEzR01CUDZjWm1BX0pXOVBUQTFhNHhrWDBfd3NoUzlnNFN1WURCck10S0VtYzNsSWFZRHNyQXZGNXlLQ3ZhUDcwX0g0NnZGUGIweEhERElTdXU4R0R6X0I1b1owaEk?oc=5",
+      "pub_date": "2026-10-06T07:00:00+00:00",
+      "description": "Latin America and the Caribbean Holds Steady While Top Performers Show a Path to Higher Growth&nbsp;&nbsp;World Bank Group",
+      "source": "World Bank Group",
+      "source_url": "https://www.worldbank.org",
+      "query": "AI banking Latin America Colombia Panama 2026",
+      "category": "latam",
+      "lang": "en"
     },
     {
       "title": "Fintech Market Size, Share, Analysis & Growth Report, 2034 - Market Data Forecast",
@@ -3226,80 +3303,135 @@
       "lang": "es"
     },
     {
-      "title": "The week in Latin America: A busy calendar for investors - BNamericas",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdW1jTWxFRW5LZkRuUElaTDE5Vjd0SW5TT2NxT2twT2pjaGpNT09ZaFlJRzVlYW5Xa0paZnE4WEtrQndpQUFjSUdSVmJLUC13Q1hDUVFRbXF2ZF9kY2dJZVFrXzJlcWQ2eUc0LWdmcVd4SEoyYXJwRUxhWHZHOUEzaVdfUU5xbVBqeWRrd1VXdGlISmh4?oc=5",
-      "pub_date": "2026-10-02T16:37:43+00:00",
-      "description": "The week in Latin America: A busy calendar for investors&nbsp;&nbsp;BNamericas",
-      "source": "BNamericas",
-      "source_url": "https://www.bnamericas.com",
-      "query": "AI banking Latin America Colombia Panama 2026",
-      "category": "latam",
+      "title": "Tradeoff-Aware Territory Design: A Multi-Objective Decision System for Enterprise Customer-to-Seller Allocation",
+      "link": "https://arxiv.org/abs/2610.31701",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.31701v1 Announce Type: new \nAbstract: Enterprise customer journeys are shaped not only by product experiences and marketing, but also by recurring resource-allocation decisions. In B2B go-to-market (GTM) organizations, territory carving determines which accounts receive seller coverage, which seller-account relationships are preserved, and how limited field capacity is distributed. Yet the process often remains manual, making it difficult to compare opportunities, value continuity, and evaluate tradeoffs among growth, balance, capacity, and feasibility.\n  We present a production decision system for tradeoff-aware customer-to-seller allocation in enterprise GTM planning. It integrates three components: a multidimensional account-value layer that combines predictive signals to score opportunity; an observational continuity-valuation layer that estimates the cost of breaking seller-account relationships using a synthetic-control-style counterfactual framework; and a multi-objective optimization layer that allocates coverage to high-value accounts while considering continuity, opportunity balance, and operational constraints.\n  Deployed as a scenario-based decision-support system, the framework enables planners to inspect and compare allocation tradeoffs. Historical backtesting shows that optimizer-generated scenarios substantially improve assignment compliance while maintaining comparable seller-level opportunity distribution. In production planning, adopted scenarios improved both assignment compliance and opportunity balance relative to the previous baseline. Directing scarce seller capacity toward higher-value accounts also offers incremental revenue potential at enterprise scale. The key contribution is an integrated, inspectable framework that turns territory carving into a governable decision process.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2610.31701",
+      "query": "https://arxiv.org/rss/cs.AI",
+      "category": "impacto",
       "lang": "en"
     },
     {
-      "title": "FINNOSUMMIT 2026: la industria Fintech busca su siguiente etapa en la economía real - El Financiero",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVDgzMnlaZmJUanRLTnJKSkQ3MGI3LXFsTVhsZ2tqSUdqeXhzV3VnOHI3dklOTTlCeXVsSXNEcU15S3BwalUwaWZhSnBnbHhkZDRQWWZWdDJsNmc0SXRiM1JwdVlYRXZlaXpzQkZFOV91clRtcExJNmYwME5IM0lQeXBQSjRYMUMzTlFkQnhoWDVjdFlHOFdXbi0yb1lWcXRFdm84aGVvQ3NZSTdtUGlGMW1OVjUzTlBJWTd4U3VXTDFJM2NrbnNnY2E0eHpVeFNfVURNMnYzVQ?oc=5",
-      "pub_date": "2026-10-02T07:00:00+00:00",
-      "description": "FINNOSUMMIT 2026: la industria Fintech busca su siguiente etapa en la economía real&nbsp;&nbsp;El Financiero",
-      "source": "El Financiero",
-      "source_url": "https://www.elfinanciero.com.mx",
-      "query": "IA fintech regulacion America Latina inclusion financiera",
-      "category": "latam",
-      "lang": "es"
+      "title": "Phronix: The Capability-Centric Learning Paradigm for Agents",
+      "link": "https://arxiv.org/abs/2610.31789",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.31789v1 Announce Type: new \nAbstract: Scientific computing increasingly relies on large language model-based agents for performance engineering tasks such as instrumentation, analysis, and workflow porting. However, agent effectiveness depends heavily on the surrounding harness, which typically relies on manually written skills and curated memory. This limits autonomous learning, forcing agents to repeatedly rediscover solutions rather than retain and reuse knowledge from prior executions. We introduce Phronix, a capability-centric learning paradigm that enables agentic harnesses to acquire, validate, and refine reusable capabilities from their own executions. Phronix operates through a predictor-validator-corrector loop: MCP tools and associated skills propose solutions, tool executions validate them, and observed outcomes refine the stored capabilities. It distills every observed interaction into a capability store and researches a failing task rather than abandoning it. First, such learned capabilities solve a recurring task on the first attempt in 93-95% of cases across every model, significantly reducing solution non-determinism and improving reliability. Second, Phronix turns an agent's own execution into 7.6-30.8 durable capabilities per task without user instruction, and creation falls below two once the needed capability exists. Third, warm-start runs consume only 0.38-0.40 million tokens per task, which is three to four times less than a single baseline attempt, while a cold-start costs no more than the baseline. On the 1000 Genome Pegasus workflow, instrumenting a production application for I/O performance analysis, Phronix passes all 11 correctness checks against six for the baseline harness, and also lifts the task solving rates of two cheaper models from 29% and 27% of SWE-bench tasks solved to 91% and 87%, respectively, matching the performance of the most expensive evaluated model.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2610.31789",
+      "query": "https://arxiv.org/rss/cs.AI",
+      "category": "impacto",
+      "lang": "en"
     },
     {
-      "title": "Panamá reúne a seis jefes de Estado y dos Nobel de Economía en foro CAF - La Estrella de Panamá",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQam9TUnNWekFKcXV1c1U3am9wYWY4VXR5VmdyY3RDQUJyRDRlNTV4NXNORC1UN0RSN1dGT25haTV1Tmp4VjdXNWxLMXBsc2xDZDZwcWVlVUdWQy1xbW1CaVdRcFVyUDBYUzI5TC1BZEJoLTZtWlRSZTYwWEFnN3pqU01ZWmxsTlJ2T3V0Q2V6aXJGZDhpX0o1YUFDV290VDdVVGxpRngzVXFjc1dXTFFFU0tnYmlEZnBLWDhZUzV0QVFVZFZXYnk00gHMAUFVX3lxTE14Q3p1bllibm50UnEyd2gycWxnb0VCNTdHOUV1Y3pTZnRqYWZadEZVMHVSVmNhbmdpd3lpUU8yc1dmZEkwcF8zWlVFbXNjRi1IX0tVeWlzNUtlU0lLX3FSSUtQQTVacUVIMEhKbTRET2xaR0tWVmpmVDVpX1Q2UXg4YmpSNmxscG8zd0lrWWZCS2tXaHVybUhHaFBSeUpGQ2o2SjVkeUplTFZ0UzV6OEFLUVE5WGYwMlZJRjFFZVpPWHUxZkZpSmsxQWt3ZA?oc=5",
-      "pub_date": "2026-10-02T07:00:00+00:00",
-      "description": "Panamá reúne a seis jefes de Estado y dos Nobel de Economía en foro CAF&nbsp;&nbsp;La Estrella de Panamá",
-      "source": "La Estrella de Panamá",
-      "source_url": "https://www.laestrella.com.pa",
-      "query": "inteligencia artificial banca Colombia Panama El Salvador Guatemala 2026",
-      "category": "latam",
-      "lang": "es"
+      "title": "Patronizing and Condescending Language Detection in English and Mandarin",
+      "link": "https://arxiv.org/abs/2610.31808",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.31808v1 Announce Type: new \nAbstract: Patronizing and condescending language (PCL) is a form of harmful language that belittles and assumes pity for vulnerable groups, reinforcing negative societal stereotypes. However, unlike overt hate speech, it is often difficult to detect, even for human judges. This paper proposes a system for the automated detection of PCL. Our first approach uses static word embeddings and a convolutional neural network for classification, while our second approach uses pre-trained BERT embeddings fine-tuned for the PCL task. Our second approach was considerably more successful, and achieved an F1 score of 0.528 over the development set.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2610.31808",
+      "query": "https://arxiv.org/rss/cs.AI",
+      "category": "impacto",
+      "lang": "en"
     },
     {
-      "title": "Cerebelum AI lleva su IA de trading de oro a Silicon Valley - El Ecosistema Startup",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMkJncnJ2WVV2Y1hRSmxjR1g3NktZd0g4Rk0wUU5zc2FXOUFhcFBqVW56cVZTS2VOdFU2cUo1VFRnU2Y2dTNITVdWSjBub1pFMDNKNGdtMmhMRUF2N0dKdnpabGdJdkp3X2x0a3IzYUZ0WmU3NmhfcGFYMmxaSTFDa0NZUGUyNGpOa3lhemdTb05MdVZE?oc=5",
-      "pub_date": "2026-10-02T01:36:35+00:00",
-      "description": "Cerebelum AI lleva su IA de trading de oro a Silicon Valley&nbsp;&nbsp;El Ecosistema Startup",
-      "source": "El Ecosistema Startup",
-      "source_url": "https://ecosistemastartup.com",
-      "query": "inteligencia artificial banca Colombia Panama El Salvador Guatemala 2026",
-      "category": "latam",
-      "lang": "es"
+      "title": "PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean",
+      "link": "https://arxiv.org/abs/2610.31810",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.31810v1 Announce Type: new \nAbstract: Even a carefully proofread paper can leave small gaps in its proofs or its stated assumptions. We introduce PaperFormalizer, a Lean-based agentic pipeline that helps authors find and close such gaps in their own papers and turn each paper into a Lean-verified version. Starting from the LaTeX source, PaperFormalizer transcribes the paper into a dependency graph of statements, audits each statement in natural language for faithfulness, ambiguity and correctness, and then formalizes and proves the statements in Lean against Mathlib, optional domain libraries and the author's personal toolkit. Only the author knows what a statement is meant to say and how a formalization gap in a result is best fixed. The pipeline therefore stops and asks the author whenever a statement admits more than one reading, presents every repair, in natural language and TeX symbols, as a proposal that the author can accept, decline or redirect, and leaves to the author every decision that could potentially change what the paper claims. The output is an annotated and revised version of the paper, a report of the changes, and Lean code in which each declaration is linked to the statement it formalizes. The author's toolkit grows as more papers are formalized, and authors can share their verified papers so that researchers who build on them can reuse their Lean code. By making verified papers practical to produce, PaperFormalizer aims to make research that rests on mathematical proofs more robust. PaperFormalizer runs inside a coding agent (Claude Code or Codex) and is available at https://github.com/Jiyuan-Tan/PaperFormalizer. Papers with Lean code shared by users are available at https://paperformalizer.org.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2610.31810",
+      "query": "https://arxiv.org/rss/cs.AI",
+      "category": "impacto",
+      "lang": "en"
     },
     {
-      "title": "Cerebelum AI: la startup de oro e IA con US$1M facturados - El Ecosistema Startup",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaWdFZV9TMXJqYmozdDFGbEo3M2g2VkVTMGZRcGhYRGdqWl9nZzRjRC1CdlpYcVZ1am1yYklxSHVkUHR6RmpPSXZoUU5KSDZ6NER3X2FxUXlCMi16U0hKYTQ4QldKQ2IwRTdHVURwYUhjbjh5TTZld0QyVEhZY1BmT0d3WmpqUFo3V20tajhndw?oc=5",
-      "pub_date": "2026-10-01T21:06:40+00:00",
-      "description": "Cerebelum AI: la startup de oro e IA con US$1M facturados&nbsp;&nbsp;El Ecosistema Startup",
-      "source": "El Ecosistema Startup",
-      "source_url": "https://ecosistemastartup.com",
-      "query": "inteligencia artificial banca Colombia Panama El Salvador Guatemala 2026",
-      "category": "latam",
-      "lang": "es"
+      "title": "Don't Forget What You Just Learned: Self-Directed Repair Turns Agent Mistakes Into Lasting Lessons",
+      "link": "https://arxiv.org/abs/2610.31846",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.31846v1 Announce Type: new \nAbstract: Intelligent agents should learn from their mistakes so that experience leads to continuous improvement. Yet today's agents recover from a mistake only temporarily: in-context reflections are easily forgotten across sessions and compete for limited context, while full-parameter fine-tuning is expensive and can interfere with existing capabilities. We introduce Self-Direction, a mechanism for agents to learn from mistakes that combines the benefits of temporary in-context retries and policy updates. When an agent fails a task, it reflects on its own trajectory in order to extract a lesson and immediately distills it into a lightweight low-rank adapter. By keeping the original weights frozen, Self-Direction prevents adapter training from overwriting base-model parameters while training additional parameters equivalent to ~0.02% of the base model's parameter count for each adapter. The agent then saves these adapters in a persistent library of lessons, automatically routing them to solve related problems later. Experiments with agents based on open-weight models from the Qwen family across open-ended research (GAIA), tool-use workflows (Claw-Eval), and terminal tasks (Terminal-Bench 2.1) show that our method improves overall success rates by 8.9 to 17.0 percentage points and performs competitively with frontier systems. We find that Self-Direction reduces repeated mistakes across future encounters of a task, nearly doubling the reliability of an agent's corrections. Learned lessons also transfer: a handful of adapters generalize to dozens of new tasks without additional training. Ultimately, this self-directed repair transforms everyday mistakes into lasting lessons.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2610.31846",
+      "query": "https://arxiv.org/rss/cs.AI",
+      "category": "impacto",
+      "lang": "en"
     },
     {
-      "title": "Cerebelum AI lleva IA para invertir en oro al AI Conference - El Ecosistema Startup",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSnJWdWw2bC0wX2tXQXlDaVlud1h4aEdXMk9IbWEwZjZxQk5GeDFwbjc5MlYtV0c5Yi1pUWFiQnRJZ082Mk10a1UxeFRjRGFIQ0Fsb2RBdUktd01EQ0NzQlpFUmk5WFhOTmNCOXRQVDZGZmtVS2hxTGNJM1NrdS1rVHhVLWdnT1dOMlhGS0JFVjlxX2JS?oc=5",
-      "pub_date": "2026-10-01T20:51:56+00:00",
-      "description": "Cerebelum AI lleva IA para invertir en oro al AI Conference&nbsp;&nbsp;El Ecosistema Startup",
-      "source": "El Ecosistema Startup",
-      "source_url": "https://ecosistemastartup.com",
-      "query": "inteligencia artificial banca Colombia Panama El Salvador Guatemala 2026",
-      "category": "latam",
-      "lang": "es"
+      "title": "TACS-RF: Tool-driven Agentic Circuit Synthesis of RF and mmWave Modules",
+      "link": "https://arxiv.org/abs/2610.31882",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.31882v1 Announce Type: new \nAbstract: We present the framework of TACS-RF - a Tool-driven Agentic Circuit Synthesis of RF and mmWave modules. In this framework, a large-language-model (LLM) coding agent (Claude Opus 4.8) directly drives industry-standard electronic-design-automation (EDA) tools such as Cadence Virtuoso/Spectre, Calibre, Cadence EMX, and Ansys HFSS to design RF and mmWave modules. We validate the framework through the agentic design of a 240-251 GHz sub-THz transmitter in a 90 nm SiGe BiCMOS process. The agent semi-autonomously designed the sub-blocks including a 60 GHz push-push Colpitts VCO with second-harmonic extraction, multistage differential cascode power drivers, a push-push frequency doubler, a differential bowtie antenna, and all the interstage matching networks. The transmitter chain with parasitic-extracted devices and EM-verified passives delivers +5.1 to +6.3 dBm across an 11 GHz varactor-only tuning range, phase noise of -80 to -88 dBc/Hz at 1 MHz offset while consuming a DC power of 361 mW. We describe the agent-driven design flow and the resulting division of labor between human and agent, taking a step toward a \"text-to-ASIC\" future for designing RF/mmWave hardware.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2610.31882",
+      "query": "https://arxiv.org/rss/cs.AI",
+      "category": "impacto",
+      "lang": "en"
     },
     {
-      "title": "Only 9% of LatAm Stablecoin Firms Hold Verifiable Licenses: New Varys Capital & Verda Ventures Report - FF News",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVJoTDZ4cGNXQUVQQ29WbFZ0bXFZTmxja1NYbDIzYmxwZVhUeFNjUjN4UHI4TTJHU2ZxcGUwcDNGN2dGR0Nkc1JOY2VVUUVoNExDSGxvYkFFVTB2QzNBWVViRm56a040QmpWMy1TNl92aEpOSm1ibEZhQlBSVWRyeGJDcnFFbEktTnVNUklSWmw4djFwNVNQbVU2ZExiTXBQWDE4eURxS3N1Uzhqdnc1N2RvOA?oc=5",
-      "pub_date": "2026-10-01T15:15:33+00:00",
-      "description": "Only 9% of LatAm Stablecoin Firms Hold Verifiable Licenses: New Varys Capital & Verda Ventures Report&nbsp;&nbsp;FF News",
-      "source": "FF News",
-      "source_url": "https://ffnews.com",
-      "query": "AI banking Latin America Colombia Panama 2026",
-      "category": "latam",
+      "title": "Permission to Retry: A Study of Authorization and Recovery in AI Agent Workflows",
+      "link": "https://arxiv.org/abs/2610.31916",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.31916v1 Announce Type: new \nAbstract: A durable agent can resume a consequential action while its authority changes and the action's external outcome remains uncertain. We study execution-time reliability of tool-using AI agents, isolating recovery decisions from language-model behavior. Checkpoint state, permission to dispatch, evidence of an external effect and permission to reconcile are distinct obligations. We present a finite conformance study that checks these obligations through histories scored against a provider effect ledger hidden from the recovering application. A prospectively frozen campaign executes 336 histories on native LangGraph and Temporal hosts, crossing 14 schedules, three provider contracts and four matched application policies. All 168 paired host cells have identical checked outcomes. Per host, retained-ledger reconciliation passes all 42 histories: 21 checked completions, 15 denials and six unknown outcomes with reservations retained. Cached retry, revalidation before retry and stable-key retry pass 30, 36 and 31 histories respectively. A separate 16-case component study of InfinityOS, an enterprise AI platform developed by Arya.ai, exercises exported authority, worker, recovery and settlement code over repository fakes. The results isolate the roles of current authority, provider contracts and retained observations in recovery, with safety, completion and unresolved obligations reported separately for the declared application profile.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2610.31916",
+      "query": "https://arxiv.org/rss/cs.AI",
+      "category": "impacto",
+      "lang": "en"
+    },
+    {
+      "title": "Beyond On-Policy vs. Off-Policy: At What Level Should LLM Agent Distillation Follow the Student?",
+      "link": "https://arxiv.org/abs/2610.31918",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.31918v1 Announce Type: new \nAbstract: Distilling interactive LLM agents requires choosing between teacher-generated demonstrations and student-generated experience, corresponding broadly to off-policy and on-policy distillation. While both have proven effective, we argue that this distinction is inherently hierarchical: the policy that induces an interaction history need not be the same as the policy that generates the token prefix of the current action. We introduce a hierarchical agent distillation framework that formalizes these two levels of on-policiness and enables explicit control over their pairing, mixture proportions, and training schedule. We study this problem through self-distillation, where a frozen teacher has access to task guidance unavailable to the student, and conduct a three-stage controlled study across three models and four interactive environments. We find that student-induced histories paired with teacher-generated action prefixes generally provide the strongest standalone training signal, whereas following the student at both levels generally performs worst. Nevertheless, fully on-policy data becomes beneficial when incorporated into a mixture with other configurations. Moreover, mixtures with identical teacher/student proportions at each level can yield substantially different performance, showing that how the two levels are paired matters beyond the overall amount of on-policy data. Finally, front-loading fully teacher-generated contexts and delaying fully on-policy contexts improves over a static mixture. These findings provide practical principles for deciding where, how much, and when agent distillation should follow the student.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2610.31918",
+      "query": "https://arxiv.org/rss/cs.AI",
+      "category": "impacto",
+      "lang": "en"
+    },
+    {
+      "title": "$M^3$: A Multi-LLM System for Multi-Turn Jailbreaking as a Markov Decision Process",
+      "link": "https://arxiv.org/abs/2610.31937",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.31937v1 Announce Type: new \nAbstract: Modern Large Language Models (LLMs) remain vulnerable to carefully orchestrated multi-turn interactions that progressively bypass safety mechanisms. However, many existing red-teaming approaches rely on heuristics or impose strong assumptions that limit their applicability in fully black box settings. We address this gap by introducing $M^3$, an automated red-teaming framework that formalizes multi-turn jailbreaking as a finite-horizon Markov Decision Process (MDP). In $M^3$, an attacker LLM interacts with a target LLM while operating over a compact internal state produced by a state LLM. Across two benchmarks and six target models, $M^3$ consistently outperforms state-of-the-art multi-turn red-teaming methods in Attack Success Rates (ASR), achieving improvements of up to 53% in ASR@5. Even with lightweight attacker, $M^3$ attains gains up to 26% in ASR@1 and 34% in ASR@5, compared to baselines that use higher capacity attackers. Beyond improved effectiveness, $M^3$ exhibits steeper risk escalation over conversational turns and achieves more consistent performance across risk categories (up to 4.82 improvement in Gini index) without relying on predefined risk taxonomy, providing a scalable and principled framework for multi-turn red-teaming and safety evaluation.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2610.31937",
+      "query": "https://arxiv.org/rss/cs.AI",
+      "category": "impacto",
+      "lang": "en"
+    },
+    {
+      "title": "Knowing Whom to Trust is not Enough: The Trust--Agreement Gap in Repeated Multi-Party LLM Negotiation",
+      "link": "https://arxiv.org/abs/2610.31971",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.31971v1 Announce Type: new \nAbstract: Large language model (LLM) agents increasingly participate in negotiations on behalf of individuals and organizations, yet they remain vulnerable to manipulation, particularly in repeated multi-party interactions. Classical multi-agent systems address this challenge through explicit trust and reputation models, whereas existing work on LLM negotiation largely treats trust as an emergent phenomenon. We investigate whether LLM agents can form useful trust estimates from prior interactions and leverage them to improve future negotiation outcomes. We introduce a repeated, multi-party, multi-issue negotiation framework in which recurring agents participate in a sequence of negotiation games while one participant covertly attempts to prevent agreement. After each game, agents assess their counterparts and maintain pairwise trust estimates that carry over to subsequent negotiations. We compare trust-aware and trust-agnostic agents and analyze how explicit trust influences negotiation outcomes. Our results reveal a \\emph{trust--agreement gap}: trust-aware agents can identify the adversary within a few games, but accurate trust estimates do not consistently translate into better agreements. Trust increases agreement rates by up to 23 percentage points, but only when agents are explicitly guided to use it in their decisions. Explicit trust can therefore improve repeated LLM negotiations, but its value depends critically on how trust is assessed and incorporated into agents' reasoning.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2610.31971",
+      "query": "https://arxiv.org/rss/cs.AI",
+      "category": "impacto",
+      "lang": "en"
+    },
+    {
+      "title": "Reproducible Evaluation as the Substrate for Safe Prompt Compression in Production Agents",
+      "link": "https://arxiv.org/abs/2610.31972",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.31972v1 Announce Type: new \nAbstract: Evaluating conversational agents that act on live, mutable enterprise data is hard: replayed sessions drift as backend state changes, and a benchmark built today can silently go stale as the data it describes moves on. We present an offline evaluation harness for a production conversational agent that stays reproducible despite the live data it operates on changing, and that can be regenerated on demand once it goes stale. We then use this harness as the fitness function for GEPA-based prompt optimization under a correctness gate that guards against reward hacking. Applied to a production merchant-facing agent, correctness-gated compression shrinks the agent's full prompt surface by 3.5-7.6% without regressing held-out task correctness, consistently across three independent subject-model families, and for one, correctness measurably improves.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2610.31972",
+      "query": "https://arxiv.org/rss/cs.AI",
+      "category": "impacto",
+      "lang": "en"
+    },
+    {
+      "title": "The Helpful Agent Problem: When Emergent Cooperation Among LLM Agents Bypasses Intended Workflows",
+      "link": "https://arxiv.org/abs/2610.31985",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.31985v1 Announce Type: new \nAbstract: LLM agents are increasingly deployed in collaborative settings where they pursue separate tasks while sharing resources and operating under review or oversight processes. Such settings create safety risks not only when agents are malicious, but also when they are simply trying to help. Prior work has largely studied adversarial or explicitly collusive behavior; we show that benign agents pursuing separate objectives can spontaneously cooperate in ways that bypass intended workflows. We call this the \\emph{helpful agent problem}. We study long-horizon shared-resource environments in which agents sometimes depend on resources owned by their peers and cross-owner changes are normally mediated by a reviewer. When review becomes unavailable, agents begin making changes on one another's behalf despite having no shared reward or explicit incentive to cooperate. Crucially, these actions remain within each agent's local permissions while circumventing the system's intended oversight structure. We introduce \\textsc{FavorBench}, a controlled benchmark with measurable downstream side effects, and adapt \\textsc{CooperBench} to test the phenomenon in realistic repositories. Across two benchmarks and four models, we find that out-of-workflow favors emerge frequently. Further, in \\textsc{FavorBench}, favors from at least three models cause significant harm to parties outside the interaction. These results reveal a distinct multi-agent safety challenge: cooperation itself can create pathways around system-level safeguards.",
+      "source": "",
+      "source_url": "https://arxiv.org/abs/2610.31985",
+      "query": "https://arxiv.org/rss/cs.AI",
+      "category": "impacto",
       "lang": "en"
     },
     {
@@ -3323,6 +3455,17 @@
       "query": "impacto inteligencia artificial empleos banca sector financiero 2026",
       "category": "impacto",
       "lang": "es"
+    },
+    {
+      "title": "Companies laying off staff this year include Meta, Amazon, Visa, and Walmart — see the list - Business Insider",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUtSVkJCN0tBeHVpR3owbi1YTzFyVHNOZlBWOWt4empJQ29tTnpBQ1ZjbEIySlZ3YnhWN3pLRTRocTdLTURIaXo3RmJqY3RKeHlOc1kxbHBSQ0NSM0NHamVZWjNPOWpKRlpkVEprdW1EQ0RVSW52TEtGem95bDlHVVcyUHg?oc=5",
+      "pub_date": "2026-10-23T16:12:00+00:00",
+      "description": "Companies laying off staff this year include Meta, Amazon, Visa, and Walmart — see the list&nbsp;&nbsp;Business Insider",
+      "source": "Business Insider",
+      "source_url": "https://www.businessinsider.com",
+      "query": "AI impact banking jobs workforce future 2026",
+      "category": "impacto",
+      "lang": "en"
     },
     {
       "title": "The C-Suite Behaviors That Stall AI Transformations - Harvard Business Review",
@@ -3820,146 +3963,124 @@
       "lang": "en"
     },
     {
-      "title": "Counterfactual Neighborhood Risk Fields: Evidence-Grounded Selective Safety for Vision-Language Models",
-      "link": "https://arxiv.org/abs/2610.20679",
-      "pub_date": "2026-10-16T00:00:00-04:00",
-      "description": "arXiv:2610.20679v1 Announce Type: new \nAbstract: Representation-based safety defenses for vision-language models (VLMs) often learn to separate harmful from benign inputs, but separation alone does not establish what a risk score means or when it should be trusted. We introduce Counterfactual Neighborhood Risk Fields (CNRF), an evidence-grounded framework for selective VLM safety. CNRF constructs context-matched benign-harmful counterfactual pairs, uses their representation differences as capability-related risk directions, and estimates neighborhood support separately from risk. This separation prevents unfamiliarity from being conflated with harmfulness and enables selective intervention rather than blanket rejection. A victim-adaptive interface accommodates different safety observations across VLM architectures and routes selected requests for same-victim response review, which either releases acceptable candidates or produces constrained alternatives with reduced harmful capability. Across three VLMs and five multimodal jailbreak families, CNRF achieves 86.06-89.30% macro defense success rate while retaining substantial benign-task utility. Controlled experiments further show that query-matched references and preserved context-direction correspondence materially improve risk ranking in the low-false-positive regime. CNRF thus reframes representation-based VLM safety from learning harmfulness boundaries to constructing applicable evidence for selective risk decisions.",
-      "source": "",
-      "source_url": "https://arxiv.org/abs/2610.20679",
-      "query": "https://arxiv.org/rss/cs.AI",
-      "category": "impacto",
+      "title": "In good company: 10 CIOs every CIO should follow - CIO",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNN2h1bjlFLV8tMXY5LW5mRTM0MzRKZnFzSkluZmtmNmNqRjAwZGxfVUxTM2NCTHFyWHJOZUJsbUd6SnkzcV9XbHJLQXpWcnc2ellZSHJxeHRGN0NHcFNEN041STR1LWdzU3hQdFcyY2p2b2xvb05UZG4tejlhT3QtWkJWV01HYTh0U2JqVmlzZElGQQ?oc=5",
+      "pub_date": "2026-10-26T10:08:08+00:00",
+      "description": "In good company: 10 CIOs every CIO should follow&nbsp;&nbsp;CIO",
+      "source": "CIO",
+      "source_url": "https://www.cio.com",
+      "query": "AI C-suite human-centered leadership banking",
+      "category": "liderazgo",
       "lang": "en"
     },
     {
-      "title": "IneqAgent: Agentic Inequality Proving in Lean with Symbolic Computation",
-      "link": "https://arxiv.org/abs/2610.20681",
-      "pub_date": "2026-10-16T00:00:00-04:00",
-      "description": "arXiv:2610.20681v1 Announce Type: new \nAbstract: Formal inequality proving requires mathematical reasoning and exact computation, often connected through intermediate lemmas and goal reformulations. We introduce IneqAgent, an agentic framework combining LLM reasoning with symbolic computation for inequality proving in Lean4. Lemma-level Monte Carlo Tree Search coordinates lemma construction, goal reformulation, and symbolic backend selection. Complementary sum-of-squares, Bernstein, and successive difference-substitution backends produce exact certificates for local Lean proof generation. The agent integrates these proofs with LLM-generated steps and uses Lean feedback to construct complete proofs checked against the original theorem statements. On four benchmarks, IneqAgent with DeepSeek-V4-Flash solves 175 of 186 problems (94.09%), achieving the highest overall success rate among the evaluated methods. Across four backbones, it achieves higher success rates at low LLM inference cost thresholds than Direct Agent using the same backbone, with lower mean inference costs over each method's successful runs. We also obtain Lean-verified strengthenings of Dittert's conjecture in dimensions four and five, and certify the Holens--Djokovic $(4,4)$ inequality, implying Merris's conjecture in dimension four.",
+      "title": "When AI Gets Cheaper, Do Prices Follow? Information Delays and Algorithmic Pricing",
+      "link": "https://arxiv.org/abs/2610.31693",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.31693v1 Announce Type: new \nAbstract: We examine whether lower costs of running AI models lead to lower prices, and whether delays in observing competitors' prices and limits on price changes affect how much consumers benefit. We study a simulated market with two differentiated sellers, logit demand, and tabular Q learning. A factorial experiment varies the age of rival price information, how often sellers can revise prices, whether production costs fall, and differences in firm quality and costs. We evaluate policies trained on 60 paired market seeds in each of 16 conditions, for 960 training runs, and measure expected consumer surplus after learning ends.\n  In the main setting with identical firms and falling costs, the estimated interaction between information delay and repricing frequency on consumer surplus is -0.00025 normalized units, with a 95% paired seed bootstrap interval of [-0.0402, 0.0393]. The interval includes zero, as do intervals for tests of whether the interaction changes with the cost regime or differences between firms. With the shortest information delay and the ability to revise prices every period, average price reductions equal 55.6% and 44.0% of the imposed cost reduction for the two firms. Mean consumer surplus under the learned policies is below the corresponding static grid Nash benchmark in all 16 conditions.\n  The findings show that simulated cost savings need not be fully passed on to buyers. They do not establish collusion or describe pricing by actual AI providers.",
       "source": "",
-      "source_url": "https://arxiv.org/abs/2610.20681",
-      "query": "https://arxiv.org/rss/cs.AI",
-      "category": "impacto",
+      "source_url": "https://arxiv.org/abs/2610.31693",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
       "lang": "en"
     },
     {
-      "title": "L2G-SR: Learning to Guide LLM-based Symbolic Regression",
-      "link": "https://arxiv.org/abs/2610.20685",
-      "pub_date": "2026-10-16T00:00:00-04:00",
-      "description": "arXiv:2610.20685v1 Announce Type: new \nAbstract: Symbolic regression searches for an equation that explains observed data. Numerical error is commonly used to guide the search, but it alone can favor an accurate surrogate over a candidate with the right structure. We propose L2G-SR, a framework for LLM-based symbolic regression that guides search with a learned structural verifier. We construct structural supervision signal using tree edit distance (TED), accounting for commutative operators and alternative expression forms. A verifier first aligns numerical observations with the formulas, then learns to score a candidate's structural similarity to the target formula. At search time, the target formula is hidden and the verifier complements numerical error in parent selection. An analyst then uses verifier feedback and diagnostic tools to propose revisions, which a generator converts into refined expressions. On LLM-SRBench, L2G-SR achieves state-of-the-art numerical fit, equation level accuracy and TED across the evaluated LLM backbones and domains. L2G-SR demonstrates the value of learned structural guidance for LLM-based symbolic regression.",
+      "title": "Jawboning the Fed: Do Markets Listen When Administrations Talk?",
+      "link": "https://arxiv.org/abs/2610.32300",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.32300v1 Announce Type: new \nAbstract: We provide the first systematic evidence on whether financial markets price political pressure on the Federal Reserve as a signal of future monetary policy. Using approximately four decades of Reuters newswire articles from 1988 to 2025, classified by an open-weight large language model ensemble into dovish and hawkish pressure, we estimate the daily response of interest rate expectations across the term structure, the US dollar, inflation compensation, and market volatility. Dovish pressure lowers near-term rate expectations by roughly one basis point per pressure event---equivalent to a four-percent increase in the implied probability of a rate cut at the next FOMC meeting---with the effect decaying monotonically and vanishing beyond the three-month horizon. Hawkish pressure has no detectable effect. Furthermore, excluding the Trump presidencies does not weaken the estimate, ruling out the possibility that the result is confined to an idiosyncratic recent episode. The response is accompanied by dollar depreciation, with stable inflation compensation and market volatility. We interpret the pattern as markets pricing anticipated monetary accommodation, rather than a credibility tax on the nominal anchor.",
       "source": "",
-      "source_url": "https://arxiv.org/abs/2610.20685",
-      "query": "https://arxiv.org/rss/cs.AI",
-      "category": "impacto",
+      "source_url": "https://arxiv.org/abs/2610.32300",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
       "lang": "en"
     },
     {
-      "title": "When Reality Outpaces Cognition: A New Scaling Principle for Reliable Intelligence",
-      "link": "https://arxiv.org/abs/2610.20764",
-      "pub_date": "2026-10-16T00:00:00-04:00",
-      "description": "arXiv:2610.20764v1 Announce Type: new \nAbstract: This paper challenges the understanding capabilities of existing AI paradigms and emerging world models by asking a fundamental question: How quickly can reality change before an intelligent system can no longer reliably perceive, reason, and act? We formulate this as a theory- and model-agnostic challenge in which systems must infer reliable actions for increasingly distant future states across a growing observation--reality gap. We operationalize this challenge through the effective Speed of Coherent Cognition (\\(S_C^{\\mathrm{eff}}\\)), defined as the highest tested Speed of Reality (\\(S_R\\)) through which a system continuously satisfies a predefined behavioural reliability criterion from baseline. As a proof of concept, reinforcement-learning agents are trained at the baseline \\(S_R\\) and evaluated, without retraining, as \\(S_R\\) is increased by up to \\(50\\times\\) while computational resources remain fixed. We compare Transformer and gated-MLP baselines with \\(Co^4\\), an architecture inspired by cellular mechanisms implicated in conscious processing and awake thought. Across the tested scenarios, \\(Co^4\\) achieves substantially higher \\(S_C^{\\mathrm{eff}}\\) than the baselines, motivating \\(S_C^{\\mathrm{eff}}\\) as a new benchmark and the scaling of coherent cognition as a principle for reliable AI.",
+      "title": "AI-Augmented Research: Free to Write, Costly to Read",
+      "link": "https://arxiv.org/abs/2610.32355",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.32355v1 Announce Type: new \nAbstract: We study a model in which artificial intelligence lowers the cost of writing faster than the cost of reading. Authors differ in reputation, and time-constrained readers, such as referees, choose between ignoring, verifying, and trusting papers. As writing costs fall, the band of verified papers shrinks: outsiders are no longer read, and established authors are no longer checked. In the ``costless writing limit,'' the share of verified papers vanishes, and a paper's impact depends on its author's reputation alone. Readers can escape the flood by asking AI to summarize the literature. These summaries aggregate papers reliably only if their errors are sufficiently independent. Once the share of papers written with the same AI exceeds a threshold, summaries inherit the AI's errors, and AI review filters out the original research that could correct them.",
       "source": "",
-      "source_url": "https://arxiv.org/abs/2610.20764",
-      "query": "https://arxiv.org/rss/cs.AI",
-      "category": "impacto",
+      "source_url": "https://arxiv.org/abs/2610.32355",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
       "lang": "en"
     },
     {
-      "title": "ARIA: Runtime Inspection and Amendment for Multi-Agent Systems",
-      "link": "https://arxiv.org/abs/2610.20780",
-      "pub_date": "2026-10-16T00:00:00-04:00",
-      "description": "arXiv:2610.20780v1 Announce Type: new \nAbstract: In LLM-based multi-agent systems (MAS), a local mistake can propagate as other agents build on it, turning a correctable error into a failed task. Diagnosing completed runs or repeatedly re-executing them to search for corrections does not provide a learned policy for intervening while execution is still in progress. We present Agent Runtime Inspection and Amendment (ARIA), a framework for learning when and how to repair ongoing multi-agent executions. Our key intuition is to turn execution-verified repairs into reusable supervision, moving repair search into data construction and training so that a learned model can intervene at runtime without repeatedly testing alternatives. First, we collect over 24{,}000 successful and failed trajectories across four multi-agent frameworks, six benchmarks, and eight host models. From these trajectories, we construct the ARIA dataset, to our knowledge the first large-scale dataset pairing failed multi-agent trajectories with execution-verified repairs. It contains 3{,}953 verified repair pairs, each specifying what went wrong, where to intervene, and how execution should continue. Then, we develop the ARIA framework for MAS-agnostic runtime inspection and amendment, designed to integrate with any MAS that exposes execution trajectories and supports continuation replacement. Using verified repairs as training examples, we teach a compact model to recognize when intervention is needed and how to correct an ongoing run. The aim is to learn repair strategies that apply to related failures in new configurations, rather than merely reproduce individual corrections. Finally, the trained ARIA model demonstrates strong repair performance in both post-hoc and runtime settings, with generalization to unseen frameworks and host models. Our code is available at https://github.com/LabRAI/ARIA.",
+      "title": "Delayed Retirement, Intergenerational Transfers, and Fertility",
+      "link": "https://arxiv.org/abs/2610.32455",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2610.32455v1 Announce Type: new \nAbstract: Population aging and fertility decline are occurring simultaneously worldwide, straining labor supply and pension systems. China began a gradual delayed-retirement (GDR) reform in 2025, raising statutory retirement ages on different schedules for men, female cadres, and female workers across birth cohorts. To evaluate its effects on older individuals and within the family, we develop a model of older adults' retirement, intergenerational transfers, and adult children's fertility decisions, with parameters estimated via fuzzy regression discontinuity at the pre-2025 statutory retirement ages. Counterfactual simulations show that, for mature reform cohorts, the GDR reform increases older employment and monetary transfers to adult children but reduces grandparental childcare. Because the reduction in childcare outweighs the increase in monetary transfers, fertility and older adults' welfare decline, with particularly large losses among lower-income women. Fully flexible retirement, mandatory partial retirement, and mandatory full-time work do not raise employment without similarly reducing fertility and welfare. Childcare subsidies can offset the declines in fertility and welfare, while restricting eligibility to women or lower-income women requires higher subsidy rates but reduces average fiscal expenditure. These findings suggest that evaluations of retirement policy should consider not only its direct effects on older adults' labor supply, but also its fertility effects through intergenerational transfers; childcare support can help mitigate these negative intergenerational effects of delayed retirement.",
       "source": "",
-      "source_url": "https://arxiv.org/abs/2610.20780",
-      "query": "https://arxiv.org/rss/cs.AI",
-      "category": "impacto",
+      "source_url": "https://arxiv.org/abs/2610.32455",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
       "lang": "en"
     },
     {
-      "title": "Open-world AI: a Tale of Three Requirements",
-      "link": "https://arxiv.org/abs/2610.20782",
-      "pub_date": "2026-10-16T00:00:00-04:00",
-      "description": "arXiv:2610.20782v1 Announce Type: new \nAbstract: The closed world asks AI for specialized competence and lets it manufacture the iid data its theory assumes: a fixed criterion licenses collecting examples until the task is covered. The open world asks for versatility --- taking up tasks a machine was not built for, from few examples and with little prior from a human designer --- and offers data that is grouped, not shuffled. Its tasks are not known in advance, so a machine must do inference-time learning (1st requirement). Modeling tasks as sharing latent factors and decomposing the training objective, we derive two more: a *rich representation*, retaining more than iid generalization requires, and a predictive disentanglement that aligns inputs and outputs into matched low-dimensional groups. The analysis further predicts the need for a consistent inner learner, and the benefit of long contexts spanning related tasks. We test these claims on language models up to 8B, asking whether a model has a property (qualitative) rather than how much it wins (quantitative). Models that meet the requirements improve as data from related tasks accumulates; the rest degrade, and neither scale nor layer-type interleaving repairs this.",
+      "title": "Blameocracy: Causal Rhetoric in Politics",
+      "link": "https://arxiv.org/abs/2504.06550",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2504.06550v5 Announce Type: replace \nAbstract: Democratic politics requires voters to infer how political actions map into outcomes, yet these causal links are often unclear, giving politicians scope to shape voters' causal accounts. This paper studies the supply and returns of causal rhetoric in politics: politicians' language linking political actions to outcomes through blame and credit. We fine-tune a language model to measure its use in 4.2 million congressional tweets spanning 2012--2023. Causal rhetoric is central to politicians' communication: it accounts for more than one third of tweets, is the language of political disagreement, and rises over time. The political returns of causal rhetoric are concentrated in blame. Combining campaign contributions with quasi-exogenous geographic variation in Twitter adoption, we find that exposure to blame has the largest effects on small donations. Using voting intentions from survey data and an event-study design around blame-only and credit-only days, we find that politicians' support rises after blame-only days. Finally, causal rhetoric appears rarely supported by economic knowledge, particularly blame.",
       "source": "",
-      "source_url": "https://arxiv.org/abs/2610.20782",
-      "query": "https://arxiv.org/rss/cs.AI",
-      "category": "impacto",
+      "source_url": "https://arxiv.org/abs/2504.06550",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
       "lang": "en"
     },
     {
-      "title": "EvolvingBrain: An Adaptive Skill System for Multi-modal Agents Self-Evolution in Open Worlds",
-      "link": "https://arxiv.org/abs/2610.20786",
-      "pub_date": "2026-10-16T00:00:00-04:00",
-      "description": "arXiv:2610.20786v1 Announce Type: new \nAbstract: Multi-modal agents have made significant progress in interacting with open worlds. However, their ability to self-evolve remains limited. Supervised fine-tuning enables imitation but not active experience organization, while outcome-based reinforcement learning promotes exploration yet underuses intermediate trajectory information. Therefore, we propose EvolvingBrain, which uses an adaptive skill system as the brain for agent self-evolution, consisting of two following components. Stratified Skill Self-Evolution: extracts Procedural Patterns and Problematic Patterns from model-specific trajectories, summarizes experience by generating skills, and evolves through multiple interactions with the open world, ultimately forming a Stratified Skill Architecture consisting of Domain, Plan, and Action/Trap Skills, which provides the agent with a multi-granularity knowledge repository and a novel evolution approach. State-Aware Adaptive Execution: summarizes long-horizon interactions into Structured Abstractive Memory and uses it to guide the State-Aware Skill Fusion Strategy, enabling the agent to utilize knowledge according to its current state. Experiments on VAB-Minecraft and DiscoveryWorld demonstrate that EvolvingBrain improves success rates on open-world tasks and exhibits generalization capabilities. Our code is provided in the supplementary materials and will be publicly released in the camera-ready version.",
+      "title": "GenAI-Assisted Writing and Academic Performance: Evidence from the Social and Behavioral Sciences",
+      "link": "https://arxiv.org/abs/2510.02408",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2510.02408v2 Announce Type: replace \nAbstract: This paper studies how Generative AI (GenAI)-assisted writing is associated with peer-reviewed publication output and journal placement in the social and behavioral sciences. We select lexical markers whose frequency rose sharply after ChatGPT's release in late 2022 and classify authors as GenAI-assisted writers when the share of these markers in their papers' titles and abstracts rises relative to their own pre-release baseline. Using matched author-level panel data and a difference-in-differences design, we estimate a 72% increase in publication output among GenAI-assisted writers relative to matched comparison authors in 2025. Across alternative specifications, the estimates range from roughly 52% to 88%. Mean journal placement based on the SCImago Journal Rank (SJR) improves by roughly 1%, but this modest increase is less consistent across different specifications. Within authors' annual publication portfolios, the highest placement improves by 5%, whereas the lowest declines by 3%. However, only the improvement at the top persists once the annual number of publications is held constant. The increase in output is accompanied by an expansion of collaboration networks and a rise in single-authored publications. Productivity gains are largest among early-career researchers and authors from countries linguistically distant from English, groups likely to face greater writing-related barriers to publication. The results suggest that GenAI-assisted writing may lower these barriers and increase researchers' capacity to bring more projects to publication.",
       "source": "",
-      "source_url": "https://arxiv.org/abs/2610.20786",
-      "query": "https://arxiv.org/rss/cs.AI",
-      "category": "impacto",
+      "source_url": "https://arxiv.org/abs/2510.02408",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
       "lang": "en"
     },
     {
-      "title": "La banca no necesita más inteligencia artificial, sino una IA en la que pueda confiar - Expansión",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWVVEN2twcHA5UWdId29oQWF3dHJ5U2JnNk1PclBhaUJpekVRU3VaazFjVUhOVkZQeFg4Q1NCcEMzVDdvU3lJZ3U3RVZrdGZteGMyOWFvWVYyVXhCZFlMaXozcTNQLUlxcHliMEE3ZnJlVXA2dUloNEpaRThOSUJ3Wm1KY3hKTzhPU0l4NE5DaS1nSmcyN1R6cVZYVmhheEFuX3plS2h3Z1h2Q1XSAasBQVVfeXFMTVlVRDdrcHBwOVFnSHdvaEFhd3RyeVNiZzZNT3JQYWlCaXpFUVN1WmsxY1VITlZGUHhYOENTQnBDM1Q3b1N5SWd1N0VWa3RmbXhjMjlhb1lWMlV4QmRZTGl6M3EzUC1JcXB5YjBBN2ZyZVVwNnVJaDRKWkU4TklCd1ptSmN4Sk84T1NJeDROQ2ktZ0pnMjdUenFWWFZoYXhBbl96ZUtod2dYdkNV?oc=5",
-      "pub_date": "2026-10-15T19:25:33+00:00",
-      "description": "La banca no necesita más inteligencia artificial, sino una IA en la que pueda confiar&nbsp;&nbsp;Expansión",
-      "source": "Expansión",
-      "source_url": "https://amp.expansion.com",
-      "query": "transformacion inteligencia artificial alta direccion banca",
-      "category": "impacto",
-      "lang": "es"
-    },
-    {
-      "title": "Artificiality's First Exam: An LLM-Referenced C-test for Supraintelligence",
-      "link": "https://arxiv.org/abs/2610.14005",
-      "pub_date": "2026-10-15T00:00:00-04:00",
-      "description": "arXiv:2610.14005v1 Announce Type: new \nAbstract: Under the accelerated pace of AI development, any benchmark whose difficulty is calibrated with humans or current AI systems becomes circular, or saturates soon. How can we then evaluate machines that may become more capable than the current machines and the people who write the tests? One answer to the question hinges on inverse problems, inductive inference questions for which difficulty depends on the complexity of the underlying mechanism, given the observations and the previous knowledge. Levin's Kt, a computable variant of Kolmogorov complexity, puts a theoretical upper bound to that difficulty, balancing the simplest representation encoding for the mechanism and the logarithm of the time steps to run that mechanism. Previous tests derived from Levin's Kt, such as the original C-test, are based on minimalistic Universal Turing Machines (UTM), capable of very limited representations and no previous knowledge. Reasoning large language models (LLM) are UTMs that capture a compendium of human culture as knowledge, using prompts as natural language programs. This paper presents the first test based on Levin's Kt with LLMs as representational machines. Fresh test items can be produced at high difficulties, estimated in a ratio scale measured in bits, before any human or frontier model can solve them. We formalise the measure, devise a lightweight generation and certification pipeline, explore the effect of the power of the reference machine and the gap between examiner and examinee. We produce a first battery of certified items administered to twelve LLMs. The resulting agent characteristic curves decrease with difficulty, down to the uncharted high-difficulty region, the supra-intelligence window of items we can certify, yet beyond generations of frontier intelligence.",
+      "title": "Short-Run Multi-Outcome Effects of Nightlife Regulation in San Juan",
+      "link": "https://arxiv.org/abs/2510.25782",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2510.25782v2 Announce Type: replace \nAbstract: I evaluate San Juan, Puerto Rico's late-night alcohol sales ordinance using a multi-outcome synthetic control that pools economic and public-safety series. I show that a common-weight estimator clarifies mechanisms under low-rank outcome structure. I find economically meaningful reallocations in targeted sectors -- restaurants and bars, gasoline and convenience, and hospitality employment -- while late-night public disorder arrests and violent crime show no clear departures from pre-policy trends. The short post-policy window and small donor pool limit statistical power; joint conformal and permutation tests do not reject the null at conventional thresholds. I therefore emphasize effect magnitudes, temporal persistence, and pre-trend fit over formal significance. Code and diagnostics are available for replication.",
       "source": "",
-      "source_url": "https://arxiv.org/abs/2610.14005",
-      "query": "https://arxiv.org/rss/cs.AI",
-      "category": "impacto",
+      "source_url": "https://arxiv.org/abs/2510.25782",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
       "lang": "en"
     },
     {
-      "title": "The Silent Failures in Agentic Data Science",
-      "link": "https://arxiv.org/abs/2610.14115",
-      "pub_date": "2026-10-15T00:00:00-04:00",
-      "description": "arXiv:2610.14115v1 Announce Type: new \nAbstract: Large language models have significantly lowered the barrier to writing code. Naturally, this has also led to the development of data science agents that promise automating the design and execution of data science from task formulation to model development. Existing evaluations of agentic data science (agentic DS) assess downstream predictive performance and code correctness, providing preliminary insight in agentic DS capabilities. We argue that these evaluations overlook the fundamental principles of data science: methodological data science- and domain knowledge. As such, only assessing downstream performance masks methodological failures such as data leakage and inappropriate validation, limiting the development of robust agentic DS systems. In this paper, we evaluate agentic DS beyond accuracy from three different angles: 1) a large-scale analysis of failure modes in common agentic DS frameworks and models across 220 data science tasks, 2) a reusable and extensible test suite with curated data science tasks that test for six specific failures in a controlled manner, and 3) a qualitative assessment of agentic DS pipelines against expert solutions on Kaggle competitions. We find that the majority of agentic solutions contain at least one failure mode despite the complexity of agentic harness or model capacity. Moreover, we identify a positive correlation between the occurrence of data leakage failures and predictive performance, confirming the necessity to evaluate agents beyond accuracy. Our qualitative analysis shows that DS agents generally lack problem solving creativity and domain knowledge, compared to competition-winning data scientists. We believe that principled failure mode analysis, as presented here, should be integral part of agentic DS evaluations, and that the insights we surface will be key in developing trustworthy agentic DS pipelines.",
+      "title": "Carbon Regulation and Competition in the European Airline Industry",
+      "link": "https://arxiv.org/abs/2603.27724",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2603.27724v2 Announce Type: replace \nAbstract: The European Union Emissions Trading System is set to substantially increase the effective carbon price faced by airlines. We estimate a two-stage model of airline competition with endogenous product entry, direct departure frequencies, and pricing. Impacts are highly asymmetric across carrier types and market segments. Consumer surplus declines by up to 34% overall and up to 95% in medium- and long-haul markets. Short-haul markets gain welfare as airlines reallocate capacity toward shorter routes. Airline profits decline by 1--42%, but carbon tax revenue of $1.9--2.9 billion and the social value of avoided emissions of $2.7--4.0 billion more than offset private-surplus losses.",
       "source": "",
-      "source_url": "https://arxiv.org/abs/2610.14115",
-      "query": "https://arxiv.org/rss/cs.AI",
-      "category": "impacto",
+      "source_url": "https://arxiv.org/abs/2603.27724",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
       "lang": "en"
     },
     {
-      "title": "ClawLoop: Self-Improving Agents via Harness-Native Training Loop",
-      "link": "https://arxiv.org/abs/2610.14118",
-      "pub_date": "2026-10-15T00:00:00-04:00",
-      "description": "arXiv:2610.14118v1 Announce Type: new \nAbstract: The rapid advancement of Large Language Models (LLMs) has driven their deployment toward general-purpose harness environments, where LLM-based agents operate in sandbox workspaces and interact directly with file systems and shells. While numerous post-training pipelines exist for tool-use agents, their counterparts for harness-based agents remain scarce and are predominantly one-shot and teacher-dependent: a stronger external model synthesizes tasks and collects trajectories, the target agent is trained once, and evaluation results are consumed by human researchers rather than fed back into the loop. Such pipelines are inherently bounded by the capability of the external model and the scope of human prior, leaving no room for self-improvement. To address these limitations, we propose ClawLoop, a framework that enables self-improving without any external teacher model and with minimal prior dependencies. ClawLoop composes three phases into a self-sustaining cycle: Task Synthesis, which generates a diverse pool of training tasks via two complementary construction routines, applies diagnosis-conditioned difficulty growth followed by both agent-free and agent-based task validation; Training, which updates the agent via SFT and/or RL; and Diagnosis and Feedback, which analyzes the agent's rollout behaviors to produce a capability analysis report that will be used as feedback for task synthesis in the next iteration. Using Qwen3.6-27B as the loop model, ClawLoop yields consistent improvements on SkillsBench, Claw-Eval-Live, and ClawGym-Bench. The iteratively refined tasks are further transferred to smaller-scale Qwen3.5-4B and 9B models with gains across all benchmarks, validating data quality independently of the loop model.",
+      "title": "Execution and Evaluation: Task Content, Labor Demand, and the Evaluator Pipeline",
+      "link": "https://arxiv.org/abs/2607.20807",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2607.20807v2 Announce Type: replace \nAbstract: Measures of occupational AI exposure ask whether machines can perform a task, not which function the human supplies. I distinguish execution, producing a first-pass output, from evaluation, judging whether it is correct, and make the distinction measurable by scoring all 19,265 O*NET task statements under fixed rubrics. The execution score is reproducible across model coders and O*NET vintages. In a 200-task random audit it correlates 0.81 with the mean of four blinded human coders. It predicts each held-out coder's peers better than that coder does, though the coders disagree substantially among themselves. It adds only modest power beyond O*NET's evaluation activities. Employment growth is lower in execution-heavy white-collar occupations in every window since 2012; the gradient shows no post-2022 break and lies largely between occupational families. The Eloundou exposure gradient is steeper in 2022--2025 than in the pandemic window, but the design does not establish an AI effect. A near-term seniority test is null. If evaluative judgment is itself produced by execution practice, the supply of evaluators falls only after a cohort lag; that prediction remains untested.",
       "source": "",
-      "source_url": "https://arxiv.org/abs/2610.14118",
-      "query": "https://arxiv.org/rss/cs.AI",
-      "category": "impacto",
+      "source_url": "https://arxiv.org/abs/2607.20807",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
       "lang": "en"
     },
     {
-      "title": "Correction Training for Diffusion Models",
-      "link": "https://arxiv.org/abs/2610.14136",
-      "pub_date": "2026-10-15T00:00:00-04:00",
-      "description": "arXiv:2610.14136v2 Announce Type: new \nAbstract: Iterative sampling in diffusion models can lead to error accumulation due to exposure bias. The denoiser is trained on real images interpolated with noise, but at inference its inputs are constructed from its own imperfect predictions from the earlier steps, something it has never seen at training time. This might be one reason diffusion models often struggle without additional help, such as CFG. We introduce a correction step for diffusion models which attempts to reduce this training-inference gap. The corrector takes the base model's prediction as input and is trained against the same ground-truth target. This makes correction an explicit learning task, with training inputs provided by the base model. During sampling, at each denoising step, we iteratively refine the denoiser's clean-sample prediction. This allows us to correct predictions at intermediate denoising steps, preventing early artifacts from persisting into the final sample. Although the corrector is trained only on predictions from the base denoiser, it can be applied repeatedly to its own outputs at inference for better results. This simple framework leads to substantial improvement in sample quality while largely preserving diversity. We evaluate our method across DiT, SiT, and JiT. Our method substantially improves upon previously reported FID scores for unguided generation and, notably, unconditional generation, where producing high-quality samples without guidance has been particularly challenging. Our method achieves performance competitive with classifier-free guidance (CFG), and combining correction with CFG further improves diversity and reduces oversaturation typical of CFG. Finally, we show that the additional inference cost of correction can be amortized by distilling the refined predictions back into the base diffusion model, retaining the quality gains without additional inference-time overhead.",
+      "title": "BeforeIT.jl: High-Performance Agent-Based Macroeconomics Made Easy",
+      "link": "https://arxiv.org/abs/2502.13267",
+      "pub_date": "2026-10-26T00:00:00-04:00",
+      "description": "arXiv:2502.13267v2 Announce Type: replace-cross \nAbstract: BeforeIT is an open-source software for building and simulating state-of-the-art macroeconomic agent-based models (macro ABMs) based on the recently introduced macro ABM developed in [1] and here referred to as the base model. Written in Julia, it combines extraordinary computational efficiency with user-friendliness and extensibility. We present the main structure of the software, demonstrate its ease of use with illustrative examples, and benchmark its performance. Our benchmarks demonstrate that the base model built with BeforeIT is orders of magnitude faster than its original Matlab implementation, while achieving performance comparable to a highly optimised HPC implementation. Furthermore, we show how BeforeIT supports an easy construction of model variants such as the 'CANVAS' model of [2], how these variants can be evaluated at scale via an automated multicountry forecasting pipeline, and how the entire simulation can be automatically differentiated. BeforeIT is designed to facilitate reproducibility, extensibility, and experimentation. As the first open-source, industry-grade software to build macro ABMs, BeforeIT can significantly foster collaboration and innovation in the field of agent-based macroeconomic modelling. The package, along with its documentation, is freely available at https://github.com/bancaditalia/BeforeIT.jl under the Apache 2.0 license.",
       "source": "",
-      "source_url": "https://arxiv.org/abs/2610.14136",
-      "query": "https://arxiv.org/rss/cs.AI",
-      "category": "impacto",
-      "lang": "en"
-    },
-    {
-      "title": "Long-Horizon-Terminal-Bench 2.0: Automating Diverse Task Construction and Measuring Sustained Agent Progress",
-      "link": "https://arxiv.org/abs/2610.14146",
-      "pub_date": "2026-10-15T00:00:00-04:00",
-      "description": "arXiv:2610.14146v1 Announce Type: new \nAbstract: Long-horizon terminal benchmarks measure whether an agent can sustain progress through extended workflows with process rewards, not only whether its final state passes a binary check. We present Long-Horizon-Terminal-Bench 2.0 (LHTB 2.0), an extension of Long-Horizon-Terminal-Bench that preserves its 46 original tasks while correcting task and evaluation-infrastructure defects and extending 31 tasks. LHTB 2.0 contains 77 tasks across 13 domains and eight task types. The extended tasks are produced through a systematic reconstruction-task pipeline. We start from a working scientific or engineering artifact, then use a parameterized reference implementation to generate multiple scenarios, reveal six as behavioral evidence, hold out three for evaluation, and use dense progress ladders to reward partial progress while preventing memorization of public outputs. We also extend the evaluation horizon from 90 minutes to three hours and record verifier checkpoints every 30 minutes, enabling direct measurement of sustained progress within a run. Across 1,145 scored model-task runs from 15 frontier models, GPT-6-astra leads with dense mean reward 0.69 and 37 tasks at R at least 0.95, followed by GPT-5.6-sol with dense mean reward 0.67 and 32 tasks at the same threshold. On the 30 reconstruction tasks, binary verifier scores average 0.221, whereas dense ladder scores average 0.653, showing that outcome-only evaluation discards substantial intermediate progress. LHTB 2.0 provides a broader, hardened, and process-aware testbed for studying reliable agent execution over hours.",
-      "source": "",
-      "source_url": "https://arxiv.org/abs/2610.14146",
-      "query": "https://arxiv.org/rss/cs.AI",
-      "category": "impacto",
+      "source_url": "https://arxiv.org/abs/2502.13267",
+      "query": "https://arxiv.org/rss/econ.GN",
+      "category": "liderazgo",
       "lang": "en"
     },
     {
@@ -3972,6 +4093,17 @@
       "query": "liderazgo humano IA sector financiero habilidades directivos",
       "category": "liderazgo",
       "lang": "es"
+    },
+    {
+      "title": "JPMorgan And Citi Limit AI Agents As PHP Flaws Raise Security Alarms (68 characters) - Forbes",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSzJ2aGpOYXd5VGphNlVjenNNdmtRZmlld000bXpMRUtPU1dZRWJzeVg5YVR0STBMUmRaNDREVVFWTTI0eXpxTzFkNkdXY0ZaTmFEb01qSzlrWnJ0dTIwT2ZrNTFTd2V5QUxMZ0N2ZjVyZGdRdFpYVG5BSFU4X1pZWlZFd2l4XzFzTW1RX19vNnJFYXhXQzBYWWVxRlJzbkEtb2Rrd1BCQ0R2bzhWUjIxLUczRUs4VDRpVXFGNm1LMA?oc=5",
+      "pub_date": "2026-10-25T01:19:43+00:00",
+      "description": "JPMorgan And Citi Limit AI Agents As PHP Flaws Raise Security Alarms (68 characters)&nbsp;&nbsp;Forbes",
+      "source": "Forbes",
+      "source_url": "https://www.forbes.com",
+      "query": "AI C-suite human-centered leadership banking",
+      "category": "liderazgo",
+      "lang": "en"
     },
     {
       "title": "Por qué los CEO vuelven a estudiar después de alcanzar la cima: la inteligencia artificial transforma la formación de los líderes - Iberoeconomía",
@@ -4491,136 +4623,15 @@
       "lang": "en"
     },
     {
-      "title": "Auction-based allocation of routes in capacity-constrained networks",
-      "link": "https://arxiv.org/abs/2610.20125",
-      "pub_date": "2026-10-15T00:00:00-04:00",
-      "description": "arXiv:2610.20125v1 Announce Type: cross \nAbstract: We study the route-set allocation problem between end nodes in capacity-constrained flow networks with transfer costs. We introduce an origin--destination (OD) bidding language, in which a participant bids for bounded conic combinations of inlet--outlet--quantity licences and the mechanism performs the routing through a network-flow optimising winner-determination problem. We then study payment rules for the OD mechanism. Under a restricted model with openly and uniformly priced sources and bidders who are indifferent to the source of the gas, the Vickrey--Clarke--Groves (VCG) payment is core-stable; the key structural fact is that in this regime some optimal aggregate flows never use a physical pipe in both directions, so the winner-determination problem reduces to a single-commodity network flow whose value is submodular in the set of active bidders. If source access is allowed to depend on the individual consumer -- a realistic feature, e.g. when gas deals are embedded in bilateral political bargaining -- the reduction fails and VCG payments may lie strictly outside the core. For this general model we propose a dual (nodal) pricing rule derived from the shadow prices of the flow-conservation constraints, and prove it is always core-stable, at the cost of dominant-strategy incentive compatibility. Illustrative examples accompany each result.",
+      "title": "Ya están ejecutando juegos de Xbox One en un iPhone y el resultado es sorprendente",
+      "link": "https://hipertextual.com/videojuegos/ejecutar-juegos-xbox-one-iphone-mac-utsuro/",
+      "pub_date": "2026-10-25T17:00:00+00:00",
+      "description": "Desde hace unas semanas, la escena de la emulación y la preservación de juegos dio un giro radical. Cientos de usuarios están volcándose a la IA para decompilar o recompilar títulos que eran exclusivos de otras consolas, así como emularlos en plataformas que hasta ahora no era posible. Uno de estos proyectos tiene que ver [&#8230;]\nSeguir leyendo: Ya están ejecutando juegos de Xbox One en un iPhone y el resultado es sorprendente",
       "source": "",
-      "source_url": "https://arxiv.org/abs/2610.20125",
-      "query": "https://arxiv.org/rss/econ.GN",
-      "category": "liderazgo",
-      "lang": "en"
-    },
-    {
-      "title": "Whom Do AI Agents Work For? Role Assignment Induces Sponsorship Bias in LLM Recommenders",
-      "link": "https://arxiv.org/abs/2609.17989",
-      "pub_date": "2026-10-15T00:00:00-04:00",
-      "description": "arXiv:2609.17989v2 Announce Type: replace \nAbstract: Large language models (LLMs) now serve as conversational shopping assistants on platforms that also sell advertising. These AI agents face a conflict of duty. They advise consumers who rely on their judgment, yet are deployed by platforms that benefit when sponsored listings are chosen. Sponsorship disclosures, designed to allow consumers to penalize paid placements, now reach the AI agent rather than the consumer, and the agent's evaluation of them is hidden from the consumer. Drawing on the fiduciary concept of conflict of duty, we argue that an agent's evaluation of a sponsored listing should not depend on which party deployed it. In controlled choice experiments, we manipulate assigned roles in the system prompt to name either a traveler or a booking platform as the agent's principal. Platform delegation significantly attenuates the penalty that agents apply to sponsored listings and weakens the skepticism that disclosure triggers in their reasoning traces. We replicate out findings across LLMs and reasoning depths. A second study decomposes the disclosure label and shows that the divergence between the two delegates widens significantly when the paid placement is attributed to the platform. Stricter terminology (\"Sponsored\" instead of \"Promoted\") lowers choice of paid listings but does not close this gap when the platform is named. The findings show that disclosure mandates designed for human consumers cannot by themselves protect consumers in AI-mediated commerce.",
-      "source": "",
-      "source_url": "https://arxiv.org/abs/2609.17989",
-      "query": "https://arxiv.org/rss/econ.GN",
-      "category": "liderazgo",
-      "lang": "en"
-    },
-    {
-      "title": "Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer",
-      "link": "https://arxiv.org/abs/2609.28372",
-      "pub_date": "2026-10-15T00:00:00-04:00",
-      "description": "arXiv:2609.28372v2 Announce Type: replace \nAbstract: Consumers increasingly delegate purchasing decisions to Large Language Models (LLMs) acting as surrogate consumers. Using \"Tool-Lab,\" an adaptation of information-board process tracing that places product attributes behind costly tool calls, we examine how marketing pricing cues (i.e., just-below pricing and promotional framing) influence AI shopping agents. Across eight commercially deployed LLMs from three providers, we trace pre-choice information acquisition. Under zero cost, pricing cues rarely mislead. Imposing acquisition costs under a vague goal prompt leads LLMs to omit diagnostic attributes required to compute unit price and choose suboptimal choices resembling human heuristics. Relative to a specific goal prompt that mainly preserves diagnostic search and choice optimality, a vague goal prompt under constraints creates a search-mediated vulnerability. This research demonstrates that marketing heuristics in delegated AI shopping are governed by storefront information architecture, not necessarily immutable LLM flaws.",
-      "source": "",
-      "source_url": "https://arxiv.org/abs/2609.28372",
-      "query": "https://arxiv.org/rss/econ.GN",
-      "category": "liderazgo",
-      "lang": "en"
-    },
-    {
-      "title": "Ideological Bias in LLMs' Economic Causal Reasoning",
-      "link": "https://arxiv.org/abs/2604.21334",
-      "pub_date": "2026-10-15T00:00:00-04:00",
-      "description": "arXiv:2604.21334v3 Announce Type: replace-cross \nAbstract: Do large language models (LLMs) exhibit systematic ideological bias when reasoning about economic causal effects? As LLMs are increasingly used in policy analysis and economic reporting, where directionally correct causal judgments are essential, this question has direct practical stakes. We present a systematic evaluation by extending the EconCausal benchmark with ideology-contested cases - instances where intervention-oriented (pro-government) and market-oriented (pro-market) perspectives predict divergent causal signs. From 10,490 causal triplets (treatment-outcome pairs with empirically verified effect directions) derived from top-tier economics and finance journals, we identify 1,056 ideology-contested instances and evaluate 20 state-of-the-art LLMs on their ability to predict empirically supported causal directions. We find that ideology-contested items are consistently harder than non-contested ones, and that across 17 of 20 models, accuracy is systematically higher when the empirically verified causal sign aligns with intervention-oriented expectations than with market-oriented ones. Moreover, when models err, their incorrect predictions disproportionately lean intervention-oriented, and this directional skew is not eliminated by one-shot in-context prompting. These results highlight that LLMs are not only less accurate on ideologically contested economic questions, but systematically less reliable in one ideological direction than the other, underscoring the need for direction-aware evaluation in high-stakes economic and policy settings.",
-      "source": "",
-      "source_url": "https://arxiv.org/abs/2604.21334",
-      "query": "https://arxiv.org/rss/econ.GN",
-      "category": "liderazgo",
-      "lang": "en"
-    },
-    {
-      "title": "Generative AI Availability, Grades, and Student Satisfaction at a Large University",
-      "link": "https://arxiv.org/abs/2607.21534",
-      "pub_date": "2026-10-15T00:00:00-04:00",
-      "description": "arXiv:2607.21534v3 Announce Type: replace-cross \nAbstract: The availability of generative AI (GenAI) has raised concerns that college students substitute GenAI for cognitive effort, earning high grades without learning. If this \"GenAI substitution hypothesis\" is true, grades should rise disproportionately in GenAI-susceptible courses--those relying more on assessments like take-home problem sets and essays rather than in-class exams. Student satisfaction (self-reported understanding and interest) may also shift. We test this hypothesis using syllabus and administrative data from a large U.S. university (2016-2025; 138,386 students; 72,730 course offerings). We measure GenAI susceptibility by extracting assessment types from syllabi with a human-validated LLM pipeline. We then use a difference-in-differences design comparing courses before and after ChatGPT's release, modeling COVID-19 effects as persistent or transient. Effects on grades and satisfaction are small and sensitive to COVID modeling choices, with no detectable differences by students' prior academic preparation. Exploratory analyses show that the link between pre-college test scores and grades has not detectably weakened in more susceptible courses, and that instructors have been making courses less susceptible since before ChatGPT. Our findings temper concerns that GenAI inflates grades and reduces satisfaction, partly because instructors may adapt their pedagogy.",
-      "source": "",
-      "source_url": "https://arxiv.org/abs/2607.21534",
-      "query": "https://arxiv.org/rss/econ.GN",
-      "category": "liderazgo",
-      "lang": "en"
-    },
-    {
-      "title": "Does Rank Still Matter? Position Bias When AI Agents Shop on Our Behalf",
-      "link": "https://arxiv.org/abs/2608.22697",
-      "pub_date": "2026-10-15T00:00:00-04:00",
-      "description": "arXiv:2608.22697v5 Announce Type: replace-cross \nAbstract: When shopping is delegated to AI agents, it is unclear whether the ranking advantage documented for humans persists. Across 7,000 sessions with five large language models (LLMs) and varying reasoning effort, we compare AI agents with human field data. AI agents search more extensively than human consumers. As with humans, lower-ranked listings are less likely to be inspected, although the effect is smaller for AI agents. Unlike humans, AI agents show a pattern consistent with the lost-in-the-middle effect, whereby middle listings have the lowest probability of inspection. At the choice stage, position effects are concentrated at lower reasoning effort, but higher effort reduces the middle penalty for every LLM that exhibits it. These findings suggest that, when search is delegated, displayed attributes may matter more than placement, and that exposure to position bias depends on how the AI agent is configured.",
-      "source": "",
-      "source_url": "https://arxiv.org/abs/2608.22697",
-      "query": "https://arxiv.org/rss/econ.GN",
-      "category": "liderazgo",
-      "lang": "en"
-    },
-    {
-      "title": "5 Things JPMorgan’s AI Agent Warning Means for Banking - Finovate",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPb21uZHRnNXozVzVZcW1vRWRfbXZ5c0hNLXMzZDJQbTI3a1Z0ZFRqaUh2YXVfaUU2UnpPVnhSeUp0dE5nbS02aUo3UWJ0cDVBSUZvRUxWWjdIUVB2TW16ZGdlWGpQaDkydUowY2F2dGtBZjh5S1JIYVFpbm9ISmJhUQ?oc=5",
-      "pub_date": "2026-10-14T07:00:00+00:00",
-      "description": "5 Things JPMorgan’s AI Agent Warning Means for Banking&nbsp;&nbsp;Finovate",
-      "source": "Finovate",
-      "source_url": "https://finovate.com",
-      "query": "AI C-suite human-centered leadership banking",
-      "category": "liderazgo",
-      "lang": "en"
-    },
-    {
-      "title": "MD 2026 | Ana Karina Smith: el desafío de llevar más mujeres a las juntas directivas - www.revistaeyn.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQW1xNk1lczFnNUF3OFdhUXBPaXFDTFU5ZzZkQVhualJiWTFxV1lMaDZUMEhQOG0tcXdVaWsxaDB1dUV4V3k2WVJKVm5TT2lIOVREYkkwSUllelRNX1FpOEVvbF96bkdLN3ducVlPMkRSRkNtTWJZdmlxeGRYODNyTlhyNW90VE5zUkx4SjhxSm1Mb2c4UWE4cU9ZV3k4YWFETEVUZklIajB6X0ZqUElGSGlmaHAzaC10YlVfUG5LamNVUWVGdS0zbHdnYTlWaFlMbGYxYzJ5cUNWSm5SZnp0TWVBcHk?oc=5",
-      "pub_date": "2026-10-14T07:00:00+00:00",
-      "description": "MD 2026 | Ana Karina Smith: el desafío de llevar más mujeres a las juntas directivas&nbsp;&nbsp;www.revistaeyn.com",
-      "source": "www.revistaeyn.com",
-      "source_url": "https://www.revistaeyn.com",
-      "query": "liderazgo humano IA sector financiero habilidades directivos",
-      "category": "liderazgo",
+      "source_url": "https://hipertextual.com/videojuegos/ejecutar-juegos-xbox-one-iphone-mac-utsuro/",
+      "query": "https://hipertextual.com/feed",
+      "category": "habilidades",
       "lang": "es"
-    },
-    {
-      "title": "Teresa Viejo: \"El modelo de liderazgo empresarial del siglo XX ya no sirve; la IA y la tecnología avanzan muy rápido\" - Valencia Plaza",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPelRwU2Fzdk5FUnBXVTJOalMzVjI4R1hwRDdJeTUzWE9GSnRJM1JKRlBkY3VVUXhiY0VXSGpTLUxOSkpsdUhvYVo5TFI0dFhGRUE3LVVaT3ZvTU5tVmpjRTkzVFlRNHdzRzVGc2dxZGs1Um84WWZ6a3U0OFZ3WkxPZ2RQWmY3MXkzQ1dZSEpUVjhYYTVmZG9GdXFxQ1MxNVhPdnZRNE9aeTdSejk1eG1wYVFCQXhCTWFLY1ZDQ3hFY1pfcHNDSmd4b3VXMDhkc1E5M2EwNFVKVi1HTm5MRzFzc0pCY2wtVmdZQVhQRWVXZ3BlOFFTcVE?oc=5",
-      "pub_date": "2026-10-13T04:03:36+00:00",
-      "description": "Teresa Viejo: \"El modelo de liderazgo empresarial del siglo XX ya no sirve; la IA y la tecnología avanzan muy rápido\"&nbsp;&nbsp;Valencia Plaza",
-      "source": "Valencia Plaza",
-      "source_url": "https://valenciaplaza.com",
-      "query": "liderazgo humano IA sector financiero habilidades directivos",
-      "category": "liderazgo",
-      "lang": "es"
-    },
-    {
-      "title": "Teresa Viejo: \"El modelo de liderazgo empresarial del siglo XX ya no sirve; la IA y la tecnología avanzan muy rápido\" - Murcia Plaza",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUUs1MWZ2TmZQa2o0elJsS1RKenlMWXpwc0cwWU1NcEFtcVJ4dk1BNERvYkgtVDE1U0tUSkp1Wm90RUZ0a0Q5RHNvZWp1aHJUU3FteUtlU3IzNHQwOWlEZjF6NGlvRXlPbEZ0dGhiR2t0b1g3UmZuUExkMVFabjFoem1nT0VTWTRWc1hqRUFqNlh5ZGM5b042ZEVnSEJSUHhIdms1WHNFaEhBSDVialI2cjFVT3haWFl4UzM5VTRXSkhFTENzaDFTSDUzWFdZWDkteXdUTXo2d3RLMTJRdXF3VFhuZTlsVkJGNEozQml5Rzg3TDJhU0dYOA?oc=5",
-      "pub_date": "2026-10-13T04:00:36+00:00",
-      "description": "Teresa Viejo: \"El modelo de liderazgo empresarial del siglo XX ya no sirve; la IA y la tecnología avanzan muy rápido\"&nbsp;&nbsp;Murcia Plaza",
-      "source": "Murcia Plaza",
-      "source_url": "https://murciaplaza.com",
-      "query": "liderazgo humano IA sector financiero habilidades directivos",
-      "category": "liderazgo",
-      "lang": "es"
-    },
-    {
-      "title": "Teresa Viejo: \"El modelo de liderazgo empresarial del siglo XX ya no sirve; la IA y la tecnología avanzan muy rápido\" - Alicante Plaza",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOc3N5RGZ1NnIwdG44LWZIc0lQMXNxZHRoXzBPVkhxbWFqT3lVU0dVOVExYVBSTlVhbUNneGdrMzAySmtnN3plQ043enpwSTIyWUUwV3ZwTlF3NTdVOHFaOHVEZ0VDemMwcWhxLVdKR1VMb3UxUDJJdHg2UU1BME9QYUU5NFh1WlJhbjZXOHZlSi1mUE84Zmh4UUtKMVcwcEZsOXQySmdqMWdGaU1NTjB0TDRkSWY1MXFTdWRYZ1Bha0xES0M2eV9xcklBdlpDV1hMY0x3SGRsTFJ3Z2ZQdUxYb3YtTE85Wm5YWUFabElPb00tdk0?oc=5",
-      "pub_date": "2026-10-13T04:00:00+00:00",
-      "description": "Teresa Viejo: \"El modelo de liderazgo empresarial del siglo XX ya no sirve; la IA y la tecnología avanzan muy rápido\"&nbsp;&nbsp;Alicante Plaza",
-      "source": "Alicante Plaza",
-      "source_url": "https://alicanteplaza.es",
-      "query": "liderazgo humano IA sector financiero habilidades directivos",
-      "category": "liderazgo",
-      "lang": "es"
-    },
-    {
-      "title": "Crisis without Collapse: A Theory of Capitalist Persistence",
-      "link": "https://arxiv.org/abs/2610.12477",
-      "pub_date": "2026-10-12T00:00:00-04:00",
-      "description": "arXiv:2610.12477v1 Announce Type: new \nAbstract: The terminal crisis of capitalism has been predicted regularly since 1848. It has not occurred. We treat this 175-year forecasting record as a stylized fact in need of a model, and we supply one, unifying results from adaptive systems, mechanism design and computational complexity, behavioral decision theory, global games, and the political economy of redistribution. Ten assumptions deliver twelve formal results and one theorem. Recurring shock classes have geometrically decaying collapse hazards: within the banking class alone, the lag from systemic failure to a system-wide deposit backstop fell from 816 days (1930-33) to 18 days (2008) to 2 days (2023). A centralized replacement of the price mechanism fails on at least one of two horns, computation or truthful input, and we are explicit about which horn survives modern algorithms. We derive Davies's J-curve from cumulative prospect theory together with a new result: the revolutionary window closes endogenously, with length inversely proportional to the speed of hedonic adaptation, roughly four to nine years at calibrated parameters, and with its perceptibility threshold derived from the participation constraint rather than assumed. Personalized media shift protest games, in the model, into the unique no-attack equilibrium of a global game. Redistribution is a dial, not an identity: countries with market Ginis of 0.505-0.512 sustain disposable Ginis from 0.273 to 0.395. We state seven testable predictions and six falsification conditions, and map which assumption each rival school must deny.",
-      "source": "",
-      "source_url": "https://arxiv.org/abs/2610.12477",
-      "query": "https://arxiv.org/rss/econ.GN",
-      "category": "liderazgo",
-      "lang": "en"
     },
     {
       "title": "Ahora puedes jugar uno de los mejores ‘Gran Turismo’ directamente desde tu móvil Android",
@@ -5267,17 +5278,6 @@
       "description": "Moonshot, la empresa detrás de Kimi, una de las IA chinas más capaces y populares, ha quedado envuelta en una polémica por el desarrollo de su tecnología. OpenAI ha publicado un reporte sobre una campaña de destilación de sus modelos de lenguaje cuya autoría correspondería en parte a individuos vinculados con la firma del gigante [&#8230;]\nSeguir leyendo: OpenAI dispara contra los creadores de Kimi por supuestamente copiar su IA",
       "source": "",
       "source_url": "https://hipertextual.com/inteligencia-artificial/openai-destilacion-kimi/",
-      "query": "https://hipertextual.com/feed",
-      "category": "habilidades",
-      "lang": "es"
-    },
-    {
-      "title": "Instagram lanza una IA que mejora tus vídeos y te ayuda a ganar más seguidores",
-      "link": "https://hipertextual.com/internet/asistente-ia-edits-instagram-videos/",
-      "pub_date": "2026-09-30T17:40:18+00:00",
-      "description": "La IA llegó desde hace un tiempo a las herramientas de edición de video y las redes sociales compiten por ver quién la integra mejor. Siguiendo los pasos de CapCut, Instagram anunció que su herramienta Edits integrará un asistente para mejorar el desempeño de tus Reels en la plataforma. Los usuarios solo tendrán que dictar [&#8230;]\nSeguir leyendo: Instagram lanza una IA que mejora tus vídeos y te ayuda a ganar más seguidores",
-      "source": "",
-      "source_url": "https://hipertextual.com/internet/asistente-ia-edits-instagram-videos/",
       "query": "https://hipertextual.com/feed",
       "category": "habilidades",
       "lang": "es"
